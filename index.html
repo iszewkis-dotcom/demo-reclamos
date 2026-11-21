@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ingresar reclamo · Banco Andino</title>
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <header class="encabezado">
+    <div class="contenedor encabezado__interior">
+      <a class="marca" href="index.html">
+        <span class="marca__logo">BA</span>
+        <span>Banco Andino <small>(ficticio)</small></span>
+      </a>
+      <nav class="navegacion">
+        <a href="index.html" class="activo">Ingresar reclamo</a>
+        <a href="backoffice.html">Backoffice</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="contenedor contenedor--angosto">
+    <h1>Ingresar un reclamo</h1>
+    <p class="subtitulo">Cuéntanos qué pasó y nuestro equipo te responderá a la brevedad.</p>
+
+    <form id="formulario-reclamo" class="tarjeta" novalidate>
+      <div class="campo">
+        <label for="nombre">Nombre completo</label>
+        <input type="text" id="nombre" name="nombre" placeholder="Ej: María González" required>
+        <span class="error" id="error-nombre"></span>
+      </div>
+
+      <div class="campo">
+        <label for="rut">RUT</label>
+        <input type="text" id="rut" name="rut" placeholder="Ej: 12.345.678-5" required>
+        <span class="error" id="error-rut"></span>
+      </div>
+
+      <div class="campo">
+        <label for="producto">Producto</label>
+        <select id="producto" name="producto" required>
+          <option value="">Selecciona un producto…</option>
+          <option value="Tarjeta de crédito">Tarjeta de crédito</option>
+          <option value="Cuenta corriente">Cuenta corriente</option>
+          <option value="Crédito de consumo">Crédito de consumo</option>
+        </select>
+        <span class="error" id="error-producto"></span>
+      </div>
+
+      <div class="campo">
+        <label for="descripcion">Descripción del reclamo</label>
+        <textarea id="descripcion" name="descripcion" rows="6"
+          placeholder="Describe con el mayor detalle posible lo que ocurrió…" required></textarea>
+        <span class="error" id="error-descripcion"></span>
+      </div>
+
+      <button type="submit" class="boton boton--primario">Enviar reclamo</button>
+    </form>
+
+    <div id="confirmacion" class="aviso aviso--exito" hidden></div>
+  </main>
+
+  <footer class="pie">Aplicación de demostración · Los datos se guardan solo en este navegador.</footer>
+
+  <!-- El orden importa: primero el almacenamiento y la lógica, después la página -->
+  <script src="js/almacenamiento.js"></script>
+  <script src="js/clasificador.js"></script>
+  <script src="js/formulario.js"></script>
+</body>
+</html>

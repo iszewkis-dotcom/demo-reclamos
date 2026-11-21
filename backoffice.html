@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Backoffice · Banco Andino</title>
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <header class="encabezado">
+    <div class="contenedor encabezado__interior">
+      <a class="marca" href="index.html">
+        <span class="marca__logo">BA</span>
+        <span>Banco Andino <small>(ficticio)</small></span>
+      </a>
+      <nav class="navegacion">
+        <a href="index.html">Ingresar reclamo</a>
+        <a href="backoffice.html" class="activo">Backoffice</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="contenedor">
+    <div class="titulo-con-acciones">
+      <div>
+        <h1>Backoffice de reclamos</h1>
+        <p class="subtitulo">Revisa la clasificación automática y aprueba la respuesta sugerida.</p>
+      </div>
+      <div class="acciones">
+        <button id="cargar-ejemplos" class="boton boton--secundario">Cargar ejemplos</button>
+        <button id="borrar-todo" class="boton boton--peligro">Borrar todo</button>
+      </div>
+    </div>
+
+    <section class="resumen" id="resumen"></section>
+
+    <div class="tarjeta tarjeta--tabla">
+      <table class="tabla">
+        <thead>
+          <tr>
+            <th>Fecha</th>
+            <th>Cliente</th>
+            <th>Producto</th>
+            <th>Descripción</th>
+            <th>Clasificación</th>
+            <th>Respuesta sugerida</th>
+            <th>Estado</th>
+          </tr>
+        </thead>
+        <tbody id="cuerpo-tabla"></tbody>
+      </table>
+      <p id="sin-reclamos" class="vacio" hidden>
+        Aún no hay reclamos. Ingresa uno desde <a href="index.html">el formulario</a> o pulsa “Cargar ejemplos”.
+      </p>
+    </div>
+  </main>
+
+  <footer class="pie">Aplicación de demostración · Los datos se guardan solo en este navegador.</footer>
+
+  <script src="js/almacenamiento.js"></script>
+  <script src="js/clasificador.js"></script>
+  <script src="js/backoffice.js"></script>
+</body>
+</html>
