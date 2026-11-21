@@ -1,0 +1,116 @@
+/*
+ * ESTILOS (presentación visual)
+ * Las variables de :root definen la paleta de colores en un solo lugar.
+ */
+:root {
+  --azul: #0b3d6e;
+  --azul-claro: #1f6fb5;
+  --fondo: #f4f6f9;
+  --blanco: #ffffff;
+  --texto: #1d2733;
+  --tenue: #6b7785;
+  --borde: #dde3ea;
+  --rojo: #c62828;
+  --rojo-fondo: #fdecea;
+  --ambar: #a15c00;
+  --ambar-fondo: #fff4e0;
+  --verde: #2e7d32;
+  --verde-fondo: #e8f5e9;
+  --radio: 10px;
+  --sombra: 0 1px 3px rgba(16, 24, 40, 0.08), 0 4px 12px rgba(16, 24, 40, 0.04);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--fondo);
+  color: var(--texto);
+  line-height: 1.5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main { flex: 1; padding-top: 32px; padding-bottom: 48px; }
+h1 { margin: 0 0 4px; font-size: 1.75rem; }
+a { color: var(--azul-claro); }
+
+.contenedor { width: 100%; max-width: 1280px; margin: 0 auto; padding-left: 16px; padding-right: 16px; }
+.contenedor--angosto { max-width: 680px; }
+.subtitulo { color: var(--tenue); margin: 0 0 24px; }
+.tenue { color: var(--tenue); font-size: 0.85rem; }
+
+/* Encabezado */
+.encabezado { background: var(--azul); color: var(--blanco); }
+.encabezado__interior { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding-top: 14px; padding-bottom: 14px; }
+.marca { display: flex; align-items: center; gap: 10px; color: var(--blanco); text-decoration: none; font-weight: 600; font-size: 1.1rem; }
+.marca small { font-weight: 400; opacity: 0.7; font-size: 0.8rem; }
+.marca__logo { display: grid; place-items: center; width: 36px; height: 36px; border-radius: 8px; background: var(--blanco); color: var(--azul); font-weight: 800; }
+.navegacion { display: flex; gap: 4px; }
+.navegacion a { color: rgba(255, 255, 255, 0.8); text-decoration: none; padding: 8px 14px; border-radius: 6px; font-size: 0.95rem; }
+.navegacion a:hover { background: rgba(255, 255, 255, 0.1); color: var(--blanco); }
+.navegacion a.activo { background: rgba(255, 255, 255, 0.18); color: var(--blanco); }
+
+/* Tarjetas */
+.tarjeta { background: var(--blanco); border: 1px solid var(--borde); border-radius: var(--radio); box-shadow: var(--sombra); padding: 28px; }
+.tarjeta--tabla { padding: 0; overflow-x: auto; }
+
+/* Formulario */
+.campo { margin-bottom: 20px; }
+.campo label { display: block; font-weight: 600; margin-bottom: 6px; font-size: 0.95rem; }
+input, select, textarea {
+  width: 100%; padding: 10px 12px; font: inherit; color: inherit;
+  border: 1px solid var(--borde); border-radius: 8px; background: var(--blanco);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+textarea { resize: vertical; }
+input:focus, select:focus, textarea:focus { outline: none; border-color: var(--azul-claro); box-shadow: 0 0 0 3px rgba(31, 111, 181, 0.15); }
+.invalido { border-color: var(--rojo); }
+.error { display: block; color: var(--rojo); font-size: 0.85rem; min-height: 1.2em; margin-top: 4px; }
+
+/* Botones */
+.boton { font: inherit; font-weight: 600; border: 1px solid transparent; border-radius: 8px; padding: 10px 18px; cursor: pointer; transition: background 0.15s; }
+.boton--primario { background: var(--azul-claro); color: var(--blanco); }
+.boton--primario:hover { background: var(--azul); }
+.boton--secundario { background: var(--blanco); color: var(--azul); border-color: var(--borde); }
+.boton--secundario:hover { background: var(--fondo); }
+.boton--peligro { background: var(--blanco); color: var(--rojo); border-color: var(--borde); }
+.boton--peligro:hover { background: var(--rojo-fondo); }
+.boton--chico { padding: 6px 12px; font-size: 0.85rem; }
+form .boton--primario { width: 100%; padding: 12px; }
+
+/* Avisos */
+.aviso { margin-top: 20px; padding: 14px 18px; border-radius: 8px; }
+.aviso--exito { background: var(--verde-fondo); color: var(--verde); border: 1px solid #c8e6c9; }
+
+/* Backoffice */
+.titulo-con-acciones { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; }
+.acciones { display: flex; gap: 8px; }
+.resumen { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin-bottom: 20px; }
+.indicador { background: var(--blanco); border: 1px solid var(--borde); border-radius: var(--radio); padding: 14px 18px; box-shadow: var(--sombra); }
+.indicador span { display: block; color: var(--tenue); font-size: 0.85rem; }
+.indicador strong { font-size: 1.6rem; }
+.indicador--alerta strong { color: var(--rojo); }
+.indicador--ok strong { color: var(--verde); }
+
+.tabla { width: 100%; border-collapse: collapse; font-size: 0.9rem; min-width: 1000px; }
+.tabla th { text-align: left; background: #f8fafc; color: var(--tenue); font-weight: 600; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; padding: 12px 14px; border-bottom: 1px solid var(--borde); }
+.tabla td { padding: 14px; border-bottom: 1px solid var(--borde); vertical-align: top; }
+.tabla tr:last-child td { border-bottom: none; }
+.fila--aprobada { background: #fafcfa; }
+.fila--aprobada td { color: var(--tenue); }
+.nowrap { white-space: nowrap; }
+.texto-largo { max-width: 280px; }
+.respuesta { font-size: 0.85rem; }
+
+.etiqueta { display: inline-block; background: #e8f0fa; color: var(--azul); border-radius: 999px; padding: 2px 10px; font-size: 0.8rem; font-weight: 600; margin-bottom: 6px; }
+.urgencia { display: inline-block; border-radius: 999px; padding: 2px 10px; font-size: 0.78rem; font-weight: 600; }
+.urgencia--alta { background: var(--rojo-fondo); color: var(--rojo); }
+.urgencia--media { background: var(--ambar-fondo); color: var(--ambar); }
+.urgencia--baja { background: var(--verde-fondo); color: var(--verde); }
+.estado-aprobado { color: var(--verde); font-weight: 600; white-space: nowrap; }
+.vacio { text-align: center; color: var(--tenue); padding: 40px 16px; margin: 0; }
+
+.pie { text-align: center; color: var(--tenue); font-size: 0.85rem; padding: 20px 16px; border-top: 1px solid var(--borde); }
