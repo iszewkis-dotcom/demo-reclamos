@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Al Paso</title>
+  <meta name="description" content="Dashboard de ventas de la cadena ficticia de tiendas de conveniencia Al Paso, octubre 2026.">
+  <link rel="stylesheet" href="dashboard/estilos.css">
+</head>
+<body>
+  <header class="encabezado">
+    <div class="contenedor encabezado__interior">
+      <div class="marca">
+        <span class="marca__logo" aria-hidden="true">AP</span>
+        <div>
+          <div class="marca__nombre">Tiendas Al Paso</div>
+          <div class="marca__sub">Dashboard de ventas · <span id="periodo">Octubre 2026</span> · datos ficticios</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="contenedor">
+    <!-- FILTROS: afectan a todo lo que está debajo -->
+    <section class="filtros" aria-label="Filtros">
+      <label class="filtro">
+        <span>Segmento</span>
+        <select id="f-segmento"><option value="">Todos</option></select>
+      </label>
+      <label class="filtro">
+        <span>Tienda</span>
+        <select id="f-tienda"><option value="">Todas</option></select>
+      </label>
+      <label class="filtro">
+        <span>Categoría</span>
+        <select id="f-categoria"><option value="">Todas</option></select>
+      </label>
+      <button id="f-limpiar" class="boton-texto" type="button">Limpiar filtros</button>
+    </section>
+
+    <!-- INDICADORES PRINCIPALES (KPI) -->
+    <section class="kpis" aria-label="Indicadores principales">
+      <div class="kpi kpi--heroe">
+        <div class="kpi__etiqueta">Venta total</div>
+        <div class="kpi__valor" id="k-venta">–</div>
+        <div class="kpi__nota" id="k-venta-nota"></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi__etiqueta">Transacciones</div>
+        <div class="kpi__valor" id="k-tx">–</div>
+        <div class="kpi__nota" id="k-tx-nota"></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi__etiqueta" id="k-ticket-etiqueta">Ticket promedio</div>
+        <div class="kpi__valor" id="k-ticket">–</div>
+        <div class="kpi__nota" id="k-ticket-nota"></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi__etiqueta">Margen bruto</div>
+        <div class="kpi__valor" id="k-margen">–</div>
+        <div class="kpi__nota" id="k-margen-nota"></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi__etiqueta">Unidades vendidas</div>
+        <div class="kpi__valor" id="k-unidades">–</div>
+        <div class="kpi__nota" id="k-unidades-nota"></div>
+      </div>
+    </section>
+
+    <!-- PESTAÑAS: los dos dashboards -->
+    <nav class="pestanas" role="tablist">
+      <button role="tab" class="pestana" aria-selected="true" data-tab="ventas">Ventas y tiendas</button>
+      <button role="tab" class="pestana" aria-selected="false" data-tab="categorias">Categorías y productos</button>
+    </nav>
+
+    <!-- DASHBOARD 1 -->
+    <section class="panel" id="tab-ventas" role="tabpanel">
+      <article class="tarjeta tarjeta--ancha">
+        <header class="tarjeta__cabeza">
+          <h2>Venta diaria</h2>
+          <p>Total vendido cada día del mes</p>
+        </header>
+        <div class="leyenda" id="l-diaria"></div>
+        <div class="grafico"><canvas id="g-diaria" aria-label="Gráfico de venta diaria"></canvas></div>
+        <details class="ver-datos"><summary>Ver datos en tabla</summary><div id="t-diaria"></div></details>
+      </article>
+
+      <article class="tarjeta">
+        <header class="tarjeta__cabeza">
+          <h2>Venta según día de la semana</h2>
+          <p>Promedio diario por tienda, por segmento</p>
+        </header>
+        <div class="leyenda" id="l-semana"></div>
+        <div class="grafico"><canvas id="g-semana" aria-label="Gráfico de venta por día de la semana"></canvas></div>
+        <details class="ver-datos"><summary>Ver datos en tabla</summary><div id="t-semana"></div></details>
+      </article>
+
+      <article class="tarjeta">
+        <header class="tarjeta__cabeza">
+          <h2>Transacciones por hora</h2>
+          <p>Promedio diario por tienda, por segmento</p>
+        </header>
+        <div class="leyenda" id="l-horas"></div>
+        <div class="grafico"><canvas id="g-horas" aria-label="Gráfico de transacciones por hora"></canvas></div>
+        <details class="ver-datos"><summary>Ver datos en tabla</summary><div id="t-horas"></div></details>
+      </article>
+
+      <article class="tarjeta">
+        <header class="tarjeta__cabeza">
+          <h2>Ranking de tiendas</h2>
+          <p>Venta total del mes</p>
+        </header>
+        <div class="leyenda" id="l-ranking"></div>
+        <div class="grafico" id="c-ranking"><canvas id="g-ranking" aria-label="Ranking de tiendas por venta"></canvas></div>
+        <details class="ver-datos"><summary>Ver datos en tabla</summary><div id="t-ranking"></div></details>
+      </article>
+
+      <article class="tarjeta">
+        <header class="tarjeta__cabeza">
+          <h2>Medios de pago</h2>
+          <p>% de las transacciones</p>
+        </header>
+        <div class="grafico grafico--bajo"><canvas id="g-pagos" aria-label="Gráfico de medios de pago"></canvas></div>
+        <details class="ver-datos"><summary>Ver datos en tabla</summary><div id="t-pagos"></div></details>
+      </article>
+    </section>
+
+    <!-- DASHBOARD 2 -->
+    <section class="panel" id="tab-categorias" role="tabpanel" hidden>
+      <article class="tarjeta tarjeta--ancha">
+        <header class="tarjeta__cabeza">
+          <h2>Mezcla de categorías por segmento</h2>
+          <p>% de la venta de cada segmento · este gráfico no usa el filtro de categoría</p>
+        </header>
+        <div class="leyenda" id="l-mix"></div>
+        <div class="grafico" id="c-mix"><canvas id="g-mix" aria-label="Mezcla de categorías por segmento"></canvas></div>
+        <details class="ver-datos"><summary>Ver datos en tabla</summary><div id="t-mix"></div></details>
+      </article>
+
+      <article class="tarjeta">
+        <header class="tarjeta__cabeza">
+          <h2>Venta y margen por categoría</h2>
+          <p>Total del mes · el % es el margen sobre la venta</p>
+        </header>
+        <div class="leyenda" id="l-margen"></div>
+        <div class="grafico"><canvas id="g-margen" aria-label="Venta y margen por categoría"></canvas></div>
+        <details class="ver-datos"><summary>Ver datos en tabla</summary><div id="t-margen"></div></details>
+      </article>
+
+      <article class="tarjeta">
+        <header class="tarjeta__cabeza">
+          <h2>Venta por hora y categoría</h2>
+          <p>Promedio por día</p>
+        </header>
+        <div class="leyenda" id="l-hora-cat"></div>
+        <div class="grafico"><canvas id="g-hora-cat" aria-label="Venta por hora y categoría"></canvas></div>
+        <details class="ver-datos"><summary>Ver datos en tabla</summary><div id="t-hora-cat"></div></details>
+      </article>
+
+      <article class="tarjeta tarjeta--ancha">
+        <header class="tarjeta__cabeza">
+          <h2>Top 10 productos</h2>
+          <p>Los más vendidos en pesos según los filtros</p>
+        </header>
+        <div id="t-top" class="top"></div>
+      </article>
+    </section>
+
+    <p class="pie">
+      Datos ficticios generados para practicar ·
+      <a href="https://github.com/iszewkis-dotcom/demo-reclamos/tree/main/tiendas-conveniencia">Ver datos y supuestos</a>
+    </p>
+  </main>
+
+  <!-- Chart.js: librería que dibuja los gráficos -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="dashboard/dashboard.js"></script>
+</body>
+</html>
