@@ -1,0 +1,21 @@
+﻿id_tienda,nombre,segmento,comuna,horario,metros_cuadrados,region,fecha_apertura
+T01,Al Paso Ruta 5 Sur km 40,Carretera,Paine,24 horas,180,Metropolitana,2022-08-01
+T02,Al Paso Ruta 68 km 25,Carretera,Curacaví,24 horas,160,Metropolitana,2014-03-01
+T03,Al Paso Ruta 5 Norte km 55,Carretera,Tiltil,24 horas,150,Metropolitana,2012-04-01
+T04,Al Paso Ruta 78 km 30,Carretera,Talagante,24 horas,140,Metropolitana,2019-12-01
+T05,Al Paso Ruta 57 km 18,Carretera,Colina,24 horas,170,Metropolitana,2016-07-01
+T06,Al Paso Pajaritos,Residencial,Maipú,07:00-23:00,120,Metropolitana,2017-11-01
+T07,Al Paso Vicuña Mackenna,Residencial,La Florida,07:00-23:00,130,Metropolitana,2012-12-01
+T08,Al Paso Plaza Puente Alto,Residencial,Puente Alto,07:00-23:00,110,Metropolitana,2016-08-01
+T09,Al Paso Irarrázaval,Residencial,Ñuñoa,07:00-23:00,100,Metropolitana,2020-01-01
+T10,Al Paso Grecia,Residencial,Peñalolén,07:00-23:00,105,Metropolitana,2016-06-01
+T11,Al Paso Larraín,Residencial,La Reina,07:00-23:00,95,Metropolitana,2022-05-01
+T12,Al Paso Gran Avenida,Residencial,San Miguel,07:00-23:00,115,Metropolitana,2021-11-01
+T13,Al Paso Quilicura Centro,Residencial,Quilicura,07:00-23:00,110,Metropolitana,2020-10-01
+T14,Al Paso Costanera,Comercial,Providencia,07:00-23:00,90,Metropolitana,2023-04-01
+T15,Al Paso El Golf,Comercial,Las Condes,07:00-23:00,85,Metropolitana,2021-01-01
+T16,Al Paso Ahumada,Comercial,Santiago,07:00-23:00,80,Metropolitana,2014-03-01
+T17,Al Paso Alameda,Comercial,Santiago,07:00-23:00,95,Metropolitana,2022-09-01
+T18,Al Paso Nueva Costanera,Comercial,Vitacura,07:00-23:00,90,Metropolitana,2020-02-01
+T19,Al Paso Apoquindo,Comercial,Las Condes,07:00-23:00,100,Metropolitana,2013-03-01
+T20,Al Paso Ciudad Empresarial,Comercial,Huechuraba,07:00-23:00,110,Metropolitana,2015-09-01

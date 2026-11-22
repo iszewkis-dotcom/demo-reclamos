@@ -1,0 +1,1501 @@
+﻿sku,categoria,subcategoria,nombre,marca,precio_venta,costo_unitario
+TAB-0001,Tabaco,Cigarrillos,Cigarrillos Andes Rojo 20u,Al Paso,6290,5619
+TAB-0002,Tabaco,Cigarrillos,Cigarrillos Andes Azul 20u,Al Paso,5890,5256
+TAB-0003,Tabaco,Cigarrillos,Cigarrillos Andes Gris 20u,Al Paso,6290,5689
+TAB-0004,Tabaco,Cigarrillos,Cigarrillos Andes Mentol 20u,Al Paso,6390,5803
+TAB-0005,Tabaco,Cigarrillos,Cigarrillos Andes Rojo 10u,Al Paso,3390,3121
+TAB-0006,Tabaco,Cigarrillos,Cigarrillos Andes Azul 10u,Al Paso,3290,2953
+TAB-0007,Tabaco,Cigarrillos,Cigarrillos Andes Gris 10u,Al Paso,3090,2798
+TAB-0008,Tabaco,Cigarrillos,Cigarrillos Andes Mentol 10u,Al Paso,3290,2959
+TAB-0009,Tabaco,Cigarrillos,Cigarrillos Cordillera Rojo 20u,Al Paso,5590,5063
+TAB-0010,Tabaco,Cigarrillos,Cigarrillos Cordillera Azul 20u,Al Paso,6090,5511
+TAB-0011,Tabaco,Cigarrillos,Cigarrillos Cordillera Gris 20u,Al Paso,5790,5233
+TAB-0012,Tabaco,Cigarrillos,Cigarrillos Cordillera Mentol 20u,Al Paso,5990,5411
+TAB-0013,Tabaco,Cigarrillos,Cigarrillos Cordillera Rojo 10u,Al Paso,2990,2747
+TAB-0014,Tabaco,Cigarrillos,Cigarrillos Cordillera Azul 10u,Al Paso,2990,2771
+TAB-0015,Tabaco,Cigarrillos,Cigarrillos Cordillera Gris 10u,Al Paso,3090,2845
+TAB-0016,Tabaco,Cigarrillos,Cigarrillos Cordillera Mentol 10u,Al Paso,3290,2973
+TAB-0017,Tabaco,Cigarrillos,Cigarrillos Pacífico Rojo 20u,Al Paso,6490,5944
+TAB-0018,Tabaco,Cigarrillos,Cigarrillos Pacífico Azul 20u,Al Paso,6190,5679
+TAB-0019,Tabaco,Cigarrillos,Cigarrillos Pacífico Gris 20u,Al Paso,6090,5502
+TAB-0020,Tabaco,Cigarrillos,Cigarrillos Pacífico Mentol 20u,Al Paso,6690,6095
+TAB-0021,Tabaco,Cigarrillos,Cigarrillos Pacífico Rojo 10u,Al Paso,3390,3023
+TAB-0022,Tabaco,Cigarrillos,Cigarrillos Pacífico Azul 10u,Al Paso,3390,3052
+TAB-0023,Tabaco,Cigarrillos,Cigarrillos Pacífico Gris 10u,Al Paso,3490,3216
+TAB-0024,Tabaco,Cigarrillos,Cigarrillos Pacífico Mentol 10u,Al Paso,3490,3146
+TAB-0025,Tabaco,Cigarrillos,Cigarrillos Volcán Rojo 20u,Al Paso,5890,5397
+TAB-0026,Tabaco,Cigarrillos,Cigarrillos Volcán Azul 20u,Al Paso,5790,5245
+TAB-0027,Tabaco,Cigarrillos,Cigarrillos Volcán Gris 20u,Al Paso,5590,5176
+TAB-0028,Tabaco,Cigarrillos,Cigarrillos Volcán Mentol 20u,Al Paso,5790,5162
+TAB-0029,Tabaco,Cigarrillos,Cigarrillos Volcán Rojo 10u,Al Paso,2890,2675
+TAB-0030,Tabaco,Cigarrillos,Cigarrillos Volcán Azul 10u,Al Paso,2990,2769
+TAB-0031,Tabaco,Cigarrillos,Cigarrillos Volcán Gris 10u,Al Paso,2990,2671
+TAB-0032,Tabaco,Cigarrillos,Cigarrillos Volcán Mentol 10u,Al Paso,3090,2801
+TAB-0033,Tabaco,Cigarrillos,Cigarrillos Austral Rojo 20u,Al Paso,5790,5230
+TAB-0034,Tabaco,Cigarrillos,Cigarrillos Austral Azul 20u,Al Paso,5790,5202
+TAB-0035,Tabaco,Cigarrillos,Cigarrillos Austral Gris 20u,Al Paso,5990,5527
+TAB-0036,Tabaco,Cigarrillos,Cigarrillos Austral Mentol 20u,Al Paso,6290,5710
+TAB-0037,Tabaco,Cigarrillos,Cigarrillos Austral Rojo 10u,Al Paso,3190,2936
+TAB-0038,Tabaco,Cigarrillos,Cigarrillos Austral Azul 10u,Al Paso,3290,3012
+TAB-0039,Tabaco,Cigarrillos,Cigarrillos Austral Gris 10u,Al Paso,2990,2665
+TAB-0040,Tabaco,Cigarrillos,Cigarrillos Austral Mentol 10u,Al Paso,3090,2859
+TAB-0041,Tabaco,Cigarrillos,Cigarrillos Litoral Rojo 20u,Al Paso,5790,5337
+TAB-0042,Tabaco,Cigarrillos,Cigarrillos Litoral Azul 20u,Al Paso,5690,5163
+TAB-0043,Tabaco,Cigarrillos,Cigarrillos Litoral Gris 20u,Al Paso,6090,5436
+TAB-0044,Tabaco,Cigarrillos,Cigarrillos Litoral Mentol 20u,Al Paso,5690,5097
+TAB-0045,Tabaco,Cigarrillos,Cigarrillos Litoral Rojo 10u,Al Paso,2990,2684
+TAB-0046,Tabaco,Cigarrillos,Cigarrillos Litoral Azul 10u,Al Paso,2990,2695
+TAB-0047,Tabaco,Cigarrillos,Cigarrillos Litoral Gris 10u,Al Paso,3090,2769
+TAB-0048,Tabaco,Cigarrillos,Cigarrillos Litoral Mentol 10u,Al Paso,3290,3023
+TAB-0049,Tabaco,Tabaco para armar,Tabaco armar Andes 30g,Al Paso,4590,4133
+TAB-0050,Tabaco,Tabaco para armar,Tabaco armar Andes 50g,Al Paso,6890,6225
+TAB-0051,Tabaco,Tabaco para armar,Tabaco armar Pampa 30g,Al Paso,4190,3870
+TAB-0052,Tabaco,Tabaco para armar,Tabaco armar Pampa 50g,Al Paso,6890,6280
+TAB-0053,Tabaco,Tabaco para armar,Tabaco armar Puerto 30g,Al Paso,4690,4241
+TAB-0054,Tabaco,Tabaco para armar,Tabaco armar Puerto 50g,Al Paso,7490,6695
+TAB-0055,Tabaco,Tabaco para armar,Tabaco armar Sur 30g,Al Paso,4290,3940
+TAB-0056,Tabaco,Tabaco para armar,Tabaco armar Sur 50g,Al Paso,6890,6194
+TAB-0057,Tabaco,Accesorios,Encendedor,Al Paso,690,636
+TAB-0058,Tabaco,Accesorios,Papelillos,Al Paso,590,530
+TAB-0059,Tabaco,Accesorios,Filtros,Al Paso,890,825
+TAB-0060,Tabaco,Accesorios,Encendedor recargable,Al Paso,2390,2137
+CAF-0001,Café,Café caliente,Americano Chico,Al Paso,1390,489
+CAF-0002,Café,Café caliente,Americano Mediano,Al Paso,1790,645
+CAF-0003,Café,Café caliente,Americano Grande,Al Paso,1990,537
+CAF-0004,Café,Café caliente,Espresso Chico,Al Paso,1290,376
+CAF-0005,Café,Café caliente,Espresso Mediano,Al Paso,1490,399
+CAF-0006,Café,Café caliente,Espresso Grande,Al Paso,1890,592
+CAF-0007,Café,Café caliente,Cortado Chico,Al Paso,1590,508
+CAF-0008,Café,Café caliente,Cortado Mediano,Al Paso,1790,511
+CAF-0009,Café,Café caliente,Cortado Grande,Al Paso,2190,780
+CAF-0010,Café,Café caliente,Cappuccino Chico,Al Paso,1890,714
+CAF-0011,Café,Café caliente,Cappuccino Mediano,Al Paso,2290,721
+CAF-0012,Café,Café caliente,Cappuccino Grande,Al Paso,2490,666
+CAF-0013,Café,Café caliente,Latte Chico,Al Paso,1990,580
+CAF-0014,Café,Café caliente,Latte Mediano,Al Paso,2190,677
+CAF-0015,Café,Café caliente,Latte Grande,Al Paso,2490,914
+CAF-0016,Café,Café caliente,Mocaccino Chico,Al Paso,2090,691
+CAF-0017,Café,Café caliente,Mocaccino Mediano,Al Paso,2590,931
+CAF-0018,Café,Café caliente,Mocaccino Grande,Al Paso,2890,856
+CAF-0019,Café,Café caliente,Latte Vainilla Chico,Al Paso,2190,601
+CAF-0020,Café,Café caliente,Latte Vainilla Mediano,Al Paso,2590,679
+CAF-0021,Café,Café caliente,Latte Vainilla Grande,Al Paso,2990,858
+CAF-0022,Café,Café caliente,Latte Caramelo Chico,Al Paso,2090,706
+CAF-0023,Café,Café caliente,Latte Caramelo Mediano,Al Paso,2590,850
+CAF-0024,Café,Café caliente,Latte Caramelo Grande,Al Paso,3090,990
+CAF-0025,Café,Café caliente,Chocolate caliente Chico,Al Paso,1690,616
+CAF-0026,Café,Café caliente,Chocolate caliente Mediano,Al Paso,2090,617
+CAF-0027,Café,Café caliente,Chocolate caliente Grande,Al Paso,2590,880
+CAF-0028,Café,Café caliente,Té Chico,Al Paso,990,313
+CAF-0029,Café,Café caliente,Té Mediano,Al Paso,1190,406
+CAF-0030,Café,Café caliente,Té Grande,Al Paso,1390,463
+CAF-0031,Café,Bebida fría,Frappé Café Mediano,Al Paso,2890,1081
+CAF-0032,Café,Bebida fría,Frappé Café Grande,Al Paso,3390,946
+CAF-0033,Café,Bebida fría,Frappé Mocca Mediano,Al Paso,3090,846
+CAF-0034,Café,Bebida fría,Frappé Mocca Grande,Al Paso,3890,1388
+CAF-0035,Café,Bebida fría,Café Helado Mediano,Al Paso,2490,789
+CAF-0036,Café,Bebida fría,Café Helado Grande,Al Paso,2890,1069
+CAF-0037,Café,Bebida fría,Chai Latte Mediano,Al Paso,2690,755
+CAF-0038,Café,Bebida fría,Chai Latte Grande,Al Paso,3090,912
+CAF-0039,Café,Bebida fría,Matcha Latte Mediano,Al Paso,2890,839
+CAF-0040,Café,Bebida fría,Matcha Latte Grande,Al Paso,3390,1095
+COM-0001,Comida,Sándwiches,Sándwich Ave Palta Pan marraqueta,Al Paso,3190,1470
+COM-0002,Comida,Sándwiches,Sándwich Ave Palta Pan integral,Al Paso,3490,1647
+COM-0003,Comida,Sándwiches,Sándwich Ave Palta Pan ciabatta,Al Paso,3490,1585
+COM-0004,Comida,Sándwiches,Sándwich Ave Palta Pan baguette,Al Paso,3690,2183
+COM-0005,Comida,Sándwiches,Sándwich Ave Palta Pan hallulla,Al Paso,3090,1857
+COM-0006,Comida,Sándwiches,Sándwich Ave Palta Pan amasado,Al Paso,3390,1759
+COM-0007,Comida,Sándwiches,Sándwich Ave Mayo Pan marraqueta,Al Paso,2890,1376
+COM-0008,Comida,Sándwiches,Sándwich Ave Mayo Pan integral,Al Paso,3090,1868
+COM-0009,Comida,Sándwiches,Sándwich Ave Mayo Pan ciabatta,Al Paso,3290,1737
+COM-0010,Comida,Sándwiches,Sándwich Ave Mayo Pan baguette,Al Paso,3090,1733
+COM-0011,Comida,Sándwiches,Sándwich Ave Mayo Pan hallulla,Al Paso,2790,1322
+COM-0012,Comida,Sándwiches,Sándwich Ave Mayo Pan amasado,Al Paso,2990,1802
+COM-0013,Comida,Sándwiches,Sándwich Jamón Queso Pan frica,Al Paso,2490,1187
+COM-0014,Comida,Sándwiches,Sándwich Jamón Queso Pan marraqueta,Al Paso,2490,1182
+COM-0015,Comida,Sándwiches,Sándwich Jamón Queso Pan integral,Al Paso,2690,1566
+COM-0016,Comida,Sándwiches,Sándwich Jamón Queso Pan ciabatta,Al Paso,2790,1485
+COM-0017,Comida,Sándwiches,Sándwich Jamón Queso Pan baguette,Al Paso,2890,1617
+COM-0018,Comida,Sándwiches,Sándwich Jamón Queso Pan hallulla,Al Paso,2290,1128
+COM-0019,Comida,Sándwiches,Sándwich Jamón Queso Pan amasado,Al Paso,2490,1339
+COM-0020,Comida,Sándwiches,Barros Luco Pan frica,Al Paso,4090,2067
+COM-0021,Comida,Sándwiches,Barros Luco Pan marraqueta,Al Paso,3990,1840
+COM-0022,Comida,Sándwiches,Barros Luco Pan integral,Al Paso,4190,1918
+COM-0023,Comida,Sándwiches,Barros Luco Pan ciabatta,Al Paso,4290,2231
+COM-0024,Comida,Sándwiches,Barros Luco Pan baguette,Al Paso,4190,2433
+COM-0025,Comida,Sándwiches,Barros Luco Pan hallulla,Al Paso,3690,2251
+COM-0026,Comida,Sándwiches,Barros Luco Pan amasado,Al Paso,3790,1893
+COM-0027,Comida,Sándwiches,Churrasco Italiano Pan frica,Al Paso,4590,2824
+COM-0028,Comida,Sándwiches,Churrasco Italiano Pan marraqueta,Al Paso,4290,2209
+COM-0029,Comida,Sándwiches,Churrasco Italiano Pan integral,Al Paso,4690,2438
+COM-0030,Comida,Sándwiches,Churrasco Italiano Pan ciabatta,Al Paso,4790,2267
+COM-0031,Comida,Sándwiches,Churrasco Italiano Pan baguette,Al Paso,4790,2665
+COM-0032,Comida,Sándwiches,Churrasco Italiano Pan hallulla,Al Paso,4290,2227
+COM-0033,Comida,Sándwiches,Churrasco Italiano Pan amasado,Al Paso,4690,2741
+COM-0034,Comida,Sándwiches,Sándwich Vegetariano Pan frica,Al Paso,3090,1839
+COM-0035,Comida,Sándwiches,Sándwich Vegetariano Pan marraqueta,Al Paso,3290,1826
+COM-0036,Comida,Sándwiches,Sándwich Vegetariano Pan integral,Al Paso,3490,2124
+COM-0037,Comida,Sándwiches,Sándwich Vegetariano Pan ciabatta,Al Paso,3490,1715
+COM-0038,Comida,Sándwiches,Sándwich Vegetariano Pan baguette,Al Paso,3490,1923
+COM-0039,Comida,Sándwiches,Sándwich Vegetariano Pan hallulla,Al Paso,3090,1648
+COM-0040,Comida,Sándwiches,Sándwich Vegetariano Pan amasado,Al Paso,3290,1906
+COM-0041,Comida,Sándwiches,Sándwich Mechada Pan frica,Al Paso,4190,2146
+COM-0042,Comida,Sándwiches,Sándwich Mechada Pan marraqueta,Al Paso,4390,2652
+COM-0043,Comida,Sándwiches,Sándwich Mechada Pan integral,Al Paso,4490,2262
+COM-0044,Comida,Sándwiches,Sándwich Mechada Pan ciabatta,Al Paso,4790,2474
+COM-0045,Comida,Sándwiches,Sándwich Mechada Pan hallulla,Al Paso,3990,1934
+COM-0046,Comida,Sándwiches,Sándwich Mechada Pan amasado,Al Paso,4090,2497
+COM-0047,Comida,Sándwiches,Lomito Italiano Pan frica,Al Paso,4390,2116
+COM-0048,Comida,Sándwiches,Lomito Italiano Pan marraqueta,Al Paso,4390,2388
+COM-0049,Comida,Sándwiches,Lomito Italiano Pan integral,Al Paso,4590,2289
+COM-0050,Comida,Sándwiches,Lomito Italiano Pan ciabatta,Al Paso,4590,2248
+COM-0051,Comida,Sándwiches,Lomito Italiano Pan baguette,Al Paso,4890,2739
+COM-0052,Comida,Sándwiches,Lomito Italiano Pan hallulla,Al Paso,3990,2078
+COM-0053,Comida,Sándwiches,Lomito Italiano Pan amasado,Al Paso,4490,2319
+COM-0054,Comida,Sándwiches,Sándwich Atún Pan frica,Al Paso,3090,1431
+COM-0055,Comida,Sándwiches,Sándwich Atún Pan marraqueta,Al Paso,3090,1544
+COM-0056,Comida,Sándwiches,Sándwich Atún Pan integral,Al Paso,2990,1680
+COM-0057,Comida,Sándwiches,Sándwich Atún Pan ciabatta,Al Paso,3390,1871
+COM-0058,Comida,Sándwiches,Sándwich Atún Pan baguette,Al Paso,3190,1944
+COM-0059,Comida,Sándwiches,Sándwich Atún Pan hallulla,Al Paso,2790,1456
+COM-0060,Comida,Sándwiches,Sándwich Atún Pan amasado,Al Paso,3090,1710
+COM-0061,Comida,Sándwiches,Sándwich Pollo Pesto Pan frica,Al Paso,3590,2147
+COM-0062,Comida,Sándwiches,Sándwich Pollo Pesto Pan marraqueta,Al Paso,3590,1660
+COM-0063,Comida,Sándwiches,Sándwich Pollo Pesto Pan integral,Al Paso,3690,2003
+COM-0064,Comida,Sándwiches,Sándwich Pollo Pesto Pan ciabatta,Al Paso,3990,2319
+COM-0065,Comida,Sándwiches,Sándwich Pollo Pesto Pan baguette,Al Paso,3990,1851
+COM-0066,Comida,Sándwiches,Sándwich Pollo Pesto Pan hallulla,Al Paso,3490,1635
+COM-0067,Comida,Sándwiches,Sándwich Pollo Pesto Pan amasado,Al Paso,3490,1759
+COM-0068,Comida,Hot dogs,Completo Italiano Normal,Al Paso,2190,1245
+COM-0069,Comida,Hot dogs,Completo Italiano XL,Al Paso,3090,1903
+COM-0070,Comida,Hot dogs,Completo Italiano Doble,Al Paso,3590,1659
+COM-0071,Comida,Hot dogs,Completo Italiano Combo bebida,Al Paso,3290,1884
+COM-0072,Comida,Hot dogs,Completo Clásico Normal,Al Paso,2090,1007
+COM-0073,Comida,Hot dogs,Completo Clásico XL,Al Paso,2790,1459
+COM-0074,Comida,Hot dogs,Completo Clásico Doble,Al Paso,3390,2096
+COM-0075,Comida,Hot dogs,Completo Clásico Combo bebida,Al Paso,2890,1608
+COM-0076,Comida,Hot dogs,Completo Dinámico XL,Al Paso,3090,1871
+COM-0077,Comida,Hot dogs,Completo Dinámico Doble,Al Paso,3990,2138
+COM-0078,Comida,Hot dogs,Completo Tomate Mayo XL,Al Paso,2590,1347
+COM-0079,Comida,Hot dogs,Completo Tomate Mayo Doble,Al Paso,3190,1546
+COM-0080,Comida,Hot dogs,Completo Tomate Mayo Combo bebida,Al Paso,2890,1576
+COM-0081,Comida,Hot dogs,Vienesa Sola Normal,Al Paso,1290,598
+COM-0082,Comida,Hot dogs,Vienesa Sola XL,Al Paso,1690,873
+COM-0083,Comida,Hot dogs,Vienesa Sola Doble,Al Paso,2290,1253
+COM-0084,Comida,Hot dogs,Vienesa Sola Combo bebida,Al Paso,1890,902
+COM-0085,Comida,Hot dogs,As Italiano Normal,Al Paso,3590,1898
+COM-0086,Comida,Hot dogs,As Italiano XL,Al Paso,4790,2392
+COM-0087,Comida,Hot dogs,As Italiano Doble,Al Paso,5890,3631
+COM-0088,Comida,Hot dogs,As Italiano Combo bebida,Al Paso,5290,2859
+COM-0089,Comida,Empanadas,Empanada Pino Horno,Al Paso,2290,1322
+COM-0090,Comida,Empanadas,Empanada Pino Frita,Al Paso,2190,1143
+COM-0091,Comida,Empanadas,Empanada Pino Cóctel x6,Al Paso,2990,1660
+COM-0092,Comida,Empanadas,Empanada Pino Cóctel x12,Al Paso,5090,2307
+COM-0093,Comida,Empanadas,Empanada Queso Frita,Al Paso,1690,784
+COM-0094,Comida,Empanadas,Empanada Queso Cóctel x6,Al Paso,2390,1276
+COM-0095,Comida,Empanadas,Empanada Queso Cóctel x12,Al Paso,4490,2277
+COM-0096,Comida,Empanadas,Empanada Napolitana Horno,Al Paso,2190,1322
+COM-0097,Comida,Empanadas,Empanada Napolitana Frita,Al Paso,2190,1116
+COM-0098,Comida,Empanadas,Empanada Napolitana Cóctel x6,Al Paso,2990,1348
+COM-0099,Comida,Empanadas,Empanada Napolitana Cóctel x12,Al Paso,5190,2507
+COM-0100,Comida,Empanadas,Empanada Pollo Horno,Al Paso,2390,1190
+COM-0101,Comida,Empanadas,Empanada Pollo Frita,Al Paso,2190,1162
+COM-0102,Comida,Empanadas,Empanada Pollo Cóctel x6,Al Paso,2990,1529
+COM-0103,Comida,Empanadas,Empanada Pollo Cóctel x12,Al Paso,5390,3341
+COM-0104,Comida,Empanadas,Empanada Camarón Queso Horno,Al Paso,2690,1477
+COM-0105,Comida,Empanadas,Empanada Camarón Queso Frita,Al Paso,2590,1309
+COM-0106,Comida,Empanadas,Empanada Camarón Queso Cóctel x6,Al Paso,3790,2179
+COM-0107,Comida,Empanadas,Empanada Camarón Queso Cóctel x12,Al Paso,6590,3670
+COM-0108,Comida,Empanadas,Empanada Champiñón Queso Horno,Al Paso,2390,1446
+COM-0109,Comida,Empanadas,Empanada Champiñón Queso Frita,Al Paso,2190,1164
+COM-0110,Comida,Empanadas,Empanada Champiñón Queso Cóctel x12,Al Paso,5490,3293
+COM-0111,Comida,Pizza y wraps,Pizza Pepperoni Porción,Al Paso,2490,1178
+COM-0112,Comida,Pizza y wraps,Pizza Pepperoni Individual,Al Paso,4090,2424
+COM-0113,Comida,Pizza y wraps,Pizza Pepperoni Combo bebida,Al Paso,3590,2085
+COM-0114,Comida,Pizza y wraps,Pizza Napolitana Porción,Al Paso,2190,1326
+COM-0115,Comida,Pizza y wraps,Pizza Napolitana Individual,Al Paso,3790,1808
+COM-0116,Comida,Pizza y wraps,Pizza Napolitana Combo bebida,Al Paso,3290,1618
+COM-0117,Comida,Pizza y wraps,Pizza Hawaiana Porción,Al Paso,2590,1197
+COM-0118,Comida,Pizza y wraps,Pizza Hawaiana Individual,Al Paso,3990,2045
+COM-0119,Comida,Pizza y wraps,Pizza Hawaiana Combo bebida,Al Paso,3690,1965
+COM-0120,Comida,Pizza y wraps,Pizza Vegetariana Porción,Al Paso,2290,1054
+COM-0121,Comida,Pizza y wraps,Pizza Vegetariana Individual,Al Paso,3690,1922
+COM-0122,Comida,Pizza y wraps,Pizza Vegetariana Combo bebida,Al Paso,3490,1722
+COM-0123,Comida,Pizza y wraps,Wrap Pollo César Porción,Al Paso,3190,1714
+COM-0124,Comida,Pizza y wraps,Wrap Pollo César Individual,Al Paso,4990,2616
+COM-0125,Comida,Pizza y wraps,Wrap Pollo César Combo bebida,Al Paso,4590,2408
+COM-0126,Comida,Pizza y wraps,Wrap Vegetariano Porción,Al Paso,2990,1362
+COM-0127,Comida,Pizza y wraps,Wrap Vegetariano Individual,Al Paso,4690,2343
+COM-0128,Comida,Pizza y wraps,Wrap Vegetariano Combo bebida,Al Paso,4190,2204
+COM-0129,Comida,Pizza y wraps,Wrap Carne Mexicana Individual,Al Paso,5290,2566
+COM-0130,Comida,Pizza y wraps,Wrap Carne Mexicana Combo bebida,Al Paso,4890,2217
+COM-0131,Comida,Bollería,Croissant Mantequilla Unidad,Al Paso,990,528
+COM-0132,Comida,Bollería,Croissant Mantequilla Pack x2,Al Paso,1890,1012
+COM-0133,Comida,Bollería,Croissant Mantequilla Pack x4,Al Paso,3690,2150
+COM-0134,Comida,Bollería,Croissant Mantequilla Bandeja x6,Al Paso,5490,2711
+COM-0135,Comida,Bollería,Croissant Jamón Queso Unidad,Al Paso,1890,916
+COM-0136,Comida,Bollería,Croissant Jamón Queso Pack x2,Al Paso,3390,1938
+COM-0137,Comida,Bollería,Croissant Jamón Queso Pack x4,Al Paso,6590,3307
+COM-0138,Comida,Bollería,Croissant Jamón Queso Bandeja x6,Al Paso,9390,5200
+COM-0139,Comida,Bollería,Muffin Chocolate Unidad,Al Paso,1390,759
+COM-0140,Comida,Bollería,Muffin Chocolate Pack x2,Al Paso,2690,1281
+COM-0141,Comida,Bollería,Muffin Chocolate Pack x4,Al Paso,4990,2252
+COM-0142,Comida,Bollería,Muffin Chocolate Bandeja x6,Al Paso,6590,3147
+COM-0143,Comida,Bollería,Muffin Arándano Unidad,Al Paso,1490,853
+COM-0144,Comida,Bollería,Muffin Arándano Pack x2,Al Paso,2490,1483
+COM-0145,Comida,Bollería,Muffin Arándano Pack x4,Al Paso,4890,2364
+COM-0146,Comida,Bollería,Muffin Arándano Bandeja x6,Al Paso,6590,3032
+COM-0147,Comida,Bollería,Medialuna Unidad,Al Paso,690,342
+COM-0148,Comida,Bollería,Medialuna Pack x2,Al Paso,1290,634
+COM-0149,Comida,Bollería,Medialuna Pack x4,Al Paso,2290,1190
+COM-0150,Comida,Bollería,Medialuna Bandeja x6,Al Paso,3290,1671
+COM-0151,Comida,Bollería,Berlín Crema Unidad,Al Paso,990,560
+COM-0152,Comida,Bollería,Berlín Crema Pack x2,Al Paso,1890,1027
+COM-0153,Comida,Bollería,Berlín Crema Pack x4,Al Paso,3390,1984
+COM-0154,Comida,Bollería,Berlín Crema Bandeja x6,Al Paso,4590,2798
+COM-0155,Comida,Bollería,Queque Naranja Unidad,Al Paso,1190,736
+COM-0156,Comida,Bollería,Queque Naranja Pack x2,Al Paso,2290,1182
+COM-0157,Comida,Bollería,Queque Naranja Pack x4,Al Paso,4090,2216
+COM-0158,Comida,Bollería,Queque Naranja Bandeja x6,Al Paso,5490,3224
+COM-0159,Comida,Bollería,Brownie Unidad,Al Paso,1290,604
+COM-0160,Comida,Bollería,Brownie Pack x2,Al Paso,2390,1323
+COM-0161,Comida,Bollería,Brownie Pack x4,Al Paso,4590,2814
+COM-0162,Comida,Bollería,Brownie Bandeja x6,Al Paso,6290,2861
+COM-0163,Comida,Bollería,Cookie Chips Unidad,Al Paso,990,563
+COM-0164,Comida,Bollería,Cookie Chips Pack x2,Al Paso,1790,935
+COM-0165,Comida,Bollería,Cookie Chips Pack x4,Al Paso,3490,1731
+COM-0166,Comida,Bollería,Cookie Chips Bandeja x6,Al Paso,4690,2603
+COM-0167,Comida,Bollería,Donut Glaseado Unidad,Al Paso,1090,559
+COM-0168,Comida,Bollería,Donut Glaseado Pack x2,Al Paso,1990,1039
+COM-0169,Comida,Bollería,Donut Glaseado Pack x4,Al Paso,3790,2268
+COM-0170,Comida,Bollería,Donut Glaseado Bandeja x6,Al Paso,5390,3206
+COM-0171,Comida,Bollería,Pan de Pascua Porción Pack x2,Al Paso,2290,1203
+COM-0172,Comida,Bollería,Pan de Pascua Porción Pack x4,Al Paso,4490,2313
+COM-0173,Comida,Bollería,Pan de Pascua Porción Bandeja x6,Al Paso,6290,3801
+COM-0174,Comida,Bollería,Cinnamon Roll Unidad,Al Paso,1590,847
+COM-0175,Comida,Bollería,Cinnamon Roll Pack x2,Al Paso,2790,1367
+COM-0176,Comida,Bollería,Cinnamon Roll Pack x4,Al Paso,5290,2863
+COM-0177,Comida,Bollería,Cinnamon Roll Bandeja x6,Al Paso,7590,3828
+COM-0178,Comida,Ensaladas y bowls,Ensalada César Chica,Al Paso,2890,1409
+COM-0179,Comida,Ensaladas y bowls,Ensalada César Mediana,Al Paso,3390,1970
+COM-0180,Comida,Ensaladas y bowls,Ensalada César Grande,Al Paso,4290,2393
+COM-0181,Comida,Ensaladas y bowls,Ensalada Chilena Chica,Al Paso,1990,1048
+COM-0182,Comida,Ensaladas y bowls,Ensalada Chilena Mediana,Al Paso,2490,1288
+COM-0183,Comida,Ensaladas y bowls,Ensalada Chilena Grande,Al Paso,3090,1465
+COM-0184,Comida,Ensaladas y bowls,Ensalada Quínoa Chica,Al Paso,3090,1498
+COM-0185,Comida,Ensaladas y bowls,Ensalada Quínoa Mediana,Al Paso,3990,2008
+COM-0186,Comida,Ensaladas y bowls,Ensalada Quínoa Grande,Al Paso,4790,2346
+COM-0187,Comida,Ensaladas y bowls,Bowl Pollo Arroz Chica,Al Paso,3390,1551
+COM-0188,Comida,Ensaladas y bowls,Bowl Pollo Arroz Mediana,Al Paso,4190,2335
+COM-0189,Comida,Ensaladas y bowls,Bowl Pollo Arroz Grande,Al Paso,4990,2294
+COM-0190,Comida,Ensaladas y bowls,Bowl Vegano Mediana,Al Paso,3790,1763
+COM-0191,Comida,Ensaladas y bowls,Bowl Vegano Grande,Al Paso,4890,2208
+COM-0192,Comida,Ensaladas y bowls,Fruta Picada Chica,Al Paso,1490,863
+COM-0193,Comida,Ensaladas y bowls,Fruta Picada Mediana,Al Paso,1990,1102
+COM-0194,Comida,Ensaladas y bowls,Fruta Picada Grande,Al Paso,2390,1400
+COM-0195,Comida,Ensaladas y bowls,Yogurt Parfait Chica,Al Paso,1590,754
+COM-0196,Comida,Ensaladas y bowls,Yogurt Parfait Mediana,Al Paso,2090,1016
+COM-0197,Comida,Ensaladas y bowls,Yogurt Parfait Grande,Al Paso,2590,1392
+COM-0198,Comida,Ensaladas y bowls,Huevos Duros x2 Chica,Al Paso,890,415
+COM-0199,Comida,Ensaladas y bowls,Huevos Duros x2 Mediana,Al Paso,1090,550
+COM-0200,Comida,Ensaladas y bowls,Huevos Duros x2 Grande,Al Paso,1290,724
+GON-0001,Góndola,Snacks salados,Papas fritas Lisas 40g Andina,Andina,790,564
+GON-0002,Góndola,Snacks salados,Papas fritas Lisas 40g Del Valle Sur,Del Valle Sur,690,513
+GON-0003,Góndola,Snacks salados,Papas fritas Lisas 40g Costa,Costa,690,506
+GON-0004,Góndola,Snacks salados,Papas fritas Lisas 40g Montaña,Montaña,790,564
+GON-0005,Góndola,Snacks salados,Papas fritas Lisas 40g Austral,Austral,790,563
+GON-0006,Góndola,Snacks salados,Papas fritas Lisas 40g Litoral,Litoral,690,514
+GON-0007,Góndola,Snacks salados,Papas fritas Lisas 150g Andina,Andina,1590,1018
+GON-0008,Góndola,Snacks salados,Papas fritas Lisas 150g Del Valle Sur,Del Valle Sur,1490,1009
+GON-0009,Góndola,Snacks salados,Papas fritas Lisas 150g Costa,Costa,1390,1046
+GON-0010,Góndola,Snacks salados,Papas fritas Lisas 150g Montaña,Montaña,1690,1123
+GON-0011,Góndola,Snacks salados,Papas fritas Lisas 150g Austral,Austral,1490,969
+GON-0012,Góndola,Snacks salados,Papas fritas Lisas 150g Litoral,Litoral,1390,1041
+GON-0013,Góndola,Snacks salados,Papas fritas Lisas 250g Andina,Andina,2590,1841
+GON-0014,Góndola,Snacks salados,Papas fritas Lisas 250g Del Valle Sur,Del Valle Sur,2390,1680
+GON-0015,Góndola,Snacks salados,Papas fritas Lisas 250g Costa,Costa,2090,1386
+GON-0016,Góndola,Snacks salados,Papas fritas Lisas 250g Montaña,Montaña,2590,1913
+GON-0017,Góndola,Snacks salados,Papas fritas Lisas 250g Austral,Austral,2390,1757
+GON-0018,Góndola,Snacks salados,Papas fritas Lisas 250g Litoral,Litoral,2390,1572
+GON-0019,Góndola,Snacks salados,Papas fritas Onduladas 40g Andina,Andina,790,568
+GON-0020,Góndola,Snacks salados,Papas fritas Onduladas 40g Del Valle Sur,Del Valle Sur,790,598
+GON-0021,Góndola,Snacks salados,Papas fritas Onduladas 40g Costa,Costa,690,509
+GON-0022,Góndola,Snacks salados,Papas fritas Onduladas 40g Montaña,Montaña,890,625
+GON-0023,Góndola,Snacks salados,Papas fritas Onduladas 40g Austral,Austral,790,580
+GON-0024,Góndola,Snacks salados,Papas fritas Onduladas 40g Litoral,Litoral,690,477
+GON-0025,Góndola,Snacks salados,Papas fritas Onduladas 150g Andina,Andina,1590,1090
+GON-0026,Góndola,Snacks salados,Papas fritas Onduladas 150g Del Valle Sur,Del Valle Sur,1590,1090
+GON-0027,Góndola,Snacks salados,Papas fritas Onduladas 150g Costa,Costa,1390,1029
+GON-0028,Góndola,Snacks salados,Papas fritas Onduladas 150g Montaña,Montaña,1690,1187
+GON-0029,Góndola,Snacks salados,Papas fritas Onduladas 150g Austral,Austral,1590,1207
+GON-0030,Góndola,Snacks salados,Papas fritas Onduladas 150g Litoral,Litoral,1590,1101
+GON-0031,Góndola,Snacks salados,Papas fritas Onduladas 250g Andina,Andina,2690,1917
+GON-0032,Góndola,Snacks salados,Papas fritas Onduladas 250g Del Valle Sur,Del Valle Sur,2390,1642
+GON-0033,Góndola,Snacks salados,Papas fritas Onduladas 250g Costa,Costa,2290,1663
+GON-0034,Góndola,Snacks salados,Papas fritas Onduladas 250g Montaña,Montaña,2890,1860
+GON-0035,Góndola,Snacks salados,Papas fritas Onduladas 250g Austral,Austral,2590,1690
+GON-0036,Góndola,Snacks salados,Papas fritas Onduladas 250g Litoral,Litoral,2490,1818
+GON-0037,Góndola,Snacks salados,Papas fritas Pimienta 40g Andina,Andina,890,599
+GON-0038,Góndola,Snacks salados,Papas fritas Pimienta 40g Del Valle Sur,Del Valle Sur,690,443
+GON-0039,Góndola,Snacks salados,Papas fritas Pimienta 40g Costa,Costa,790,565
+GON-0040,Góndola,Snacks salados,Papas fritas Pimienta 40g Montaña,Montaña,890,633
+GON-0041,Góndola,Snacks salados,Papas fritas Pimienta 40g Litoral,Litoral,790,575
+GON-0042,Góndola,Snacks salados,Papas fritas Pimienta 150g Andina,Andina,1590,1029
+GON-0043,Góndola,Snacks salados,Papas fritas Pimienta 150g Del Valle Sur,Del Valle Sur,1490,956
+GON-0044,Góndola,Snacks salados,Papas fritas Pimienta 150g Costa,Costa,1490,1074
+GON-0045,Góndola,Snacks salados,Papas fritas Pimienta 150g Montaña,Montaña,1790,1308
+GON-0046,Góndola,Snacks salados,Papas fritas Pimienta 150g Austral,Austral,1690,1206
+GON-0047,Góndola,Snacks salados,Papas fritas Pimienta 250g Andina,Andina,2690,1821
+GON-0048,Góndola,Snacks salados,Papas fritas Pimienta 250g Del Valle Sur,Del Valle Sur,2390,1689
+GON-0049,Góndola,Snacks salados,Papas fritas Pimienta 250g Costa,Costa,2290,1734
+GON-0050,Góndola,Snacks salados,Papas fritas Pimienta 250g Montaña,Montaña,2790,1928
+GON-0051,Góndola,Snacks salados,Papas fritas Pimienta 250g Austral,Austral,2490,1782
+GON-0052,Góndola,Snacks salados,Papas fritas Pimienta 250g Litoral,Litoral,2390,1728
+GON-0053,Góndola,Snacks salados,Papas fritas Queso 40g Andina,Andina,890,624
+GON-0054,Góndola,Snacks salados,Papas fritas Queso 40g Del Valle Sur,Del Valle Sur,690,513
+GON-0055,Góndola,Snacks salados,Papas fritas Queso 40g Costa,Costa,690,485
+GON-0056,Góndola,Snacks salados,Papas fritas Queso 40g Austral,Austral,790,544
+GON-0057,Góndola,Snacks salados,Papas fritas Queso 40g Litoral,Litoral,790,563
+GON-0058,Góndola,Snacks salados,Papas fritas Queso 150g Andina,Andina,1690,1158
+GON-0059,Góndola,Snacks salados,Papas fritas Queso 150g Del Valle Sur,Del Valle Sur,1390,939
+GON-0060,Góndola,Snacks salados,Papas fritas Queso 150g Costa,Costa,1490,1067
+GON-0061,Góndola,Snacks salados,Papas fritas Queso 150g Montaña,Montaña,1690,1142
+GON-0062,Góndola,Snacks salados,Papas fritas Queso 150g Austral,Austral,1590,1065
+GON-0063,Góndola,Snacks salados,Papas fritas Queso 150g Litoral,Litoral,1490,1030
+GON-0064,Góndola,Snacks salados,Papas fritas Queso 250g Andina,Andina,2690,2024
+GON-0065,Góndola,Snacks salados,Papas fritas Queso 250g Costa,Costa,2290,1602
+GON-0066,Góndola,Snacks salados,Papas fritas Queso 250g Montaña,Montaña,2890,2074
+GON-0067,Góndola,Snacks salados,Papas fritas Queso 250g Austral,Austral,2490,1815
+GON-0068,Góndola,Snacks salados,Papas fritas Queso 250g Litoral,Litoral,2490,1750
+GON-0069,Góndola,Snacks salados,Ramitas 40g Andina,Andina,590,381
+GON-0070,Góndola,Snacks salados,Ramitas 40g Del Valle Sur,Del Valle Sur,590,388
+GON-0071,Góndola,Snacks salados,Ramitas 40g Costa,Costa,490,350
+GON-0072,Góndola,Snacks salados,Ramitas 40g Montaña,Montaña,690,443
+GON-0073,Góndola,Snacks salados,Ramitas 40g Austral,Austral,590,442
+GON-0074,Góndola,Snacks salados,Ramitas 40g Litoral,Litoral,590,416
+GON-0075,Góndola,Snacks salados,Ramitas 150g Andina,Andina,1190,868
+GON-0076,Góndola,Snacks salados,Ramitas 150g Del Valle Sur,Del Valle Sur,1190,835
+GON-0077,Góndola,Snacks salados,Ramitas 150g Costa,Costa,1090,771
+GON-0078,Góndola,Snacks salados,Ramitas 150g Montaña,Montaña,1290,887
+GON-0079,Góndola,Snacks salados,Ramitas 150g Litoral,Litoral,1090,810
+GON-0080,Góndola,Snacks salados,Ramitas 250g Andina,Andina,2090,1435
+GON-0081,Góndola,Snacks salados,Ramitas 250g Del Valle Sur,Del Valle Sur,1790,1350
+GON-0082,Góndola,Snacks salados,Ramitas 250g Costa,Costa,1790,1211
+GON-0083,Góndola,Snacks salados,Ramitas 250g Montaña,Montaña,1990,1326
+GON-0084,Góndola,Snacks salados,Ramitas 250g Austral,Austral,1890,1258
+GON-0085,Góndola,Snacks salados,Ramitas 250g Litoral,Litoral,1890,1401
+GON-0086,Góndola,Snacks salados,Maní Salado 40g Andina,Andina,690,461
+GON-0087,Góndola,Snacks salados,Maní Salado 40g Del Valle Sur,Del Valle Sur,590,401
+GON-0088,Góndola,Snacks salados,Maní Salado 40g Costa,Costa,590,381
+GON-0089,Góndola,Snacks salados,Maní Salado 40g Montaña,Montaña,690,473
+GON-0090,Góndola,Snacks salados,Maní Salado 40g Austral,Austral,690,493
+GON-0091,Góndola,Snacks salados,Maní Salado 40g Litoral,Litoral,590,417
+GON-0092,Góndola,Snacks salados,Maní Salado 150g Andina,Andina,1290,921
+GON-0093,Góndola,Snacks salados,Maní Salado 150g Del Valle Sur,Del Valle Sur,1190,802
+GON-0094,Góndola,Snacks salados,Maní Salado 150g Costa,Costa,1190,879
+GON-0095,Góndola,Snacks salados,Maní Salado 150g Montaña,Montaña,1490,1088
+GON-0096,Góndola,Snacks salados,Maní Salado 150g Austral,Austral,1190,859
+GON-0097,Góndola,Snacks salados,Maní Salado 150g Litoral,Litoral,1290,850
+GON-0098,Góndola,Snacks salados,Maní Salado 250g Andina,Andina,2190,1642
+GON-0099,Góndola,Snacks salados,Maní Salado 250g Del Valle Sur,Del Valle Sur,1890,1272
+GON-0100,Góndola,Snacks salados,Maní Salado 250g Costa,Costa,1890,1299
+GON-0101,Góndola,Snacks salados,Maní Salado 250g Montaña,Montaña,2190,1512
+GON-0102,Góndola,Snacks salados,Maní Salado 250g Austral,Austral,1990,1501
+GON-0103,Góndola,Snacks salados,Maní Salado 250g Litoral,Litoral,1990,1371
+GON-0104,Góndola,Snacks salados,Mix Frutos Secos 40g Andina,Andina,1190,861
+GON-0105,Góndola,Snacks salados,Mix Frutos Secos 40g Del Valle Sur,Del Valle Sur,990,713
+GON-0106,Góndola,Snacks salados,Mix Frutos Secos 40g Costa,Costa,990,659
+GON-0107,Góndola,Snacks salados,Mix Frutos Secos 40g Montaña,Montaña,1190,841
+GON-0108,Góndola,Snacks salados,Mix Frutos Secos 40g Litoral,Litoral,990,725
+GON-0109,Góndola,Snacks salados,Mix Frutos Secos 150g Andina,Andina,2390,1734
+GON-0110,Góndola,Snacks salados,Mix Frutos Secos 150g Del Valle Sur,Del Valle Sur,2090,1551
+GON-0111,Góndola,Snacks salados,Mix Frutos Secos 150g Costa,Costa,1890,1245
+GON-0112,Góndola,Snacks salados,Mix Frutos Secos 150g Montaña,Montaña,2490,1849
+GON-0113,Góndola,Snacks salados,Mix Frutos Secos 150g Austral,Austral,2290,1507
+GON-0114,Góndola,Snacks salados,Mix Frutos Secos 150g Litoral,Litoral,2090,1496
+GON-0115,Góndola,Snacks salados,Mix Frutos Secos 250g Andina,Andina,3590,2582
+GON-0116,Góndola,Snacks salados,Mix Frutos Secos 250g Del Valle Sur,Del Valle Sur,3390,2494
+GON-0117,Góndola,Snacks salados,Mix Frutos Secos 250g Costa,Costa,3190,2052
+GON-0118,Góndola,Snacks salados,Mix Frutos Secos 250g Montaña,Montaña,3990,2995
+GON-0119,Góndola,Snacks salados,Mix Frutos Secos 250g Austral,Austral,3390,2528
+GON-0120,Góndola,Snacks salados,Mix Frutos Secos 250g Litoral,Litoral,3390,2474
+GON-0121,Góndola,Snacks salados,Nachos Queso 40g Andina,Andina,890,673
+GON-0122,Góndola,Snacks salados,Nachos Queso 40g Del Valle Sur,Del Valle Sur,790,535
+GON-0123,Góndola,Snacks salados,Nachos Queso 40g Costa,Costa,790,590
+GON-0124,Góndola,Snacks salados,Nachos Queso 40g Montaña,Montaña,990,642
+GON-0125,Góndola,Snacks salados,Nachos Queso 40g Austral,Austral,890,573
+GON-0126,Góndola,Snacks salados,Nachos Queso 40g Litoral,Litoral,890,601
+GON-0127,Góndola,Snacks salados,Nachos Queso 150g Andina,Andina,1690,1082
+GON-0128,Góndola,Snacks salados,Nachos Queso 150g Del Valle Sur,Del Valle Sur,1590,1135
+GON-0129,Góndola,Snacks salados,Nachos Queso 150g Costa,Costa,1590,1019
+GON-0130,Góndola,Snacks salados,Nachos Queso 150g Montaña,Montaña,1790,1159
+GON-0131,Góndola,Snacks salados,Nachos Queso 150g Austral,Austral,1590,1164
+GON-0132,Góndola,Snacks salados,Nachos Queso 150g Litoral,Litoral,1590,1077
+GON-0133,Góndola,Snacks salados,Nachos Queso 250g Andina,Andina,2690,1866
+GON-0134,Góndola,Snacks salados,Nachos Queso 250g Costa,Costa,2390,1728
+GON-0135,Góndola,Snacks salados,Nachos Queso 250g Montaña,Montaña,3090,2111
+GON-0136,Góndola,Snacks salados,Nachos Queso 250g Austral,Austral,2690,1976
+GON-0137,Góndola,Snacks salados,Nachos Queso 250g Litoral,Litoral,2690,1835
+GON-0138,Góndola,Snacks salados,Suflés 40g Andina,Andina,590,435
+GON-0139,Góndola,Snacks salados,Suflés 40g Del Valle Sur,Del Valle Sur,490,317
+GON-0140,Góndola,Snacks salados,Suflés 40g Costa,Costa,490,347
+GON-0141,Góndola,Snacks salados,Suflés 40g Montaña,Montaña,590,414
+GON-0142,Góndola,Snacks salados,Suflés 40g Austral,Austral,590,430
+GON-0143,Góndola,Snacks salados,Suflés 40g Litoral,Litoral,490,363
+GON-0144,Góndola,Snacks salados,Suflés 150g Andina,Andina,1090,773
+GON-0145,Góndola,Snacks salados,Suflés 150g Del Valle Sur,Del Valle Sur,990,720
+GON-0146,Góndola,Snacks salados,Suflés 150g Costa,Costa,990,668
+GON-0147,Góndola,Snacks salados,Suflés 150g Montaña,Montaña,1290,840
+GON-0148,Góndola,Snacks salados,Suflés 150g Austral,Austral,1090,731
+GON-0149,Góndola,Snacks salados,Suflés 150g Litoral,Litoral,990,672
+GON-0150,Góndola,Snacks salados,Suflés 250g Andina,Andina,1790,1352
+GON-0151,Góndola,Snacks salados,Suflés 250g Costa,Costa,1590,1070
+GON-0152,Góndola,Snacks salados,Suflés 250g Montaña,Montaña,1890,1267
+GON-0153,Góndola,Snacks salados,Suflés 250g Austral,Austral,1690,1171
+GON-0154,Góndola,Snacks salados,Suflés 250g Litoral,Litoral,1790,1319
+GON-0155,Góndola,Snacks salados,Palitos Salados 40g Andina,Andina,490,352
+GON-0156,Góndola,Snacks salados,Palitos Salados 40g Del Valle Sur,Del Valle Sur,490,360
+GON-0157,Góndola,Snacks salados,Palitos Salados 40g Costa,Costa,490,328
+GON-0158,Góndola,Snacks salados,Palitos Salados 40g Montaña,Montaña,490,351
+GON-0159,Góndola,Snacks salados,Palitos Salados 40g Austral,Austral,490,341
+GON-0160,Góndola,Snacks salados,Palitos Salados 40g Litoral,Litoral,490,332
+GON-0161,Góndola,Snacks salados,Palitos Salados 150g Andina,Andina,1090,715
+GON-0162,Góndola,Snacks salados,Palitos Salados 150g Del Valle Sur,Del Valle Sur,990,739
+GON-0163,Góndola,Snacks salados,Palitos Salados 150g Costa,Costa,890,603
+GON-0164,Góndola,Snacks salados,Palitos Salados 150g Montaña,Montaña,1090,792
+GON-0165,Góndola,Snacks salados,Palitos Salados 150g Austral,Austral,990,663
+GON-0166,Góndola,Snacks salados,Palitos Salados 150g Litoral,Litoral,890,620
+GON-0167,Góndola,Snacks salados,Palitos Salados 250g Andina,Andina,1790,1206
+GON-0168,Góndola,Snacks salados,Palitos Salados 250g Del Valle Sur,Del Valle Sur,1490,981
+GON-0169,Góndola,Snacks salados,Palitos Salados 250g Costa,Costa,1490,993
+GON-0170,Góndola,Snacks salados,Palitos Salados 250g Montaña,Montaña,1690,1093
+GON-0171,Góndola,Snacks salados,Palitos Salados 250g Austral,Austral,1590,1164
+GON-0172,Góndola,Snacks salados,Palitos Salados 250g Litoral,Litoral,1490,1101
+GON-0173,Góndola,Snacks salados,Chips Camote 40g Andina,Andina,890,668
+GON-0174,Góndola,Snacks salados,Chips Camote 40g Del Valle Sur,Del Valle Sur,890,583
+GON-0175,Góndola,Snacks salados,Chips Camote 40g Costa,Costa,890,629
+GON-0176,Góndola,Snacks salados,Chips Camote 40g Montaña,Montaña,990,640
+GON-0177,Góndola,Snacks salados,Chips Camote 40g Austral,Austral,890,634
+GON-0178,Góndola,Snacks salados,Chips Camote 40g Litoral,Litoral,890,661
+GON-0179,Góndola,Snacks salados,Chips Camote 150g Andina,Andina,1890,1311
+GON-0180,Góndola,Snacks salados,Chips Camote 150g Del Valle Sur,Del Valle Sur,1790,1247
+GON-0181,Góndola,Snacks salados,Chips Camote 150g Costa,Costa,1790,1329
+GON-0182,Góndola,Snacks salados,Chips Camote 150g Montaña,Montaña,2090,1351
+GON-0183,Góndola,Snacks salados,Chips Camote 150g Austral,Austral,1890,1260
+GON-0184,Góndola,Snacks salados,Chips Camote 150g Litoral,Litoral,1790,1337
+GON-0185,Góndola,Snacks salados,Chips Camote 250g Andina,Andina,3290,2363
+GON-0186,Góndola,Snacks salados,Chips Camote 250g Del Valle Sur,Del Valle Sur,2790,1929
+GON-0187,Góndola,Snacks salados,Chips Camote 250g Costa,Costa,2590,1853
+GON-0188,Góndola,Snacks salados,Chips Camote 250g Montaña,Montaña,3390,2573
+GON-0189,Góndola,Snacks salados,Chips Camote 250g Austral,Austral,3190,2332
+GON-0190,Góndola,Snacks salados,Chips Camote 250g Litoral,Litoral,2990,2031
+GON-0191,Góndola,Galletas,Galletas Chocolate Unitaria Andina,Andina,890,579
+GON-0192,Góndola,Galletas,Galletas Chocolate Unitaria Del Valle Sur,Del Valle Sur,890,606
+GON-0193,Góndola,Galletas,Galletas Chocolate Unitaria Costa,Costa,790,525
+GON-0194,Góndola,Galletas,Galletas Chocolate Unitaria Montaña,Montaña,890,582
+GON-0195,Góndola,Galletas,Galletas Chocolate Unitaria Austral,Austral,890,671
+GON-0196,Góndola,Galletas,Galletas Chocolate Unitaria Litoral,Litoral,890,640
+GON-0197,Góndola,Galletas,Galletas Chocolate Familiar Andina,Andina,2390,1734
+GON-0198,Góndola,Galletas,Galletas Chocolate Familiar Del Valle Sur,Del Valle Sur,1990,1313
+GON-0199,Góndola,Galletas,Galletas Chocolate Familiar Costa,Costa,1990,1402
+GON-0200,Góndola,Galletas,Galletas Chocolate Familiar Montaña,Montaña,2490,1888
+GON-0201,Góndola,Galletas,Galletas Chocolate Familiar Austral,Austral,2190,1643
+GON-0202,Góndola,Galletas,Galletas Chocolate Familiar Litoral,Litoral,1990,1283
+GON-0203,Góndola,Galletas,Galletas Vainilla Unitaria Andina,Andina,890,608
+GON-0204,Góndola,Galletas,Galletas Vainilla Unitaria Del Valle Sur,Del Valle Sur,790,518
+GON-0205,Góndola,Galletas,Galletas Vainilla Unitaria Costa,Costa,690,479
+GON-0206,Góndola,Galletas,Galletas Vainilla Unitaria Montaña,Montaña,790,551
+GON-0207,Góndola,Galletas,Galletas Vainilla Unitaria Austral,Austral,790,570
+GON-0208,Góndola,Galletas,Galletas Vainilla Unitaria Litoral,Litoral,790,531
+GON-0209,Góndola,Galletas,Galletas Vainilla Familiar Andina,Andina,1990,1313
+GON-0210,Góndola,Galletas,Galletas Vainilla Familiar Del Valle Sur,Del Valle Sur,1890,1411
+GON-0211,Góndola,Galletas,Galletas Vainilla Familiar Costa,Costa,1790,1178
+GON-0212,Góndola,Galletas,Galletas Vainilla Familiar Montaña,Montaña,2090,1445
+GON-0213,Góndola,Galletas,Galletas Vainilla Familiar Austral,Austral,1790,1315
+GON-0214,Góndola,Galletas,Galletas Vainilla Familiar Litoral,Litoral,1790,1251
+GON-0215,Góndola,Galletas,Galletas Limón Unitaria Andina,Andina,790,507
+GON-0216,Góndola,Galletas,Galletas Limón Unitaria Del Valle Sur,Del Valle Sur,790,564
+GON-0217,Góndola,Galletas,Galletas Limón Unitaria Montaña,Montaña,890,622
+GON-0218,Góndola,Galletas,Galletas Limón Unitaria Austral,Austral,790,548
+GON-0219,Góndola,Galletas,Galletas Limón Unitaria Litoral,Litoral,690,472
+GON-0220,Góndola,Galletas,Galletas Limón Familiar Andina,Andina,2090,1578
+GON-0221,Góndola,Galletas,Galletas Limón Familiar Del Valle Sur,Del Valle Sur,1690,1232
+GON-0222,Góndola,Galletas,Galletas Limón Familiar Costa,Costa,1690,1266
+GON-0223,Góndola,Galletas,Galletas Limón Familiar Montaña,Montaña,2190,1601
+GON-0224,Góndola,Galletas,Galletas Limón Familiar Litoral,Litoral,1890,1370
+GON-0225,Góndola,Galletas,Galletas Agua Unitaria Andina,Andina,690,463
+GON-0226,Góndola,Galletas,Galletas Agua Unitaria Del Valle Sur,Del Valle Sur,690,486
+GON-0227,Góndola,Galletas,Galletas Agua Unitaria Austral,Austral,690,470
+GON-0228,Góndola,Galletas,Galletas Agua Unitaria Litoral,Litoral,690,505
+GON-0229,Góndola,Galletas,Galletas Agua Familiar Andina,Andina,1690,1227
+GON-0230,Góndola,Galletas,Galletas Agua Familiar Del Valle Sur,Del Valle Sur,1590,1088
+GON-0231,Góndola,Galletas,Galletas Agua Familiar Montaña,Montaña,1890,1371
+GON-0232,Góndola,Galletas,Galletas Agua Familiar Austral,Austral,1690,1157
+GON-0233,Góndola,Galletas,Galletas Agua Familiar Litoral,Litoral,1690,1089
+GON-0234,Góndola,Galletas,Galletas Soda Unitaria Andina,Andina,690,491
+GON-0235,Góndola,Galletas,Galletas Soda Unitaria Del Valle Sur,Del Valle Sur,690,523
+GON-0236,Góndola,Galletas,Galletas Soda Unitaria Costa,Costa,590,389
+GON-0237,Góndola,Galletas,Galletas Soda Unitaria Montaña,Montaña,790,599
+GON-0238,Góndola,Galletas,Galletas Soda Unitaria Austral,Austral,690,491
+GON-0239,Góndola,Galletas,Galletas Soda Unitaria Litoral,Litoral,590,392
+GON-0240,Góndola,Galletas,Galletas Soda Familiar Andina,Andina,1690,1168
+GON-0241,Góndola,Galletas,Galletas Soda Familiar Del Valle Sur,Del Valle Sur,1590,1151
+GON-0242,Góndola,Galletas,Galletas Soda Familiar Costa,Costa,1590,1051
+GON-0243,Góndola,Galletas,Galletas Soda Familiar Montaña,Montaña,1790,1251
+GON-0244,Góndola,Galletas,Galletas Soda Familiar Austral,Austral,1590,1186
+GON-0245,Góndola,Galletas,Galletas Soda Familiar Litoral,Litoral,1590,1058
+GON-0246,Góndola,Galletas,Galletas Avena Unitaria Andina,Andina,1090,770
+GON-0247,Góndola,Galletas,Galletas Avena Unitaria Del Valle Sur,Del Valle Sur,890,674
+GON-0248,Góndola,Galletas,Galletas Avena Unitaria Costa,Costa,890,579
+GON-0249,Góndola,Galletas,Galletas Avena Unitaria Montaña,Montaña,1090,813
+GON-0250,Góndola,Galletas,Galletas Avena Unitaria Austral,Austral,990,642
+GON-0251,Góndola,Galletas,Galletas Avena Unitaria Litoral,Litoral,990,713
+GON-0252,Góndola,Galletas,Galletas Avena Familiar Andina,Andina,2490,1719
+GON-0253,Góndola,Galletas,Galletas Avena Familiar Del Valle Sur,Del Valle Sur,2190,1600
+GON-0254,Góndola,Galletas,Galletas Avena Familiar Costa,Costa,2290,1724
+GON-0255,Góndola,Galletas,Galletas Avena Familiar Austral,Austral,2290,1719
+GON-0256,Góndola,Galletas,Galletas Avena Familiar Litoral,Litoral,2190,1638
+GON-0257,Góndola,Galletas,Galletas Rellenas Frutilla Unitaria Andina,Andina,990,640
+GON-0258,Góndola,Galletas,Galletas Rellenas Frutilla Unitaria Del Valle Sur,Del Valle Sur,890,640
+GON-0259,Góndola,Galletas,Galletas Rellenas Frutilla Unitaria Costa,Costa,790,513
+GON-0260,Góndola,Galletas,Galletas Rellenas Frutilla Unitaria Montaña,Montaña,990,683
+GON-0261,Góndola,Galletas,Galletas Rellenas Frutilla Unitaria Austral,Austral,890,658
+GON-0262,Góndola,Galletas,Galletas Rellenas Frutilla Unitaria Litoral,Litoral,890,611
+GON-0263,Góndola,Galletas,Galletas Rellenas Frutilla Familiar Andina,Andina,2190,1470
+GON-0264,Góndola,Galletas,Galletas Rellenas Frutilla Familiar Del Valle Sur,Del Valle Sur,1990,1481
+GON-0265,Góndola,Galletas,Galletas Rellenas Frutilla Familiar Costa,Costa,1890,1410
+GON-0266,Góndola,Galletas,Galletas Rellenas Frutilla Familiar Montaña,Montaña,2390,1744
+GON-0267,Góndola,Galletas,Galletas Rellenas Frutilla Familiar Austral,Austral,2090,1552
+GON-0268,Góndola,Galletas,Galletas Rellenas Frutilla Familiar Litoral,Litoral,1990,1334
+GON-0269,Góndola,Galletas,Wafer Chocolate Unitaria Andina,Andina,790,576
+GON-0270,Góndola,Galletas,Wafer Chocolate Unitaria Del Valle Sur,Del Valle Sur,690,450
+GON-0271,Góndola,Galletas,Wafer Chocolate Unitaria Costa,Costa,590,404
+GON-0272,Góndola,Galletas,Wafer Chocolate Unitaria Montaña,Montaña,790,544
+GON-0273,Góndola,Galletas,Wafer Chocolate Unitaria Austral,Austral,690,519
+GON-0274,Góndola,Galletas,Wafer Chocolate Unitaria Litoral,Litoral,690,443
+GON-0275,Góndola,Galletas,Wafer Chocolate Familiar Andina,Andina,1790,1280
+GON-0276,Góndola,Galletas,Wafer Chocolate Familiar Del Valle Sur,Del Valle Sur,1690,1100
+GON-0277,Góndola,Galletas,Wafer Chocolate Familiar Costa,Costa,1590,1203
+GON-0278,Góndola,Galletas,Wafer Chocolate Familiar Montaña,Montaña,1790,1182
+GON-0279,Góndola,Galletas,Wafer Chocolate Familiar Austral,Austral,1690,1144
+GON-0280,Góndola,Galletas,Wafer Chocolate Familiar Litoral,Litoral,1690,1147
+GON-0281,Góndola,Galletas,Wafer Vainilla Unitaria Andina,Andina,690,465
+GON-0282,Góndola,Galletas,Wafer Vainilla Unitaria Del Valle Sur,Del Valle Sur,690,489
+GON-0283,Góndola,Galletas,Wafer Vainilla Unitaria Costa,Costa,590,403
+GON-0284,Góndola,Galletas,Wafer Vainilla Unitaria Montaña,Montaña,790,569
+GON-0285,Góndola,Galletas,Wafer Vainilla Unitaria Austral,Austral,690,455
+GON-0286,Góndola,Galletas,Wafer Vainilla Unitaria Litoral,Litoral,690,453
+GON-0287,Góndola,Galletas,Wafer Vainilla Familiar Andina,Andina,1690,1248
+GON-0288,Góndola,Galletas,Wafer Vainilla Familiar Del Valle Sur,Del Valle Sur,1690,1163
+GON-0289,Góndola,Galletas,Wafer Vainilla Familiar Costa,Costa,1590,1134
+GON-0290,Góndola,Galletas,Wafer Vainilla Familiar Montaña,Montaña,1790,1222
+GON-0291,Góndola,Galletas,Wafer Vainilla Familiar Austral,Austral,1590,1155
+GON-0292,Góndola,Galletas,Wafer Vainilla Familiar Litoral,Litoral,1590,1064
+GON-0293,Góndola,Galletas,Galletas Integrales Unitaria Andina,Andina,1090,754
+GON-0294,Góndola,Galletas,Galletas Integrales Unitaria Del Valle Sur,Del Valle Sur,890,575
+GON-0295,Góndola,Galletas,Galletas Integrales Unitaria Costa,Costa,890,623
+GON-0296,Góndola,Galletas,Galletas Integrales Unitaria Austral,Austral,990,752
+GON-0297,Góndola,Galletas,Galletas Integrales Unitaria Litoral,Litoral,990,669
+GON-0298,Góndola,Galletas,Galletas Integrales Familiar Andina,Andina,2390,1779
+GON-0299,Góndola,Galletas,Galletas Integrales Familiar Del Valle Sur,Del Valle Sur,2190,1551
+GON-0300,Góndola,Galletas,Galletas Integrales Familiar Costa,Costa,2190,1644
+GON-0301,Góndola,Galletas,Galletas Integrales Familiar Montaña,Montaña,2790,2103
+GON-0302,Góndola,Galletas,Galletas Integrales Familiar Austral,Austral,2290,1524
+GON-0303,Góndola,Galletas,Galletas Integrales Familiar Litoral,Litoral,2390,1573
+GON-0304,Góndola,Chocolates y confites,Chocolate Leche Chico Andina,Andina,1290,828
+GON-0305,Góndola,Chocolates y confites,Chocolate Leche Chico Del Valle Sur,Del Valle Sur,1190,822
+GON-0306,Góndola,Chocolates y confites,Chocolate Leche Chico Costa,Costa,990,696
+GON-0307,Góndola,Chocolates y confites,Chocolate Leche Chico Montaña,Montaña,1290,971
+GON-0308,Góndola,Chocolates y confites,Chocolate Leche Chico Austral,Austral,1190,898
+GON-0309,Góndola,Chocolates y confites,Chocolate Leche Chico Litoral,Litoral,1190,767
+GON-0310,Góndola,Chocolates y confites,Chocolate Leche Grande Andina,Andina,2690,1833
+GON-0311,Góndola,Chocolates y confites,Chocolate Leche Grande Del Valle Sur,Del Valle Sur,2390,1714
+GON-0312,Góndola,Chocolates y confites,Chocolate Leche Grande Costa,Costa,2290,1671
+GON-0313,Góndola,Chocolates y confites,Chocolate Leche Grande Montaña,Montaña,2790,1956
+GON-0314,Góndola,Chocolates y confites,Chocolate Leche Grande Austral,Austral,2690,1808
+GON-0315,Góndola,Chocolates y confites,Chocolate Leche Grande Litoral,Litoral,2690,1753
+GON-0316,Góndola,Chocolates y confites,Chocolate Amargo Chico Andina,Andina,1490,996
+GON-0317,Góndola,Chocolates y confites,Chocolate Amargo Chico Del Valle Sur,Del Valle Sur,1290,978
+GON-0318,Góndola,Chocolates y confites,Chocolate Amargo Chico Costa,Costa,1290,885
+GON-0319,Góndola,Chocolates y confites,Chocolate Amargo Chico Montaña,Montaña,1590,1173
+GON-0320,Góndola,Chocolates y confites,Chocolate Amargo Chico Austral,Austral,1490,1103
+GON-0321,Góndola,Chocolates y confites,Chocolate Amargo Chico Litoral,Litoral,1290,882
+GON-0322,Góndola,Chocolates y confites,Chocolate Amargo Grande Andina,Andina,3190,2221
+GON-0323,Góndola,Chocolates y confites,Chocolate Amargo Grande Del Valle Sur,Del Valle Sur,2890,2134
+GON-0324,Góndola,Chocolates y confites,Chocolate Amargo Grande Costa,Costa,2890,1918
+GON-0325,Góndola,Chocolates y confites,Chocolate Amargo Grande Montaña,Montaña,3290,2369
+GON-0326,Góndola,Chocolates y confites,Chocolate Amargo Grande Austral,Austral,3190,2250
+GON-0327,Góndola,Chocolates y confites,Chocolate Amargo Grande Litoral,Litoral,2990,1943
+GON-0328,Góndola,Chocolates y confites,Chocolate Almendras Chico Andina,Andina,1590,1094
+GON-0329,Góndola,Chocolates y confites,Chocolate Almendras Chico Del Valle Sur,Del Valle Sur,1490,1099
+GON-0330,Góndola,Chocolates y confites,Chocolate Almendras Chico Costa,Costa,1390,1015
+GON-0331,Góndola,Chocolates y confites,Chocolate Almendras Chico Montaña,Montaña,1590,1092
+GON-0332,Góndola,Chocolates y confites,Chocolate Almendras Chico Austral,Austral,1490,985
+GON-0333,Góndola,Chocolates y confites,Chocolate Almendras Chico Litoral,Litoral,1490,963
+GON-0334,Góndola,Chocolates y confites,Chocolate Almendras Grande Andina,Andina,3390,2291
+GON-0335,Góndola,Chocolates y confites,Chocolate Almendras Grande Del Valle Sur,Del Valle Sur,2990,2211
+GON-0336,Góndola,Chocolates y confites,Chocolate Almendras Grande Costa,Costa,2990,1949
+GON-0337,Góndola,Chocolates y confites,Chocolate Almendras Grande Montaña,Montaña,3590,2488
+GON-0338,Góndola,Chocolates y confites,Chocolate Almendras Grande Austral,Austral,3390,2494
+GON-0339,Góndola,Chocolates y confites,Chocolate Almendras Grande Litoral,Litoral,3290,2199
+GON-0340,Góndola,Chocolates y confites,Chocolate con Maní Chico Andina,Andina,1290,922
+GON-0341,Góndola,Chocolates y confites,Chocolate con Maní Chico Del Valle Sur,Del Valle Sur,1190,766
+GON-0342,Góndola,Chocolates y confites,Chocolate con Maní Chico Costa,Costa,1090,774
+GON-0343,Góndola,Chocolates y confites,Chocolate con Maní Chico Montaña,Montaña,1390,969
+GON-0344,Góndola,Chocolates y confites,Chocolate con Maní Chico Austral,Austral,1190,777
+GON-0345,Góndola,Chocolates y confites,Chocolate con Maní Chico Litoral,Litoral,1190,841
+GON-0346,Góndola,Chocolates y confites,Chocolate con Maní Grande Andina,Andina,2690,1841
+GON-0347,Góndola,Chocolates y confites,Chocolate con Maní Grande Del Valle Sur,Del Valle Sur,2490,1707
+GON-0348,Góndola,Chocolates y confites,Chocolate con Maní Grande Costa,Costa,2290,1633
+GON-0349,Góndola,Chocolates y confites,Chocolate con Maní Grande Montaña,Montaña,2990,2223
+GON-0350,Góndola,Chocolates y confites,Chocolate con Maní Grande Austral,Austral,2690,1814
+GON-0351,Góndola,Chocolates y confites,Chocolate con Maní Grande Litoral,Litoral,2590,1958
+GON-0352,Góndola,Chocolates y confites,Gomitas Frutales Chico Andina,Andina,990,722
+GON-0353,Góndola,Chocolates y confites,Gomitas Frutales Chico Del Valle Sur,Del Valle Sur,790,591
+GON-0354,Góndola,Chocolates y confites,Gomitas Frutales Chico Costa,Costa,790,532
+GON-0355,Góndola,Chocolates y confites,Gomitas Frutales Chico Montaña,Montaña,990,643
+GON-0356,Góndola,Chocolates y confites,Gomitas Frutales Chico Austral,Austral,890,665
+GON-0357,Góndola,Chocolates y confites,Gomitas Frutales Chico Litoral,Litoral,890,655
+GON-0358,Góndola,Chocolates y confites,Gomitas Frutales Grande Andina,Andina,2090,1394
+GON-0359,Góndola,Chocolates y confites,Gomitas Frutales Grande Del Valle Sur,Del Valle Sur,1890,1377
+GON-0360,Góndola,Chocolates y confites,Gomitas Frutales Grande Costa,Costa,1790,1217
+GON-0361,Góndola,Chocolates y confites,Gomitas Frutales Grande Montaña,Montaña,2090,1457
+GON-0362,Góndola,Chocolates y confites,Gomitas Frutales Grande Austral,Austral,1890,1263
+GON-0363,Góndola,Chocolates y confites,Gomitas Frutales Grande Litoral,Litoral,1890,1326
+GON-0364,Góndola,Chocolates y confites,Caramelos Surtidos Chico Andina,Andina,790,568
+GON-0365,Góndola,Chocolates y confites,Caramelos Surtidos Chico Del Valle Sur,Del Valle Sur,790,598
+GON-0366,Góndola,Chocolates y confites,Caramelos Surtidos Chico Costa,Costa,690,498
+GON-0367,Góndola,Chocolates y confites,Caramelos Surtidos Chico Montaña,Montaña,890,603
+GON-0368,Góndola,Chocolates y confites,Caramelos Surtidos Chico Austral,Austral,790,543
+GON-0369,Góndola,Chocolates y confites,Caramelos Surtidos Chico Litoral,Litoral,790,574
+GON-0370,Góndola,Chocolates y confites,Caramelos Surtidos Grande Andina,Andina,1790,1262
+GON-0371,Góndola,Chocolates y confites,Caramelos Surtidos Grande Del Valle Sur,Del Valle Sur,1590,1157
+GON-0372,Góndola,Chocolates y confites,Caramelos Surtidos Grande Costa,Costa,1590,1156
+GON-0373,Góndola,Chocolates y confites,Caramelos Surtidos Grande Montaña,Montaña,1990,1425
+GON-0374,Góndola,Chocolates y confites,Caramelos Surtidos Grande Austral,Austral,1790,1157
+GON-0375,Góndola,Chocolates y confites,Caramelos Surtidos Grande Litoral,Litoral,1690,1213
+GON-0376,Góndola,Chocolates y confites,Chicle Menta Chico Andina,Andina,490,327
+GON-0377,Góndola,Chocolates y confites,Chicle Menta Chico Del Valle Sur,Del Valle Sur,490,340
+GON-0378,Góndola,Chocolates y confites,Chicle Menta Chico Costa,Costa,390,274
+GON-0379,Góndola,Chocolates y confites,Chicle Menta Chico Montaña,Montaña,490,356
+GON-0380,Góndola,Chocolates y confites,Chicle Menta Chico Austral,Austral,490,365
+GON-0381,Góndola,Chocolates y confites,Chicle Menta Chico Litoral,Litoral,490,371
+GON-0382,Góndola,Chocolates y confites,Chicle Menta Grande Andina,Andina,1090,701
+GON-0383,Góndola,Chocolates y confites,Chicle Menta Grande Del Valle Sur,Del Valle Sur,990,706
+GON-0384,Góndola,Chocolates y confites,Chicle Menta Grande Montaña,Montaña,1290,918
+GON-0385,Góndola,Chocolates y confites,Chicle Menta Grande Austral,Austral,1090,794
+GON-0386,Góndola,Chocolates y confites,Chicle Menta Grande Litoral,Litoral,1090,770
+GON-0387,Góndola,Chocolates y confites,Chicle Frutilla Chico Del Valle Sur,Del Valle Sur,490,354
+GON-0388,Góndola,Chocolates y confites,Chicle Frutilla Chico Costa,Costa,390,287
+GON-0389,Góndola,Chocolates y confites,Chicle Frutilla Chico Montaña,Montaña,490,340
+GON-0390,Góndola,Chocolates y confites,Chicle Frutilla Chico Austral,Austral,490,331
+GON-0391,Góndola,Chocolates y confites,Chicle Frutilla Chico Litoral,Litoral,490,364
+GON-0392,Góndola,Chocolates y confites,Chicle Frutilla Grande Andina,Andina,1190,889
+GON-0393,Góndola,Chocolates y confites,Chicle Frutilla Grande Del Valle Sur,Del Valle Sur,1090,729
+GON-0394,Góndola,Chocolates y confites,Chicle Frutilla Grande Costa,Costa,990,739
+GON-0395,Góndola,Chocolates y confites,Chicle Frutilla Grande Montaña,Montaña,1190,883
+GON-0396,Góndola,Chocolates y confites,Chicle Frutilla Grande Austral,Austral,1190,845
+GON-0397,Góndola,Chocolates y confites,Chicle Frutilla Grande Litoral,Litoral,1090,813
+GON-0398,Góndola,Chocolates y confites,Alfajor Chico Andina,Andina,690,511
+GON-0399,Góndola,Chocolates y confites,Alfajor Chico Del Valle Sur,Del Valle Sur,690,443
+GON-0400,Góndola,Chocolates y confites,Alfajor Chico Costa,Costa,590,398
+GON-0401,Góndola,Chocolates y confites,Alfajor Chico Montaña,Montaña,690,504
+GON-0402,Góndola,Chocolates y confites,Alfajor Chico Austral,Austral,690,510
+GON-0403,Góndola,Chocolates y confites,Alfajor Chico Litoral,Litoral,690,471
+GON-0404,Góndola,Chocolates y confites,Alfajor Grande Andina,Andina,1590,1098
+GON-0405,Góndola,Chocolates y confites,Alfajor Grande Del Valle Sur,Del Valle Sur,1490,1072
+GON-0406,Góndola,Chocolates y confites,Alfajor Grande Costa,Costa,1390,970
+GON-0407,Góndola,Chocolates y confites,Alfajor Grande Austral,Austral,1590,1057
+GON-0408,Góndola,Chocolates y confites,Alfajor Grande Litoral,Litoral,1490,1042
+GON-0409,Góndola,Chocolates y confites,Pastillas Menta Chico Andina,Andina,690,468
+GON-0410,Góndola,Chocolates y confites,Pastillas Menta Chico Del Valle Sur,Del Valle Sur,590,444
+GON-0411,Góndola,Chocolates y confites,Pastillas Menta Chico Costa,Costa,490,334
+GON-0412,Góndola,Chocolates y confites,Pastillas Menta Chico Montaña,Montaña,590,413
+GON-0413,Góndola,Chocolates y confites,Pastillas Menta Chico Austral,Austral,590,430
+GON-0414,Góndola,Chocolates y confites,Pastillas Menta Chico Litoral,Litoral,590,397
+GON-0415,Góndola,Chocolates y confites,Pastillas Menta Grande Andina,Andina,1290,979
+GON-0416,Góndola,Chocolates y confites,Pastillas Menta Grande Del Valle Sur,Del Valle Sur,1290,870
+GON-0417,Góndola,Chocolates y confites,Pastillas Menta Grande Costa,Costa,1190,794
+GON-0418,Góndola,Chocolates y confites,Pastillas Menta Grande Montaña,Montaña,1390,942
+GON-0419,Góndola,Chocolates y confites,Pastillas Menta Grande Austral,Austral,1290,934
+GON-0420,Góndola,Chocolates y confites,Pastillas Menta Grande Litoral,Litoral,1290,905
+GON-0421,Góndola,Chocolates y confites,Barra Cereal Chico Andina,Andina,490,330
+GON-0422,Góndola,Chocolates y confites,Barra Cereal Chico Del Valle Sur,Del Valle Sur,490,319
+GON-0423,Góndola,Chocolates y confites,Barra Cereal Chico Costa,Costa,490,360
+GON-0424,Góndola,Chocolates y confites,Barra Cereal Chico Montaña,Montaña,490,340
+GON-0425,Góndola,Chocolates y confites,Barra Cereal Chico Austral,Austral,490,355
+GON-0426,Góndola,Chocolates y confites,Barra Cereal Chico Litoral,Litoral,490,365
+GON-0427,Góndola,Chocolates y confites,Barra Cereal Grande Andina,Andina,1190,798
+GON-0428,Góndola,Chocolates y confites,Barra Cereal Grande Del Valle Sur,Del Valle Sur,990,686
+GON-0429,Góndola,Chocolates y confites,Barra Cereal Grande Costa,Costa,990,701
+GON-0430,Góndola,Chocolates y confites,Barra Cereal Grande Montaña,Montaña,1190,882
+GON-0431,Góndola,Chocolates y confites,Barra Cereal Grande Austral,Austral,1190,846
+GON-0432,Góndola,Chocolates y confites,Barra Cereal Grande Litoral,Litoral,990,746
+GON-0433,Góndola,Abarrotes,Arroz 1kg Andina,Andina,1590,1050
+GON-0434,Góndola,Abarrotes,Arroz 1kg Del Valle Sur,Del Valle Sur,1490,1012
+GON-0435,Góndola,Abarrotes,Arroz 1kg Costa,Costa,1490,1064
+GON-0436,Góndola,Abarrotes,Arroz 1kg Montaña,Montaña,1790,1327
+GON-0437,Góndola,Abarrotes,Arroz 1kg Austral,Austral,1590,1135
+GON-0438,Góndola,Abarrotes,Arroz 1kg Litoral,Litoral,1590,1116
+GON-0439,Góndola,Abarrotes,Fideos Spaghetti 400g Andina,Andina,1090,731
+GON-0440,Góndola,Abarrotes,Fideos Spaghetti 400g Del Valle Sur,Del Valle Sur,990,701
+GON-0441,Góndola,Abarrotes,Fideos Spaghetti 400g Costa,Costa,890,630
+GON-0442,Góndola,Abarrotes,Fideos Spaghetti 400g Montaña,Montaña,1090,789
+GON-0443,Góndola,Abarrotes,Fideos Spaghetti 400g Austral,Austral,990,638
+GON-0444,Góndola,Abarrotes,Fideos Spaghetti 400g Litoral,Litoral,890,671
+GON-0445,Góndola,Abarrotes,Fideos Corbatas 400g Andina,Andina,990,705
+GON-0446,Góndola,Abarrotes,Fideos Corbatas 400g Del Valle Sur,Del Valle Sur,990,716
+GON-0447,Góndola,Abarrotes,Fideos Corbatas 400g Costa,Costa,890,638
+GON-0448,Góndola,Abarrotes,Fideos Corbatas 400g Montaña,Montaña,1090,772
+GON-0449,Góndola,Abarrotes,Fideos Corbatas 400g Austral,Austral,990,692
+GON-0450,Góndola,Abarrotes,Fideos Corbatas 400g Litoral,Litoral,990,703
+GON-0451,Góndola,Abarrotes,Aceite 1L Andina,Andina,2990,2207
+GON-0452,Góndola,Abarrotes,Aceite 1L Del Valle Sur,Del Valle Sur,2690,1836
+GON-0453,Góndola,Abarrotes,Aceite 1L Costa,Costa,2690,1885
+GON-0454,Góndola,Abarrotes,Aceite 1L Montaña,Montaña,3190,2318
+GON-0455,Góndola,Abarrotes,Aceite 1L Austral,Austral,2890,1885
+GON-0456,Góndola,Abarrotes,Aceite 1L Litoral,Litoral,2690,1894
+GON-0457,Góndola,Abarrotes,Azúcar 1kg Andina,Andina,1490,1006
+GON-0458,Góndola,Abarrotes,Azúcar 1kg Del Valle Sur,Del Valle Sur,1290,896
+GON-0459,Góndola,Abarrotes,Azúcar 1kg Costa,Costa,1190,825
+GON-0460,Góndola,Abarrotes,Azúcar 1kg Montaña,Montaña,1490,1106
+GON-0461,Góndola,Abarrotes,Azúcar 1kg Litoral,Litoral,1290,905
+GON-0462,Góndola,Abarrotes,Sal 1kg Andina,Andina,590,406
+GON-0463,Góndola,Abarrotes,Sal 1kg Del Valle Sur,Del Valle Sur,590,406
+GON-0464,Góndola,Abarrotes,Sal 1kg Costa,Costa,490,348
+GON-0465,Góndola,Abarrotes,Sal 1kg Montaña,Montaña,690,487
+GON-0466,Góndola,Abarrotes,Sal 1kg Austral,Austral,590,383
+GON-0467,Góndola,Abarrotes,Sal 1kg Litoral,Litoral,590,403
+GON-0468,Góndola,Abarrotes,Harina 1kg Del Valle Sur,Del Valle Sur,1190,857
+GON-0469,Góndola,Abarrotes,Harina 1kg Costa,Costa,1090,748
+GON-0470,Góndola,Abarrotes,Harina 1kg Montaña,Montaña,1390,1019
+GON-0471,Góndola,Abarrotes,Harina 1kg Austral,Austral,1390,998
+GON-0472,Góndola,Abarrotes,Harina 1kg Litoral,Litoral,1190,865
+GON-0473,Góndola,Abarrotes,Atún Lata Andina,Andina,1990,1390
+GON-0474,Góndola,Abarrotes,Atún Lata Del Valle Sur,Del Valle Sur,1790,1292
+GON-0475,Góndola,Abarrotes,Atún Lata Costa,Costa,1790,1291
+GON-0476,Góndola,Abarrotes,Atún Lata Montaña,Montaña,1990,1369
+GON-0477,Góndola,Abarrotes,Atún Lata Austral,Austral,1990,1467
+GON-0478,Góndola,Abarrotes,Atún Lata Litoral,Litoral,1790,1357
+GON-0479,Góndola,Abarrotes,Jurel Lata Andina,Andina,2290,1594
+GON-0480,Góndola,Abarrotes,Jurel Lata Del Valle Sur,Del Valle Sur,1990,1275
+GON-0481,Góndola,Abarrotes,Jurel Lata Costa,Costa,1890,1292
+GON-0482,Góndola,Abarrotes,Jurel Lata Montaña,Montaña,2290,1718
+GON-0483,Góndola,Abarrotes,Jurel Lata Austral,Austral,2090,1580
+GON-0484,Góndola,Abarrotes,Jurel Lata Litoral,Litoral,2090,1399
+GON-0485,Góndola,Abarrotes,Salsa de Tomate Del Valle Sur,Del Valle Sur,590,408
+GON-0486,Góndola,Abarrotes,Salsa de Tomate Costa,Costa,490,344
+GON-0487,Góndola,Abarrotes,Salsa de Tomate Montaña,Montaña,590,379
+GON-0488,Góndola,Abarrotes,Salsa de Tomate Austral,Austral,590,445
+GON-0489,Góndola,Abarrotes,Salsa de Tomate Litoral,Litoral,590,440
+GON-0490,Góndola,Abarrotes,Mayonesa 250g Andina,Andina,1590,1050
+GON-0491,Góndola,Abarrotes,Mayonesa 250g Del Valle Sur,Del Valle Sur,1390,1015
+GON-0492,Góndola,Abarrotes,Mayonesa 250g Costa,Costa,1390,1026
+GON-0493,Góndola,Abarrotes,Mayonesa 250g Montaña,Montaña,1590,1026
+GON-0494,Góndola,Abarrotes,Mayonesa 250g Austral,Austral,1490,987
+GON-0495,Góndola,Abarrotes,Mayonesa 250g Litoral,Litoral,1490,955
+GON-0496,Góndola,Abarrotes,Ketchup 250g Andina,Andina,1290,980
+GON-0497,Góndola,Abarrotes,Ketchup 250g Del Valle Sur,Del Valle Sur,1190,819
+GON-0498,Góndola,Abarrotes,Ketchup 250g Costa,Costa,1190,784
+GON-0499,Góndola,Abarrotes,Ketchup 250g Montaña,Montaña,1390,980
+GON-0500,Góndola,Abarrotes,Ketchup 250g Austral,Austral,1290,881
+GON-0501,Góndola,Abarrotes,Ketchup 250g Litoral,Litoral,1190,876
+GON-0502,Góndola,Abarrotes,Mostaza 250g Andina,Andina,1090,808
+GON-0503,Góndola,Abarrotes,Mostaza 250g Del Valle Sur,Del Valle Sur,990,655
+GON-0504,Góndola,Abarrotes,Mostaza 250g Costa,Costa,890,586
+GON-0505,Góndola,Abarrotes,Mostaza 250g Montaña,Montaña,1190,880
+GON-0506,Góndola,Abarrotes,Mostaza 250g Austral,Austral,1090,786
+GON-0507,Góndola,Abarrotes,Mostaza 250g Litoral,Litoral,1090,771
+GON-0508,Góndola,Abarrotes,Café Instantáneo 170g Andina,Andina,5990,4094
+GON-0509,Góndola,Abarrotes,Café Instantáneo 170g Del Valle Sur,Del Valle Sur,5090,3597
+GON-0510,Góndola,Abarrotes,Café Instantáneo 170g Costa,Costa,4790,3239
+GON-0511,Góndola,Abarrotes,Café Instantáneo 170g Montaña,Montaña,6090,4169
+GON-0512,Góndola,Abarrotes,Café Instantáneo 170g Austral,Austral,5190,3400
+GON-0513,Góndola,Abarrotes,Café Instantáneo 170g Litoral,Litoral,5490,3696
+GON-0514,Góndola,Abarrotes,Té 20 bolsitas Andina,Andina,1190,855
+GON-0515,Góndola,Abarrotes,Té 20 bolsitas Del Valle Sur,Del Valle Sur,1090,773
+GON-0516,Góndola,Abarrotes,Té 20 bolsitas Costa,Costa,990,725
+GON-0517,Góndola,Abarrotes,Té 20 bolsitas Montaña,Montaña,1290,846
+GON-0518,Góndola,Abarrotes,Té 20 bolsitas Austral,Austral,1190,811
+GON-0519,Góndola,Abarrotes,Té 20 bolsitas Litoral,Litoral,1090,763
+GON-0520,Góndola,Abarrotes,Leche en Polvo 800g Andina,Andina,7590,5545
+GON-0521,Góndola,Abarrotes,Leche en Polvo 800g Del Valle Sur,Del Valle Sur,6190,4460
+GON-0522,Góndola,Abarrotes,Leche en Polvo 800g Costa,Costa,6190,3993
+GON-0523,Góndola,Abarrotes,Leche en Polvo 800g Montaña,Montaña,7990,5993
+GON-0524,Góndola,Abarrotes,Leche en Polvo 800g Austral,Austral,6990,4978
+GON-0525,Góndola,Abarrotes,Leche en Polvo 800g Litoral,Litoral,6790,4427
+GON-0526,Góndola,Abarrotes,Avena 500g Andina,Andina,1590,1122
+GON-0527,Góndola,Abarrotes,Avena 500g Del Valle Sur,Del Valle Sur,1390,902
+GON-0528,Góndola,Abarrotes,Avena 500g Costa,Costa,1390,949
+GON-0529,Góndola,Abarrotes,Avena 500g Montaña,Montaña,1690,1217
+GON-0530,Góndola,Abarrotes,Avena 500g Austral,Austral,1490,960
+GON-0531,Góndola,Abarrotes,Avena 500g Litoral,Litoral,1390,981
+GON-0532,Góndola,Abarrotes,Cereal Chocolate Andina,Andina,3390,2489
+GON-0533,Góndola,Abarrotes,Cereal Chocolate Del Valle Sur,Del Valle Sur,3090,2069
+GON-0534,Góndola,Abarrotes,Cereal Chocolate Costa,Costa,2990,2255
+GON-0535,Góndola,Abarrotes,Cereal Chocolate Montaña,Montaña,3590,2381
+GON-0536,Góndola,Abarrotes,Cereal Chocolate Austral,Austral,3390,2443
+GON-0537,Góndola,Abarrotes,Cereal Chocolate Litoral,Litoral,3290,2216
+GON-0538,Góndola,Abarrotes,Cereal Miel Andina,Andina,3390,2360
+GON-0539,Góndola,Abarrotes,Cereal Miel Del Valle Sur,Del Valle Sur,2990,2262
+GON-0540,Góndola,Abarrotes,Cereal Miel Costa,Costa,2890,1997
+GON-0541,Góndola,Abarrotes,Cereal Miel Montaña,Montaña,3690,2400
+GON-0542,Góndola,Abarrotes,Cereal Miel Austral,Austral,3390,2557
+GON-0543,Góndola,Abarrotes,Cereal Miel Litoral,Litoral,3290,2459
+GON-0544,Góndola,Abarrotes,Mermelada Frutilla Andina,Andina,1790,1293
+GON-0545,Góndola,Abarrotes,Mermelada Frutilla Del Valle Sur,Del Valle Sur,1690,1113
+GON-0546,Góndola,Abarrotes,Mermelada Frutilla Costa,Costa,1590,1153
+GON-0547,Góndola,Abarrotes,Mermelada Frutilla Montaña,Montaña,1990,1287
+GON-0548,Góndola,Abarrotes,Mermelada Frutilla Austral,Austral,1790,1183
+GON-0549,Góndola,Abarrotes,Mermelada Frutilla Litoral,Litoral,1790,1260
+GON-0550,Góndola,Abarrotes,Manjar 400g Andina,Andina,2290,1604
+GON-0551,Góndola,Abarrotes,Manjar 400g Del Valle Sur,Del Valle Sur,1990,1428
+GON-0552,Góndola,Abarrotes,Manjar 400g Costa,Costa,1890,1389
+GON-0553,Góndola,Abarrotes,Manjar 400g Montaña,Montaña,2290,1468
+GON-0554,Góndola,Abarrotes,Manjar 400g Austral,Austral,2090,1431
+GON-0555,Góndola,Abarrotes,Manjar 400g Litoral,Litoral,1990,1366
+GON-0556,Góndola,Abarrotes,Pan Molde Blanco Andina,Andina,2690,1924
+GON-0557,Góndola,Abarrotes,Pan Molde Blanco Del Valle Sur,Del Valle Sur,2590,1730
+GON-0558,Góndola,Abarrotes,Pan Molde Blanco Costa,Costa,2290,1587
+GON-0559,Góndola,Abarrotes,Pan Molde Blanco Montaña,Montaña,2790,1885
+GON-0560,Góndola,Abarrotes,Pan Molde Blanco Austral,Austral,2490,1641
+GON-0561,Góndola,Abarrotes,Pan Molde Blanco Litoral,Litoral,2590,1760
+GON-0562,Góndola,Abarrotes,Pan Molde Integral Andina,Andina,2890,2045
+GON-0563,Góndola,Abarrotes,Pan Molde Integral Del Valle Sur,Del Valle Sur,2590,1854
+GON-0564,Góndola,Abarrotes,Pan Molde Integral Costa,Costa,2390,1643
+GON-0565,Góndola,Abarrotes,Pan Molde Integral Montaña,Montaña,2990,2213
+GON-0566,Góndola,Abarrotes,Pan Molde Integral Austral,Austral,2890,2186
+GON-0567,Góndola,Abarrotes,Pan Molde Integral Litoral,Litoral,2890,2160
+GON-0568,Góndola,Abarrotes,Sopa Instantánea Andina,Andina,690,484
+GON-0569,Góndola,Abarrotes,Sopa Instantánea Del Valle Sur,Del Valle Sur,690,449
+GON-0570,Góndola,Abarrotes,Sopa Instantánea Costa,Costa,590,398
+GON-0571,Góndola,Abarrotes,Sopa Instantánea Montaña,Montaña,690,522
+GON-0572,Góndola,Abarrotes,Sopa Instantánea Austral,Austral,690,492
+GON-0573,Góndola,Abarrotes,Sopa Instantánea Litoral,Litoral,690,490
+GON-0574,Góndola,Abarrotes,Puré Instantáneo Andina,Andina,1390,1020
+GON-0575,Góndola,Abarrotes,Puré Instantáneo Del Valle Sur,Del Valle Sur,1190,857
+GON-0576,Góndola,Abarrotes,Puré Instantáneo Costa,Costa,1190,880
+GON-0577,Góndola,Abarrotes,Puré Instantáneo Montaña,Montaña,1390,1025
+GON-0578,Góndola,Abarrotes,Puré Instantáneo Austral,Austral,1290,954
+GON-0579,Góndola,Abarrotes,Puré Instantáneo Litoral,Litoral,1290,875
+GON-0580,Góndola,Abarrotes,Lentejas 1kg Andina,Andina,2390,1580
+GON-0581,Góndola,Abarrotes,Lentejas 1kg Del Valle Sur,Del Valle Sur,2290,1670
+GON-0582,Góndola,Abarrotes,Lentejas 1kg Costa,Costa,1990,1382
+GON-0583,Góndola,Abarrotes,Lentejas 1kg Montaña,Montaña,2490,1631
+GON-0584,Góndola,Abarrotes,Lentejas 1kg Austral,Austral,2390,1681
+GON-0585,Góndola,Abarrotes,Lentejas 1kg Litoral,Litoral,2290,1725
+GON-0586,Góndola,Abarrotes,Porotos 1kg Andina,Andina,2890,2133
+GON-0587,Góndola,Abarrotes,Porotos 1kg Del Valle Sur,Del Valle Sur,2490,1594
+GON-0588,Góndola,Abarrotes,Porotos 1kg Costa,Costa,2390,1583
+GON-0589,Góndola,Abarrotes,Porotos 1kg Montaña,Montaña,2790,1839
+GON-0590,Góndola,Abarrotes,Porotos 1kg Austral,Austral,2590,1965
+GON-0591,Góndola,Abarrotes,Porotos 1kg Litoral,Litoral,2490,1678
+GON-0592,Góndola,Abarrotes,Garbanzos 1kg Andina,Andina,2590,1920
+GON-0593,Góndola,Abarrotes,Garbanzos 1kg Costa,Costa,2290,1559
+GON-0594,Góndola,Abarrotes,Garbanzos 1kg Montaña,Montaña,2590,1789
+GON-0595,Góndola,Abarrotes,Garbanzos 1kg Austral,Austral,2490,1629
+GON-0596,Góndola,Abarrotes,Garbanzos 1kg Litoral,Litoral,2490,1765
+GON-0597,Góndola,Abarrotes,Huevos 6u Andina,Andina,1990,1417
+GON-0598,Góndola,Abarrotes,Huevos 6u Del Valle Sur,Del Valle Sur,1790,1207
+GON-0599,Góndola,Abarrotes,Huevos 6u Costa,Costa,1690,1266
+GON-0600,Góndola,Abarrotes,Huevos 6u Montaña,Montaña,2190,1424
+GON-0601,Góndola,Abarrotes,Huevos 6u Austral,Austral,1890,1364
+GON-0602,Góndola,Abarrotes,Huevos 6u Litoral,Litoral,1790,1191
+GON-0603,Góndola,Abarrotes,Huevos 12u Andina,Andina,3590,2360
+GON-0604,Góndola,Abarrotes,Huevos 12u Del Valle Sur,Del Valle Sur,3290,2422
+GON-0605,Góndola,Abarrotes,Huevos 12u Costa,Costa,3290,2162
+GON-0606,Góndola,Abarrotes,Huevos 12u Montaña,Montaña,3790,2777
+GON-0607,Góndola,Abarrotes,Huevos 12u Austral,Austral,3590,2467
+GON-0608,Góndola,Abarrotes,Huevos 12u Litoral,Litoral,3490,2396
+GON-0609,Góndola,Abarrotes,Fideos Instantáneos Andina,Andina,790,560
+GON-0610,Góndola,Abarrotes,Fideos Instantáneos Del Valle Sur,Del Valle Sur,690,506
+GON-0611,Góndola,Abarrotes,Fideos Instantáneos Costa,Costa,690,467
+GON-0612,Góndola,Abarrotes,Fideos Instantáneos Montaña,Montaña,890,583
+GON-0613,Góndola,Abarrotes,Fideos Instantáneos Austral,Austral,790,526
+GON-0614,Góndola,Abarrotes,Fideos Instantáneos Litoral,Litoral,690,451
+GON-0615,Góndola,Cuidado personal,Shampoo 400ml Andina,Andina,3590,2520
+GON-0616,Góndola,Cuidado personal,Shampoo 400ml Del Valle Sur,Del Valle Sur,3190,2232
+GON-0617,Góndola,Cuidado personal,Shampoo 400ml Costa,Costa,3290,2159
+GON-0618,Góndola,Cuidado personal,Shampoo 400ml Montaña,Montaña,3790,2837
+GON-0619,Góndola,Cuidado personal,Shampoo 400ml Austral,Austral,3490,2349
+GON-0620,Góndola,Cuidado personal,Shampoo 400ml Litoral,Litoral,3490,2336
+GON-0621,Góndola,Cuidado personal,Acondicionador 400ml Andina,Andina,3790,2544
+GON-0622,Góndola,Cuidado personal,Acondicionador 400ml Del Valle Sur,Del Valle Sur,3290,2115
+GON-0623,Góndola,Cuidado personal,Acondicionador 400ml Montaña,Montaña,3790,2668
+GON-0624,Góndola,Cuidado personal,Acondicionador 400ml Austral,Austral,3490,2399
+GON-0625,Góndola,Cuidado personal,Acondicionador 400ml Litoral,Litoral,3490,2412
+GON-0626,Góndola,Cuidado personal,Jabón x3 Del Valle Sur,Del Valle Sur,2090,1385
+GON-0627,Góndola,Cuidado personal,Jabón x3 Costa,Costa,2090,1552
+GON-0628,Góndola,Cuidado personal,Jabón x3 Montaña,Montaña,2590,1897
+GON-0629,Góndola,Cuidado personal,Jabón x3 Austral,Austral,2290,1614
+GON-0630,Góndola,Cuidado personal,Jabón x3 Litoral,Litoral,2190,1558
+GON-0631,Góndola,Cuidado personal,Pasta Dental Andina,Andina,1990,1335
+GON-0632,Góndola,Cuidado personal,Pasta Dental Del Valle Sur,Del Valle Sur,1690,1220
+GON-0633,Góndola,Cuidado personal,Pasta Dental Costa,Costa,1590,1087
+GON-0634,Góndola,Cuidado personal,Pasta Dental Montaña,Montaña,2190,1524
+GON-0635,Góndola,Cuidado personal,Pasta Dental Austral,Austral,1990,1368
+GON-0636,Góndola,Cuidado personal,Pasta Dental Litoral,Litoral,1890,1322
+GON-0637,Góndola,Cuidado personal,Cepillo Dental Andina,Andina,1590,1189
+GON-0638,Góndola,Cuidado personal,Cepillo Dental Del Valle Sur,Del Valle Sur,1390,1008
+GON-0639,Góndola,Cuidado personal,Cepillo Dental Costa,Costa,1290,891
+GON-0640,Góndola,Cuidado personal,Cepillo Dental Montaña,Montaña,1590,1035
+GON-0641,Góndola,Cuidado personal,Cepillo Dental Austral,Austral,1490,1119
+GON-0642,Góndola,Cuidado personal,Cepillo Dental Litoral,Litoral,1390,996
+GON-0643,Góndola,Cuidado personal,Desodorante Andina,Andina,3290,2496
+GON-0644,Góndola,Cuidado personal,Desodorante Del Valle Sur,Del Valle Sur,2890,2011
+GON-0645,Góndola,Cuidado personal,Desodorante Costa,Costa,2790,2001
+GON-0646,Góndola,Cuidado personal,Desodorante Montaña,Montaña,3590,2407
+GON-0647,Góndola,Cuidado personal,Desodorante Austral,Austral,3190,2264
+GON-0648,Góndola,Cuidado personal,Desodorante Litoral,Litoral,3090,2238
+GON-0649,Góndola,Cuidado personal,Toallas Higiénicas Andina,Andina,2390,1780
+GON-0650,Góndola,Cuidado personal,Toallas Higiénicas Del Valle Sur,Del Valle Sur,2190,1586
+GON-0651,Góndola,Cuidado personal,Toallas Higiénicas Costa,Costa,2090,1354
+GON-0652,Góndola,Cuidado personal,Toallas Higiénicas Montaña,Montaña,2490,1643
+GON-0653,Góndola,Cuidado personal,Toallas Higiénicas Austral,Austral,2290,1652
+GON-0654,Góndola,Cuidado personal,Toallas Higiénicas Litoral,Litoral,1990,1283
+GON-0655,Góndola,Cuidado personal,Papel Higiénico 4 rollos Andina,Andina,2590,1697
+GON-0656,Góndola,Cuidado personal,Papel Higiénico 4 rollos Del Valle Sur,Del Valle Sur,2190,1461
+GON-0657,Góndola,Cuidado personal,Papel Higiénico 4 rollos Costa,Costa,2190,1469
+GON-0658,Góndola,Cuidado personal,Papel Higiénico 4 rollos Montaña,Montaña,2790,1810
+GON-0659,Góndola,Cuidado personal,Papel Higiénico 4 rollos Austral,Austral,2490,1784
+GON-0660,Góndola,Cuidado personal,Papel Higiénico 4 rollos Litoral,Litoral,2290,1618
+GON-0661,Góndola,Cuidado personal,Papel Higiénico 12 rollos Andina,Andina,6490,4457
+GON-0662,Góndola,Cuidado personal,Papel Higiénico 12 rollos Del Valle Sur,Del Valle Sur,6090,4624
+GON-0663,Góndola,Cuidado personal,Papel Higiénico 12 rollos Costa,Costa,6090,4320
+GON-0664,Góndola,Cuidado personal,Papel Higiénico 12 rollos Montaña,Montaña,7390,5128
+GON-0665,Góndola,Cuidado personal,Papel Higiénico 12 rollos Austral,Austral,6390,4690
+GON-0666,Góndola,Cuidado personal,Papel Higiénico 12 rollos Litoral,Litoral,6390,4705
+GON-0667,Góndola,Cuidado personal,Pañales M Andina,Andina,10790,7121
+GON-0668,Góndola,Cuidado personal,Pañales M Del Valle Sur,Del Valle Sur,9490,6381
+GON-0669,Góndola,Cuidado personal,Pañales M Costa,Costa,8690,6091
+GON-0670,Góndola,Cuidado personal,Pañales M Montaña,Montaña,11190,8149
+GON-0671,Góndola,Cuidado personal,Pañales M Litoral,Litoral,9490,6136
+GON-0672,Góndola,Cuidado personal,Pañales G Andina,Andina,11390,8494
+GON-0673,Góndola,Cuidado personal,Pañales G Del Valle Sur,Del Valle Sur,10190,7478
+GON-0674,Góndola,Cuidado personal,Pañales G Costa,Costa,9290,5988
+GON-0675,Góndola,Cuidado personal,Pañales G Montaña,Montaña,11890,8389
+GON-0676,Góndola,Cuidado personal,Pañales G Austral,Austral,10390,7446
+GON-0677,Góndola,Cuidado personal,Pañales G Litoral,Litoral,10090,7595
+GON-0678,Góndola,Cuidado personal,Pañales XG Andina,Andina,12590,8208
+GON-0679,Góndola,Cuidado personal,Pañales XG Del Valle Sur,Del Valle Sur,10990,7652
+GON-0680,Góndola,Cuidado personal,Pañales XG Costa,Costa,10590,7246
+GON-0681,Góndola,Cuidado personal,Pañales XG Montaña,Montaña,13590,10077
+GON-0682,Góndola,Cuidado personal,Pañales XG Austral,Austral,11990,7853
+GON-0683,Góndola,Cuidado personal,Pañales XG Litoral,Litoral,11590,8353
+GON-0684,Góndola,Cuidado personal,Afeitadora Desechable Andina,Andina,1490,1036
+GON-0685,Góndola,Cuidado personal,Afeitadora Desechable Del Valle Sur,Del Valle Sur,1390,991
+GON-0686,Góndola,Cuidado personal,Afeitadora Desechable Costa,Costa,1290,968
+GON-0687,Góndola,Cuidado personal,Afeitadora Desechable Montaña,Montaña,1590,1101
+GON-0688,Góndola,Cuidado personal,Afeitadora Desechable Austral,Austral,1590,1048
+GON-0689,Góndola,Cuidado personal,Afeitadora Desechable Litoral,Litoral,1390,914
+GON-0690,Góndola,Cuidado personal,Preservativos x3 Andina,Andina,2990,2161
+GON-0691,Góndola,Cuidado personal,Preservativos x3 Del Valle Sur,Del Valle Sur,2690,1934
+GON-0692,Góndola,Cuidado personal,Preservativos x3 Costa,Costa,2590,1716
+GON-0693,Góndola,Cuidado personal,Preservativos x3 Montaña,Montaña,3190,2052
+GON-0694,Góndola,Cuidado personal,Preservativos x3 Austral,Austral,2890,1860
+GON-0695,Góndola,Cuidado personal,Preservativos x3 Litoral,Litoral,2790,1930
+GON-0696,Góndola,Cuidado personal,Pañuelos Desechables Andina,Andina,690,452
+GON-0697,Góndola,Cuidado personal,Pañuelos Desechables Del Valle Sur,Del Valle Sur,590,422
+GON-0698,Góndola,Cuidado personal,Pañuelos Desechables Costa,Costa,590,411
+GON-0699,Góndola,Cuidado personal,Pañuelos Desechables Montaña,Montaña,590,379
+GON-0700,Góndola,Cuidado personal,Pañuelos Desechables Austral,Austral,590,433
+GON-0701,Góndola,Cuidado personal,Pañuelos Desechables Litoral,Litoral,590,391
+GON-0702,Góndola,Cuidado personal,Toallas Húmedas Andina,Andina,1790,1208
+GON-0703,Góndola,Cuidado personal,Toallas Húmedas Del Valle Sur,Del Valle Sur,1590,1056
+GON-0704,Góndola,Cuidado personal,Toallas Húmedas Costa,Costa,1490,1078
+GON-0705,Góndola,Cuidado personal,Toallas Húmedas Montaña,Montaña,1790,1287
+GON-0706,Góndola,Cuidado personal,Toallas Húmedas Austral,Austral,1590,1136
+GON-0707,Góndola,Cuidado personal,Toallas Húmedas Litoral,Litoral,1690,1142
+GON-0708,Góndola,Cuidado personal,Protector Solar Andina,Andina,8190,5636
+GON-0709,Góndola,Cuidado personal,Protector Solar Del Valle Sur,Del Valle Sur,7490,5004
+GON-0710,Góndola,Cuidado personal,Protector Solar Costa,Costa,7190,5087
+GON-0711,Góndola,Cuidado personal,Protector Solar Montaña,Montaña,8790,6373
+GON-0712,Góndola,Cuidado personal,Protector Solar Austral,Austral,8190,5337
+GON-0713,Góndola,Cuidado personal,Protector Solar Litoral,Litoral,7490,5058
+GON-0714,Góndola,Cuidado personal,Bálsamo Labial Andina,Andina,1890,1292
+GON-0715,Góndola,Cuidado personal,Bálsamo Labial Del Valle Sur,Del Valle Sur,1890,1285
+GON-0716,Góndola,Cuidado personal,Bálsamo Labial Costa,Costa,1690,1214
+GON-0717,Góndola,Cuidado personal,Bálsamo Labial Montaña,Montaña,2190,1565
+GON-0718,Góndola,Cuidado personal,Bálsamo Labial Austral,Austral,1890,1323
+GON-0719,Góndola,Cuidado personal,Bálsamo Labial Litoral,Litoral,1890,1412
+GON-0720,Góndola,Limpieza y hogar,Detergente Líquido 1L Andina,Andina,3590,2479
+GON-0721,Góndola,Limpieza y hogar,Detergente Líquido 1L Del Valle Sur,Del Valle Sur,3190,2222
+GON-0722,Góndola,Limpieza y hogar,Detergente Líquido 1L Costa,Costa,3190,2333
+GON-0723,Góndola,Limpieza y hogar,Detergente Líquido 3L Andina,Andina,9090,6200
+GON-0724,Góndola,Limpieza y hogar,Detergente Líquido 3L Del Valle Sur,Del Valle Sur,8390,5999
+GON-0725,Góndola,Limpieza y hogar,Detergente Líquido 3L Costa,Costa,8390,5748
+GON-0726,Góndola,Limpieza y hogar,Lavaloza 500ml Andina,Andina,1590,1167
+GON-0727,Góndola,Limpieza y hogar,Lavaloza 500ml Del Valle Sur,Del Valle Sur,1490,1030
+GON-0728,Góndola,Limpieza y hogar,Lavaloza 500ml Costa,Costa,1390,1039
+GON-0729,Góndola,Limpieza y hogar,Cloro 1L Andina,Andina,1090,709
+GON-0730,Góndola,Limpieza y hogar,Cloro 1L Del Valle Sur,Del Valle Sur,1090,711
+GON-0731,Góndola,Limpieza y hogar,Cloro 1L Costa,Costa,990,656
+GON-0732,Góndola,Limpieza y hogar,Limpiador Pisos 1L Andina,Andina,1990,1324
+GON-0733,Góndola,Limpieza y hogar,Limpiador Pisos 1L Del Valle Sur,Del Valle Sur,1690,1273
+GON-0734,Góndola,Limpieza y hogar,Limpiador Pisos 1L Costa,Costa,1690,1092
+GON-0735,Góndola,Limpieza y hogar,Esponjas x3 Andina,Andina,1290,882
+GON-0736,Góndola,Limpieza y hogar,Esponjas x3 Del Valle Sur,Del Valle Sur,1190,814
+GON-0737,Góndola,Limpieza y hogar,Esponjas x3 Costa,Costa,1090,811
+GON-0738,Góndola,Limpieza y hogar,Bolsas Basura x10 Andina,Andina,1590,1091
+GON-0739,Góndola,Limpieza y hogar,Bolsas Basura x10 Del Valle Sur,Del Valle Sur,1490,1066
+GON-0740,Góndola,Limpieza y hogar,Bolsas Basura x10 Costa,Costa,1390,1007
+GON-0741,Góndola,Limpieza y hogar,Servilletas Andina,Andina,890,659
+GON-0742,Góndola,Limpieza y hogar,Servilletas Del Valle Sur,Del Valle Sur,790,534
+GON-0743,Góndola,Limpieza y hogar,Servilletas Costa,Costa,790,550
+GON-0744,Góndola,Limpieza y hogar,Toalla de Papel Andina,Andina,2290,1734
+GON-0745,Góndola,Limpieza y hogar,Toalla de Papel Del Valle Sur,Del Valle Sur,2090,1543
+GON-0746,Góndola,Limpieza y hogar,Toalla de Papel Costa,Costa,1990,1447
+GON-0747,Góndola,Limpieza y hogar,Insecticida Andina,Andina,4190,2870
+GON-0748,Góndola,Limpieza y hogar,Insecticida Del Valle Sur,Del Valle Sur,3690,2687
+GON-0749,Góndola,Limpieza y hogar,Insecticida Costa,Costa,3490,2362
+GON-0750,Góndola,Limpieza y hogar,Fósforos Andina,Andina,390,282
+GON-0751,Góndola,Limpieza y hogar,Fósforos Del Valle Sur,Del Valle Sur,390,284
+GON-0752,Góndola,Limpieza y hogar,Fósforos Costa,Costa,390,277
+GON-0753,Góndola,Limpieza y hogar,Velas x6 Andina,Andina,1590,1032
+GON-0754,Góndola,Limpieza y hogar,Velas x6 Del Valle Sur,Del Valle Sur,1390,902
+GON-0755,Góndola,Limpieza y hogar,Velas x6 Costa,Costa,1390,971
+GON-0756,Góndola,Limpieza y hogar,Carbón 2.5kg Andina,Andina,3890,2579
+GON-0757,Góndola,Limpieza y hogar,Carbón 2.5kg Del Valle Sur,Del Valle Sur,3690,2666
+GON-0758,Góndola,Limpieza y hogar,Carbón 2.5kg Costa,Costa,3290,2348
+GON-0759,Góndola,Limpieza y hogar,Pilas AA x2 Andina,Andina,2490,1759
+GON-0760,Góndola,Limpieza y hogar,Pilas AA x2 Del Valle Sur,Del Valle Sur,2290,1558
+GON-0761,Góndola,Limpieza y hogar,Pilas AA x2 Costa,Costa,2290,1677
+GON-0762,Góndola,Limpieza y hogar,Pilas AAA x2 Andina,Andina,2690,1988
+GON-0763,Góndola,Limpieza y hogar,Pilas AAA x2 Del Valle Sur,Del Valle Sur,2290,1642
+GON-0764,Góndola,Limpieza y hogar,Pilas AAA x2 Costa,Costa,2190,1542
+GON-0765,Góndola,Limpieza y hogar,Cable USB-C Andina,Andina,5190,3656
+GON-0766,Góndola,Limpieza y hogar,Cable USB-C Del Valle Sur,Del Valle Sur,4690,3087
+GON-0767,Góndola,Limpieza y hogar,Cable USB-C Costa,Costa,4590,3448
+GON-0768,Góndola,Limpieza y hogar,Cargador Celular Andina,Andina,8390,6355
+GON-0769,Góndola,Limpieza y hogar,Cargador Celular Del Valle Sur,Del Valle Sur,7490,5331
+GON-0770,Góndola,Limpieza y hogar,Cargador Celular Costa,Costa,6790,4400
+GON-0771,Góndola,Limpieza y hogar,Paraguas Andina,Andina,7190,5025
+GON-0772,Góndola,Limpieza y hogar,Paraguas Del Valle Sur,Del Valle Sur,6690,4611
+GON-0773,Góndola,Limpieza y hogar,Paraguas Costa,Costa,6390,4807
+GON-0774,Góndola,Farmacia y mascotas,Paracetamol 500mg Montaña,Montaña,1290,952
+GON-0775,Góndola,Farmacia y mascotas,Paracetamol 500mg Austral,Austral,1190,816
+GON-0776,Góndola,Farmacia y mascotas,Paracetamol 500mg Litoral,Litoral,1090,821
+GON-0777,Góndola,Farmacia y mascotas,Ibuprofeno 400mg Montaña,Montaña,1690,1101
+GON-0778,Góndola,Farmacia y mascotas,Ibuprofeno 400mg Austral,Austral,1490,1056
+GON-0779,Góndola,Farmacia y mascotas,Ibuprofeno 400mg Litoral,Litoral,1490,987
+GON-0780,Góndola,Farmacia y mascotas,Antiácido Montaña,Montaña,2090,1401
+GON-0781,Góndola,Farmacia y mascotas,Antiácido Austral,Austral,1890,1266
+GON-0782,Góndola,Farmacia y mascotas,Antiácido Litoral,Litoral,1790,1336
+GON-0783,Góndola,Farmacia y mascotas,Pastillas Garganta Montaña,Montaña,1790,1187
+GON-0784,Góndola,Farmacia y mascotas,Pastillas Garganta Austral,Austral,1690,1191
+GON-0785,Góndola,Farmacia y mascotas,Pastillas Garganta Litoral,Litoral,1590,1019
+GON-0786,Góndola,Farmacia y mascotas,Curitas x10 Montaña,Montaña,1490,1043
+GON-0787,Góndola,Farmacia y mascotas,Curitas x10 Austral,Austral,1290,940
+GON-0788,Góndola,Farmacia y mascotas,Curitas x10 Litoral,Litoral,1190,897
+GON-0789,Góndola,Farmacia y mascotas,Alimento Perro 1kg Montaña,Montaña,3690,2580
+GON-0790,Góndola,Farmacia y mascotas,Alimento Perro 1kg Austral,Austral,3490,2528
+GON-0791,Góndola,Farmacia y mascotas,Alimento Perro 1kg Litoral,Litoral,3390,2449
+GON-0792,Góndola,Farmacia y mascotas,Alimento Gato 1kg Montaña,Montaña,4490,3354
+GON-0793,Góndola,Farmacia y mascotas,Alimento Gato 1kg Austral,Austral,3790,2497
+GON-0794,Góndola,Farmacia y mascotas,Alimento Gato 1kg Litoral,Litoral,3690,2696
+GON-0795,Góndola,Farmacia y mascotas,Snack Perro Montaña,Montaña,2190,1430
+GON-0796,Góndola,Farmacia y mascotas,Snack Perro Austral,Austral,1790,1160
+GON-0797,Góndola,Farmacia y mascotas,Snack Perro Litoral,Litoral,1790,1184
+GON-0798,Góndola,Farmacia y mascotas,Arena Gato 4kg Montaña,Montaña,5090,3682
+GON-0799,Góndola,Farmacia y mascotas,Arena Gato 4kg Austral,Austral,4490,3225
+GON-0800,Góndola,Farmacia y mascotas,Arena Gato 4kg Litoral,Litoral,4390,3199
+COO-0001,Cooler,Bebidas gaseosas,Bebida Cola Lata 350ml Andina,Andina,990,652
+COO-0002,Cooler,Bebidas gaseosas,Bebida Cola Lata 350ml Costa,Costa,790,526
+COO-0003,Cooler,Bebidas gaseosas,Bebida Cola 500ml Andina,Andina,1090,690
+COO-0004,Cooler,Bebidas gaseosas,Bebida Cola 500ml Del Valle Sur,Del Valle Sur,990,664
+COO-0005,Cooler,Bebidas gaseosas,Bebida Cola 500ml Costa,Costa,890,618
+COO-0006,Cooler,Bebidas gaseosas,Bebida Cola 1.5L Andina,Andina,1990,1330
+COO-0007,Cooler,Bebidas gaseosas,Bebida Cola 1.5L Costa,Costa,1690,1125
+COO-0008,Cooler,Bebidas gaseosas,Bebida Cola 2L Andina,Andina,2190,1312
+COO-0009,Cooler,Bebidas gaseosas,Bebida Cola 2L Del Valle Sur,Del Valle Sur,1890,1217
+COO-0010,Cooler,Bebidas gaseosas,Bebida Cola 2L Costa,Costa,1790,1042
+COO-0011,Cooler,Bebidas gaseosas,Bebida Cola 3L Andina,Andina,2990,1959
+COO-0012,Cooler,Bebidas gaseosas,Bebida Cola 3L Del Valle Sur,Del Valle Sur,2490,1579
+COO-0013,Cooler,Bebidas gaseosas,Bebida Cola Zero Lata 350ml Andina,Andina,990,623
+COO-0014,Cooler,Bebidas gaseosas,Bebida Cola Zero Lata 350ml Del Valle Sur,Del Valle Sur,890,537
+COO-0015,Cooler,Bebidas gaseosas,Bebida Cola Zero Lata 350ml Costa,Costa,790,516
+COO-0016,Cooler,Bebidas gaseosas,Bebida Cola Zero 500ml Del Valle Sur,Del Valle Sur,890,634
+COO-0017,Cooler,Bebidas gaseosas,Bebida Cola Zero 500ml Costa,Costa,890,520
+COO-0018,Cooler,Bebidas gaseosas,Bebida Cola Zero 1.5L Andina,Andina,1990,1182
+COO-0019,Cooler,Bebidas gaseosas,Bebida Cola Zero 1.5L Costa,Costa,1590,1085
+COO-0020,Cooler,Bebidas gaseosas,Bebida Cola Zero 2L Andina,Andina,2190,1444
+COO-0021,Cooler,Bebidas gaseosas,Bebida Cola Zero 2L Del Valle Sur,Del Valle Sur,2090,1344
+COO-0022,Cooler,Bebidas gaseosas,Bebida Cola Zero 2L Costa,Costa,1890,1136
+COO-0023,Cooler,Bebidas gaseosas,Bebida Cola Zero 3L Andina,Andina,2790,1669
+COO-0024,Cooler,Bebidas gaseosas,Bebida Cola Zero 3L Del Valle Sur,Del Valle Sur,2690,1752
+COO-0025,Cooler,Bebidas gaseosas,Bebida Cola Zero 3L Costa,Costa,2490,1516
+COO-0026,Cooler,Bebidas gaseosas,Bebida Naranja Lata 350ml Andina,Andina,890,595
+COO-0027,Cooler,Bebidas gaseosas,Bebida Naranja Lata 350ml Costa,Costa,690,405
+COO-0028,Cooler,Bebidas gaseosas,Bebida Naranja 500ml Andina,Andina,990,645
+COO-0029,Cooler,Bebidas gaseosas,Bebida Naranja 500ml Del Valle Sur,Del Valle Sur,890,531
+COO-0030,Cooler,Bebidas gaseosas,Bebida Naranja 500ml Costa,Costa,790,544
+COO-0031,Cooler,Bebidas gaseosas,Bebida Naranja 1.5L Andina,Andina,1790,1181
+COO-0032,Cooler,Bebidas gaseosas,Bebida Naranja 1.5L Del Valle Sur,Del Valle Sur,1590,1034
+COO-0033,Cooler,Bebidas gaseosas,Bebida Naranja 2L Andina,Andina,1990,1397
+COO-0034,Cooler,Bebidas gaseosas,Bebida Naranja 2L Del Valle Sur,Del Valle Sur,1790,1139
+COO-0035,Cooler,Bebidas gaseosas,Bebida Naranja 2L Costa,Costa,1790,1261
+COO-0036,Cooler,Bebidas gaseosas,Bebida Naranja 3L Andina,Andina,2690,1645
+COO-0037,Cooler,Bebidas gaseosas,Bebida Naranja 3L Del Valle Sur,Del Valle Sur,2290,1394
+COO-0038,Cooler,Bebidas gaseosas,Bebida Naranja 3L Costa,Costa,2190,1333
+COO-0039,Cooler,Bebidas gaseosas,Bebida Lima Limón Lata 350ml Andina,Andina,890,562
+COO-0040,Cooler,Bebidas gaseosas,Bebida Lima Limón Lata 350ml Del Valle Sur,Del Valle Sur,790,472
+COO-0041,Cooler,Bebidas gaseosas,Bebida Lima Limón Lata 350ml Costa,Costa,790,526
+COO-0042,Cooler,Bebidas gaseosas,Bebida Lima Limón 500ml Andina,Andina,990,675
+COO-0043,Cooler,Bebidas gaseosas,Bebida Lima Limón 500ml Del Valle Sur,Del Valle Sur,890,614
+COO-0044,Cooler,Bebidas gaseosas,Bebida Lima Limón 500ml Costa,Costa,890,603
+COO-0045,Cooler,Bebidas gaseosas,Bebida Lima Limón 1.5L Del Valle Sur,Del Valle Sur,1690,1209
+COO-0046,Cooler,Bebidas gaseosas,Bebida Lima Limón 1.5L Costa,Costa,1490,914
+COO-0047,Cooler,Bebidas gaseosas,Bebida Lima Limón 2L Andina,Andina,2090,1485
+COO-0048,Cooler,Bebidas gaseosas,Bebida Lima Limón 2L Del Valle Sur,Del Valle Sur,1890,1216
+COO-0049,Cooler,Bebidas gaseosas,Bebida Lima Limón 2L Costa,Costa,1690,1175
+COO-0050,Cooler,Bebidas gaseosas,Bebida Lima Limón 3L Andina,Andina,2690,1717
+COO-0051,Cooler,Bebidas gaseosas,Bebida Lima Limón 3L Del Valle Sur,Del Valle Sur,2490,1688
+COO-0052,Cooler,Bebidas gaseosas,Bebida Lima Limón 3L Costa,Costa,2290,1421
+COO-0053,Cooler,Bebidas gaseosas,Bebida Piña Lata 350ml Del Valle Sur,Del Valle Sur,790,487
+COO-0054,Cooler,Bebidas gaseosas,Bebida Piña Lata 350ml Costa,Costa,690,434
+COO-0055,Cooler,Bebidas gaseosas,Bebida Piña 500ml Del Valle Sur,Del Valle Sur,890,592
+COO-0056,Cooler,Bebidas gaseosas,Bebida Piña 500ml Costa,Costa,890,625
+COO-0057,Cooler,Bebidas gaseosas,Bebida Piña 1.5L Andina,Andina,1690,1194
+COO-0058,Cooler,Bebidas gaseosas,Bebida Piña 1.5L Del Valle Sur,Del Valle Sur,1590,985
+COO-0059,Cooler,Bebidas gaseosas,Bebida Piña 1.5L Costa,Costa,1490,959
+COO-0060,Cooler,Bebidas gaseosas,Bebida Piña 2L Andina,Andina,2190,1518
+COO-0061,Cooler,Bebidas gaseosas,Bebida Piña 2L Del Valle Sur,Del Valle Sur,1890,1206
+COO-0062,Cooler,Bebidas gaseosas,Bebida Piña 2L Costa,Costa,1690,1068
+COO-0063,Cooler,Bebidas gaseosas,Bebida Piña 3L Andina,Andina,2590,1521
+COO-0064,Cooler,Bebidas gaseosas,Bebida Piña 3L Del Valle Sur,Del Valle Sur,2490,1664
+COO-0065,Cooler,Bebidas gaseosas,Bebida Piña 3L Costa,Costa,2290,1436
+COO-0066,Cooler,Bebidas gaseosas,Ginger Ale Lata 350ml Andina,Andina,890,521
+COO-0067,Cooler,Bebidas gaseosas,Ginger Ale Lata 350ml Del Valle Sur,Del Valle Sur,890,534
+COO-0068,Cooler,Bebidas gaseosas,Ginger Ale Lata 350ml Costa,Costa,790,510
+COO-0069,Cooler,Bebidas gaseosas,Ginger Ale 500ml Andina,Andina,990,596
+COO-0070,Cooler,Bebidas gaseosas,Ginger Ale 500ml Del Valle Sur,Del Valle Sur,890,552
+COO-0071,Cooler,Bebidas gaseosas,Ginger Ale 500ml Costa,Costa,890,533
+COO-0072,Cooler,Bebidas gaseosas,Ginger Ale 1.5L Del Valle Sur,Del Valle Sur,1690,1095
+COO-0073,Cooler,Bebidas gaseosas,Ginger Ale 2L Andina,Andina,2190,1571
+COO-0074,Cooler,Bebidas gaseosas,Ginger Ale 2L Del Valle Sur,Del Valle Sur,1990,1332
+COO-0075,Cooler,Bebidas gaseosas,Ginger Ale 2L Costa,Costa,1890,1158
+COO-0076,Cooler,Bebidas gaseosas,Ginger Ale 3L Del Valle Sur,Del Valle Sur,2490,1752
+COO-0077,Cooler,Bebidas gaseosas,Agua Tónica Lata 350ml Andina,Andina,990,651
+COO-0078,Cooler,Bebidas gaseosas,Agua Tónica Lata 350ml Del Valle Sur,Del Valle Sur,890,554
+COO-0079,Cooler,Bebidas gaseosas,Agua Tónica Lata 350ml Costa,Costa,890,548
+COO-0080,Cooler,Bebidas gaseosas,Agua Tónica 500ml Andina,Andina,1090,702
+COO-0081,Cooler,Bebidas gaseosas,Agua Tónica 500ml Del Valle Sur,Del Valle Sur,990,581
+COO-0082,Cooler,Bebidas gaseosas,Agua Tónica 500ml Costa,Costa,890,556
+COO-0083,Cooler,Bebidas gaseosas,Agua Tónica 1.5L Del Valle Sur,Del Valle Sur,1690,1061
+COO-0084,Cooler,Bebidas gaseosas,Agua Tónica 1.5L Costa,Costa,1690,1030
+COO-0085,Cooler,Bebidas gaseosas,Agua Tónica 2L Andina,Andina,2390,1418
+COO-0086,Cooler,Bebidas gaseosas,Agua Tónica 2L Del Valle Sur,Del Valle Sur,1990,1289
+COO-0087,Cooler,Bebidas gaseosas,Agua Tónica 2L Costa,Costa,1990,1417
+COO-0088,Cooler,Bebidas gaseosas,Agua Tónica 3L Andina,Andina,3090,1797
+COO-0089,Cooler,Bebidas gaseosas,Agua Tónica 3L Del Valle Sur,Del Valle Sur,2590,1806
+COO-0090,Cooler,Bebidas gaseosas,Agua Tónica 3L Costa,Costa,2690,1780
+COO-0091,Cooler,Bebidas gaseosas,Bebida Frambuesa Lata 350ml Del Valle Sur,Del Valle Sur,790,556
+COO-0092,Cooler,Bebidas gaseosas,Bebida Frambuesa Lata 350ml Costa,Costa,790,557
+COO-0093,Cooler,Bebidas gaseosas,Bebida Frambuesa 500ml Del Valle Sur,Del Valle Sur,890,617
+COO-0094,Cooler,Bebidas gaseosas,Bebida Frambuesa 500ml Costa,Costa,790,488
+COO-0095,Cooler,Bebidas gaseosas,Bebida Frambuesa 1.5L Del Valle Sur,Del Valle Sur,1690,1155
+COO-0096,Cooler,Bebidas gaseosas,Bebida Frambuesa 1.5L Costa,Costa,1490,1011
+COO-0097,Cooler,Bebidas gaseosas,Bebida Frambuesa 2L Andina,Andina,2090,1337
+COO-0098,Cooler,Bebidas gaseosas,Bebida Frambuesa 2L Del Valle Sur,Del Valle Sur,1890,1333
+COO-0099,Cooler,Bebidas gaseosas,Bebida Frambuesa 2L Costa,Costa,1790,1239
+COO-0100,Cooler,Bebidas gaseosas,Bebida Frambuesa 3L Andina,Andina,2590,1855
+COO-0101,Cooler,Bebidas gaseosas,Bebida Frambuesa 3L Del Valle Sur,Del Valle Sur,2290,1516
+COO-0102,Cooler,Bebidas gaseosas,Bebida Frambuesa 3L Costa,Costa,2290,1582
+COO-0103,Cooler,Aguas,Agua Mineral Sin Gas 500ml Montaña,Montaña,890,528
+COO-0104,Cooler,Aguas,Agua Mineral Sin Gas 500ml Austral,Austral,790,548
+COO-0105,Cooler,Aguas,Agua Mineral Sin Gas 500ml Litoral,Litoral,790,504
+COO-0106,Cooler,Aguas,Agua Mineral Sin Gas 1.6L Montaña,Montaña,1390,945
+COO-0107,Cooler,Aguas,Agua Mineral Sin Gas 1.6L Austral,Austral,1290,920
+COO-0108,Cooler,Aguas,Agua Mineral Sin Gas 6L Montaña,Montaña,2790,1666
+COO-0109,Cooler,Aguas,Agua Mineral Sin Gas 6L Austral,Austral,2490,1518
+COO-0110,Cooler,Aguas,Agua Mineral Con Gas 500ml Montaña,Montaña,990,634
+COO-0111,Cooler,Aguas,Agua Mineral Con Gas 500ml Austral,Austral,790,534
+COO-0112,Cooler,Aguas,Agua Mineral Con Gas 500ml Litoral,Litoral,790,537
+COO-0113,Cooler,Aguas,Agua Mineral Con Gas 1.6L Montaña,Montaña,1490,943
+COO-0114,Cooler,Aguas,Agua Mineral Con Gas 1.6L Austral,Austral,1490,921
+COO-0115,Cooler,Aguas,Agua Mineral Con Gas 1.6L Litoral,Litoral,1390,833
+COO-0116,Cooler,Aguas,Agua Mineral Con Gas 6L Montaña,Montaña,3090,2005
+COO-0117,Cooler,Aguas,Agua Mineral Con Gas 6L Austral,Austral,2690,1863
+COO-0118,Cooler,Aguas,Agua Saborizada Limón 500ml Montaña,Montaña,1090,760
+COO-0119,Cooler,Aguas,Agua Saborizada Limón 500ml Austral,Austral,890,564
+COO-0120,Cooler,Aguas,Agua Saborizada Limón 500ml Litoral,Litoral,890,517
+COO-0121,Cooler,Aguas,Agua Saborizada Limón 1.6L Montaña,Montaña,1690,1068
+COO-0122,Cooler,Aguas,Agua Saborizada Limón 1.6L Austral,Austral,1590,1035
+COO-0123,Cooler,Aguas,Agua Saborizada Limón 6L Montaña,Montaña,3390,2127
+COO-0124,Cooler,Aguas,Agua Saborizada Limón 6L Austral,Austral,3190,2117
+COO-0125,Cooler,Aguas,Agua Saborizada Limón 6L Litoral,Litoral,2890,1978
+COO-0126,Cooler,Aguas,Agua Saborizada Pomelo 500ml Montaña,Montaña,990,604
+COO-0127,Cooler,Aguas,Agua Saborizada Pomelo 500ml Austral,Austral,890,574
+COO-0128,Cooler,Aguas,Agua Saborizada Pomelo 500ml Litoral,Litoral,890,600
+COO-0129,Cooler,Aguas,Agua Saborizada Pomelo 1.6L Montaña,Montaña,1790,1170
+COO-0130,Cooler,Aguas,Agua Saborizada Pomelo 1.6L Austral,Austral,1590,1089
+COO-0131,Cooler,Aguas,Agua Saborizada Pomelo 1.6L Litoral,Litoral,1590,1022
+COO-0132,Cooler,Aguas,Agua Saborizada Pomelo 6L Austral,Austral,2990,2111
+COO-0133,Cooler,Aguas,Agua Saborizada Pomelo 6L Litoral,Litoral,2790,1870
+COO-0134,Cooler,Aguas,Agua Saborizada Durazno 500ml Montaña,Montaña,1090,766
+COO-0135,Cooler,Aguas,Agua Saborizada Durazno 500ml Austral,Austral,990,708
+COO-0136,Cooler,Aguas,Agua Saborizada Durazno 1.6L Montaña,Montaña,1790,1200
+COO-0137,Cooler,Aguas,Agua Saborizada Durazno 1.6L Austral,Austral,1490,894
+COO-0138,Cooler,Aguas,Agua Saborizada Durazno 1.6L Litoral,Litoral,1490,874
+COO-0139,Cooler,Aguas,Agua Saborizada Durazno 6L Montaña,Montaña,3190,1950
+COO-0140,Cooler,Aguas,Agua Saborizada Durazno 6L Litoral,Litoral,3090,2024
+COO-0141,Cooler,Energéticas e isotónicas,Energética Original 250ml Montaña,Montaña,1190,754
+COO-0142,Cooler,Energéticas e isotónicas,Energética Original 250ml Litoral,Litoral,1090,671
+COO-0143,Cooler,Energéticas e isotónicas,Energética Original 473ml Litoral,Litoral,1490,886
+COO-0144,Cooler,Energéticas e isotónicas,Energética Original 750ml Montaña,Montaña,2390,1673
+COO-0145,Cooler,Energéticas e isotónicas,Energética Original 750ml Litoral,Litoral,1990,1327
+COO-0146,Cooler,Energéticas e isotónicas,Energética Sin Azúcar 250ml Montaña,Montaña,1290,887
+COO-0147,Cooler,Energéticas e isotónicas,Energética Sin Azúcar 250ml Austral,Austral,1090,702
+COO-0148,Cooler,Energéticas e isotónicas,Energética Sin Azúcar 473ml Montaña,Montaña,1690,1073
+COO-0149,Cooler,Energéticas e isotónicas,Energética Sin Azúcar 473ml Austral,Austral,1590,922
+COO-0150,Cooler,Energéticas e isotónicas,Energética Sin Azúcar 473ml Litoral,Litoral,1390,830
+COO-0151,Cooler,Energéticas e isotónicas,Energética Sin Azúcar 750ml Montaña,Montaña,2390,1634
+COO-0152,Cooler,Energéticas e isotónicas,Energética Sin Azúcar 750ml Austral,Austral,1990,1376
+COO-0153,Cooler,Energéticas e isotónicas,Energética Sin Azúcar 750ml Litoral,Litoral,1990,1258
+COO-0154,Cooler,Energéticas e isotónicas,Energética Tropical 250ml Montaña,Montaña,1190,823
+COO-0155,Cooler,Energéticas e isotónicas,Energética Tropical 250ml Austral,Austral,1090,781
+COO-0156,Cooler,Energéticas e isotónicas,Energética Tropical 250ml Litoral,Litoral,1090,708
+COO-0157,Cooler,Energéticas e isotónicas,Energética Tropical 473ml Austral,Austral,1490,967
+COO-0158,Cooler,Energéticas e isotónicas,Energética Tropical 473ml Litoral,Litoral,1390,869
+COO-0159,Cooler,Energéticas e isotónicas,Energética Tropical 750ml Montaña,Montaña,2290,1475
+COO-0160,Cooler,Energéticas e isotónicas,Energética Tropical 750ml Austral,Austral,2090,1285
+COO-0161,Cooler,Energéticas e isotónicas,Energética Tropical 750ml Litoral,Litoral,2090,1384
+COO-0162,Cooler,Energéticas e isotónicas,Energética Berries 250ml Montaña,Montaña,1290,869
+COO-0163,Cooler,Energéticas e isotónicas,Energética Berries 250ml Austral,Austral,1090,767
+COO-0164,Cooler,Energéticas e isotónicas,Energética Berries 250ml Litoral,Litoral,1090,648
+COO-0165,Cooler,Energéticas e isotónicas,Energética Berries 473ml Montaña,Montaña,1590,1045
+COO-0166,Cooler,Energéticas e isotónicas,Energética Berries 473ml Austral,Austral,1490,1023
+COO-0167,Cooler,Energéticas e isotónicas,Energética Berries 473ml Litoral,Litoral,1490,944
+COO-0168,Cooler,Energéticas e isotónicas,Energética Berries 750ml Montaña,Montaña,2390,1529
+COO-0169,Cooler,Energéticas e isotónicas,Energética Berries 750ml Austral,Austral,2090,1299
+COO-0170,Cooler,Energéticas e isotónicas,Energética Berries 750ml Litoral,Litoral,2090,1270
+COO-0171,Cooler,Energéticas e isotónicas,Isotónica Naranja 250ml Montaña,Montaña,990,603
+COO-0172,Cooler,Energéticas e isotónicas,Isotónica Naranja 250ml Austral,Austral,890,526
+COO-0173,Cooler,Energéticas e isotónicas,Isotónica Naranja 250ml Litoral,Litoral,790,506
+COO-0174,Cooler,Energéticas e isotónicas,Isotónica Naranja 473ml Montaña,Montaña,1390,980
+COO-0175,Cooler,Energéticas e isotónicas,Isotónica Naranja 473ml Austral,Austral,1190,782
+COO-0176,Cooler,Energéticas e isotónicas,Isotónica Naranja 473ml Litoral,Litoral,1190,793
+COO-0177,Cooler,Energéticas e isotónicas,Isotónica Naranja 750ml Montaña,Montaña,1790,1263
+COO-0178,Cooler,Energéticas e isotónicas,Isotónica Naranja 750ml Austral,Austral,1790,1095
+COO-0179,Cooler,Energéticas e isotónicas,Isotónica Naranja 750ml Litoral,Litoral,1590,998
+COO-0180,Cooler,Energéticas e isotónicas,Isotónica Uva 250ml Montaña,Montaña,990,599
+COO-0181,Cooler,Energéticas e isotónicas,Isotónica Uva 250ml Austral,Austral,890,526
+COO-0182,Cooler,Energéticas e isotónicas,Isotónica Uva 250ml Litoral,Litoral,890,615
+COO-0183,Cooler,Energéticas e isotónicas,Isotónica Uva 473ml Austral,Austral,1190,795
+COO-0184,Cooler,Energéticas e isotónicas,Isotónica Uva 473ml Litoral,Litoral,1090,764
+COO-0185,Cooler,Energéticas e isotónicas,Isotónica Uva 750ml Austral,Austral,1690,1017
+COO-0186,Cooler,Energéticas e isotónicas,Isotónica Uva 750ml Litoral,Litoral,1690,1024
+COO-0187,Cooler,Energéticas e isotónicas,Isotónica Limón 250ml Montaña,Montaña,990,707
+COO-0188,Cooler,Energéticas e isotónicas,Isotónica Limón 250ml Austral,Austral,890,542
+COO-0189,Cooler,Energéticas e isotónicas,Isotónica Limón 250ml Litoral,Litoral,890,559
+COO-0190,Cooler,Energéticas e isotónicas,Isotónica Limón 473ml Austral,Austral,1190,737
+COO-0191,Cooler,Energéticas e isotónicas,Isotónica Limón 473ml Litoral,Litoral,1190,828
+COO-0192,Cooler,Energéticas e isotónicas,Isotónica Limón 750ml Montaña,Montaña,1790,1176
+COO-0193,Cooler,Energéticas e isotónicas,Isotónica Limón 750ml Austral,Austral,1690,1134
+COO-0194,Cooler,Energéticas e isotónicas,Isotónica Limón 750ml Litoral,Litoral,1590,1003
+COO-0195,Cooler,Jugos y tés fríos,Jugo Naranja 200ml Andina,Andina,790,537
+COO-0196,Cooler,Jugos y tés fríos,Jugo Naranja 200ml Del Valle Sur,Del Valle Sur,690,413
+COO-0197,Cooler,Jugos y tés fríos,Jugo Naranja 200ml Costa,Costa,590,346
+COO-0198,Cooler,Jugos y tés fríos,Jugo Naranja 500ml Andina,Andina,1290,876
+COO-0199,Cooler,Jugos y tés fríos,Jugo Naranja 500ml Del Valle Sur,Del Valle Sur,1190,846
+COO-0200,Cooler,Jugos y tés fríos,Jugo Naranja 500ml Costa,Costa,1190,748
+COO-0201,Cooler,Jugos y tés fríos,Jugo Naranja 1.5L Andina,Andina,2490,1739
+COO-0202,Cooler,Jugos y tés fríos,Jugo Naranja 1.5L Del Valle Sur,Del Valle Sur,2390,1409
+COO-0203,Cooler,Jugos y tés fríos,Jugo Naranja 1.5L Costa,Costa,2190,1332
+COO-0204,Cooler,Jugos y tés fríos,Néctar Durazno 200ml Del Valle Sur,Del Valle Sur,490,347
+COO-0205,Cooler,Jugos y tés fríos,Néctar Durazno 200ml Costa,Costa,490,299
+COO-0206,Cooler,Jugos y tés fríos,Néctar Durazno 500ml Andina,Andina,1090,705
+COO-0207,Cooler,Jugos y tés fríos,Néctar Durazno 1.5L Andina,Andina,1990,1301
+COO-0208,Cooler,Jugos y tés fríos,Néctar Durazno 1.5L Costa,Costa,1690,1066
+COO-0209,Cooler,Jugos y tés fríos,Néctar Piña 200ml Andina,Andina,590,410
+COO-0210,Cooler,Jugos y tés fríos,Néctar Piña 200ml Del Valle Sur,Del Valle Sur,490,312
+COO-0211,Cooler,Jugos y tés fríos,Néctar Piña 200ml Costa,Costa,490,287
+COO-0212,Cooler,Jugos y tés fríos,Néctar Piña 500ml Andina,Andina,990,645
+COO-0213,Cooler,Jugos y tés fríos,Néctar Piña 500ml Del Valle Sur,Del Valle Sur,890,614
+COO-0214,Cooler,Jugos y tés fríos,Néctar Piña 500ml Costa,Costa,890,593
+COO-0215,Cooler,Jugos y tés fríos,Néctar Piña 1.5L Andina,Andina,1990,1259
+COO-0216,Cooler,Jugos y tés fríos,Néctar Piña 1.5L Del Valle Sur,Del Valle Sur,1790,1172
+COO-0217,Cooler,Jugos y tés fríos,Jugo Manzana 200ml Andina,Andina,690,446
+COO-0218,Cooler,Jugos y tés fríos,Jugo Manzana 200ml Costa,Costa,590,381
+COO-0219,Cooler,Jugos y tés fríos,Jugo Manzana 500ml Del Valle Sur,Del Valle Sur,990,604
+COO-0220,Cooler,Jugos y tés fríos,Jugo Manzana 500ml Costa,Costa,990,583
+COO-0221,Cooler,Jugos y tés fríos,Jugo Manzana 1.5L Andina,Andina,2190,1309
+COO-0222,Cooler,Jugos y tés fríos,Jugo Manzana 1.5L Del Valle Sur,Del Valle Sur,1990,1244
+COO-0223,Cooler,Jugos y tés fríos,Jugo Manzana 1.5L Costa,Costa,1890,1147
+COO-0224,Cooler,Jugos y tés fríos,Néctar Frutilla 200ml Andina,Andina,590,398
+COO-0225,Cooler,Jugos y tés fríos,Néctar Frutilla 200ml Del Valle Sur,Del Valle Sur,490,351
+COO-0226,Cooler,Jugos y tés fríos,Néctar Frutilla 500ml Andina,Andina,990,663
+COO-0227,Cooler,Jugos y tés fríos,Néctar Frutilla 500ml Del Valle Sur,Del Valle Sur,890,605
+COO-0228,Cooler,Jugos y tés fríos,Néctar Frutilla 500ml Costa,Costa,890,626
+COO-0229,Cooler,Jugos y tés fríos,Néctar Frutilla 1.5L Andina,Andina,1990,1190
+COO-0230,Cooler,Jugos y tés fríos,Néctar Frutilla 1.5L Costa,Costa,1690,1214
+COO-0231,Cooler,Jugos y tés fríos,Néctar Multifruta 200ml Andina,Andina,590,422
+COO-0232,Cooler,Jugos y tés fríos,Néctar Multifruta 200ml Del Valle Sur,Del Valle Sur,490,309
+COO-0233,Cooler,Jugos y tés fríos,Néctar Multifruta 200ml Costa,Costa,490,304
+COO-0234,Cooler,Jugos y tés fríos,Néctar Multifruta 500ml Andina,Andina,1090,706
+COO-0235,Cooler,Jugos y tés fríos,Néctar Multifruta 1.5L Del Valle Sur,Del Valle Sur,1890,1310
+COO-0236,Cooler,Jugos y tés fríos,Néctar Multifruta 1.5L Costa,Costa,1790,1126
+COO-0237,Cooler,Jugos y tés fríos,Té Frío Limón 200ml Del Valle Sur,Del Valle Sur,490,297
+COO-0238,Cooler,Jugos y tés fríos,Té Frío Limón 200ml Costa,Costa,490,335
+COO-0239,Cooler,Jugos y tés fríos,Té Frío Limón 500ml Andina,Andina,1190,750
+COO-0240,Cooler,Jugos y tés fríos,Té Frío Limón 500ml Del Valle Sur,Del Valle Sur,990,603
+COO-0241,Cooler,Jugos y tés fríos,Té Frío Limón 500ml Costa,Costa,990,616
+COO-0242,Cooler,Jugos y tés fríos,Té Frío Limón 1.5L Andina,Andina,2290,1350
+COO-0243,Cooler,Jugos y tés fríos,Té Frío Limón 1.5L Del Valle Sur,Del Valle Sur,1890,1206
+COO-0244,Cooler,Jugos y tés fríos,Té Frío Limón 1.5L Costa,Costa,1890,1239
+COO-0245,Cooler,Jugos y tés fríos,Té Frío Durazno 200ml Del Valle Sur,Del Valle Sur,490,344
+COO-0246,Cooler,Jugos y tés fríos,Té Frío Durazno 200ml Costa,Costa,590,360
+COO-0247,Cooler,Jugos y tés fríos,Té Frío Durazno 500ml Del Valle Sur,Del Valle Sur,990,615
+COO-0248,Cooler,Jugos y tés fríos,Té Frío Durazno 1.5L Andina,Andina,2190,1301
+COO-0249,Cooler,Jugos y tés fríos,Té Frío Durazno 1.5L Del Valle Sur,Del Valle Sur,1990,1347
+COO-0250,Cooler,Jugos y tés fríos,Té Frío Durazno 1.5L Costa,Costa,1790,1227
+COO-0251,Cooler,Jugos y tés fríos,Limonada Menta Jengibre 200ml Del Valle Sur,Del Valle Sur,690,451
+COO-0252,Cooler,Jugos y tés fríos,Limonada Menta Jengibre 200ml Costa,Costa,690,457
+COO-0253,Cooler,Jugos y tés fríos,Limonada Menta Jengibre 500ml Andina,Andina,1390,898
+COO-0254,Cooler,Jugos y tés fríos,Limonada Menta Jengibre 500ml Del Valle Sur,Del Valle Sur,1290,865
+COO-0255,Cooler,Jugos y tés fríos,Limonada Menta Jengibre 500ml Costa,Costa,1190,741
+COO-0256,Cooler,Jugos y tés fríos,Limonada Menta Jengibre 1.5L Andina,Andina,2890,1925
+COO-0257,Cooler,Jugos y tés fríos,Limonada Menta Jengibre 1.5L Del Valle Sur,Del Valle Sur,2590,1520
+COO-0258,Cooler,Jugos y tés fríos,Limonada Menta Jengibre 1.5L Costa,Costa,2390,1444
+COO-0259,Cooler,Lácteos,Leche Entera Individual Del Valle Sur,Del Valle Sur,1190,774
+COO-0260,Cooler,Lácteos,Leche Entera Individual Costa,Costa,1090,760
+COO-0261,Cooler,Lácteos,Leche Entera Pack x4 Del Valle Sur,Del Valle Sur,3890,2540
+COO-0262,Cooler,Lácteos,Leche Entera Pack x4 Costa,Costa,3690,2643
+COO-0263,Cooler,Lácteos,Leche Semidescremada Individual Andina,Andina,1290,906
+COO-0264,Cooler,Lácteos,Leche Semidescremada Individual Del Valle Sur,Del Valle Sur,1090,663
+COO-0265,Cooler,Lácteos,Leche Semidescremada Individual Costa,Costa,1090,725
+COO-0266,Cooler,Lácteos,Leche Semidescremada Pack x4 Andina,Andina,4290,2609
+COO-0267,Cooler,Lácteos,Leche Semidescremada Pack x4 Del Valle Sur,Del Valle Sur,3990,2789
+COO-0268,Cooler,Lácteos,Leche Descremada Individual Del Valle Sur,Del Valle Sur,1190,775
+COO-0269,Cooler,Lácteos,Leche Descremada Individual Costa,Costa,1090,704
+COO-0270,Cooler,Lácteos,Leche Descremada Pack x4 Andina,Andina,4090,2389
+COO-0271,Cooler,Lácteos,Leche Descremada Pack x4 Del Valle Sur,Del Valle Sur,3990,2818
+COO-0272,Cooler,Lácteos,Leche Sin Lactosa Individual Andina,Andina,1390,983
+COO-0273,Cooler,Lácteos,Leche Sin Lactosa Individual Del Valle Sur,Del Valle Sur,1290,907
+COO-0274,Cooler,Lácteos,Leche Sin Lactosa Individual Costa,Costa,1290,863
+COO-0275,Cooler,Lácteos,Leche Sin Lactosa Pack x4 Andina,Andina,5090,3257
+COO-0276,Cooler,Lácteos,Leche Chocolate Individual Andina,Andina,1390,836
+COO-0277,Cooler,Lácteos,Leche Chocolate Individual Del Valle Sur,Del Valle Sur,1290,926
+COO-0278,Cooler,Lácteos,Leche Chocolate Individual Costa,Costa,1190,746
+COO-0279,Cooler,Lácteos,Leche Chocolate Pack x4 Andina,Andina,4590,3237
+COO-0280,Cooler,Lácteos,Leche Frutilla Individual Andina,Andina,1290,811
+COO-0281,Cooler,Lácteos,Leche Frutilla Individual Del Valle Sur,Del Valle Sur,1190,771
+COO-0282,Cooler,Lácteos,Leche Frutilla Individual Costa,Costa,1190,839
+COO-0283,Cooler,Lácteos,Leche Frutilla Pack x4 Andina,Andina,4790,3012
+COO-0284,Cooler,Lácteos,Leche Frutilla Pack x4 Del Valle Sur,Del Valle Sur,4390,2722
+COO-0285,Cooler,Lácteos,Leche Frutilla Pack x4 Costa,Costa,4090,2513
+COO-0286,Cooler,Lácteos,Bebida Almendra Individual Andina,Andina,2390,1513
+COO-0287,Cooler,Lácteos,Bebida Almendra Individual Costa,Costa,2090,1309
+COO-0288,Cooler,Lácteos,Bebida Almendra Pack x4 Andina,Andina,7890,4883
+COO-0289,Cooler,Lácteos,Bebida Almendra Pack x4 Del Valle Sur,Del Valle Sur,7790,5087
+COO-0290,Cooler,Lácteos,Bebida Almendra Pack x4 Costa,Costa,7190,4985
+COO-0291,Cooler,Lácteos,Bebida Avena Individual Andina,Andina,2290,1384
+COO-0292,Cooler,Lácteos,Bebida Avena Individual Costa,Costa,1890,1240
+COO-0293,Cooler,Lácteos,Bebida Avena Pack x4 Andina,Andina,7590,4845
+COO-0294,Cooler,Lácteos,Bebida Avena Pack x4 Del Valle Sur,Del Valle Sur,7090,4488
+COO-0295,Cooler,Lácteos,Bebida Avena Pack x4 Costa,Costa,6590,4293
+COO-0296,Cooler,Lácteos,Yogurt Frutilla Individual Andina,Andina,490,293
+COO-0297,Cooler,Lácteos,Yogurt Frutilla Individual Del Valle Sur,Del Valle Sur,390,273
+COO-0298,Cooler,Lácteos,Yogurt Frutilla Pack x4 Andina,Andina,1590,973
+COO-0299,Cooler,Lácteos,Yogurt Frutilla Pack x4 Del Valle Sur,Del Valle Sur,1490,906
+COO-0300,Cooler,Lácteos,Yogurt Frutilla Pack x4 Costa,Costa,1290,758
+COO-0301,Cooler,Lácteos,Yogurt Vainilla Individual Andina,Andina,490,320
+COO-0302,Cooler,Lácteos,Yogurt Vainilla Individual Costa,Costa,390,250
+COO-0303,Cooler,Lácteos,Yogurt Vainilla Pack x4 Andina,Andina,1590,947
+COO-0304,Cooler,Lácteos,Yogurt Vainilla Pack x4 Del Valle Sur,Del Valle Sur,1390,855
+COO-0305,Cooler,Lácteos,Yogurt Vainilla Pack x4 Costa,Costa,1290,910
+COO-0306,Cooler,Lácteos,Yogurt Natural Individual Andina,Andina,490,306
+COO-0307,Cooler,Lácteos,Yogurt Natural Individual Del Valle Sur,Del Valle Sur,390,249
+COO-0308,Cooler,Lácteos,Yogurt Natural Individual Costa,Costa,390,249
+COO-0309,Cooler,Lácteos,Yogurt Natural Pack x4 Andina,Andina,1590,1107
+COO-0310,Cooler,Lácteos,Yogurt Natural Pack x4 Del Valle Sur,Del Valle Sur,1390,810
+COO-0311,Cooler,Lácteos,Yogurt Natural Pack x4 Costa,Costa,1290,819
+COO-0312,Cooler,Lácteos,Yogurt Griego Individual Andina,Andina,790,558
+COO-0313,Cooler,Lácteos,Yogurt Griego Individual Del Valle Sur,Del Valle Sur,790,501
+COO-0314,Cooler,Lácteos,Yogurt Griego Individual Costa,Costa,690,408
+COO-0315,Cooler,Lácteos,Yogurt Griego Pack x4 Andina,Andina,2990,2116
+COO-0316,Cooler,Lácteos,Yogurt Griego Pack x4 Del Valle Sur,Del Valle Sur,2690,1880
+COO-0317,Cooler,Lácteos,Yogurt Griego Pack x4 Costa,Costa,2390,1478
+COO-0318,Cooler,Lácteos,Yogurt Batido Individual Andina,Andina,490,302
+COO-0319,Cooler,Lácteos,Yogurt Batido Individual Del Valle Sur,Del Valle Sur,490,292
+COO-0320,Cooler,Lácteos,Yogurt Batido Individual Costa,Costa,390,231
+COO-0321,Cooler,Lácteos,Yogurt Batido Pack x4 Andina,Andina,1790,1119
+COO-0322,Cooler,Lácteos,Yogurt Batido Pack x4 Del Valle Sur,Del Valle Sur,1690,1064
+COO-0323,Cooler,Lácteos,Yogurt Batido Pack x4 Costa,Costa,1490,1032
+COO-0324,Cooler,Lácteos,Yogurt con Cereal Individual Andina,Andina,690,476
+COO-0325,Cooler,Lácteos,Yogurt con Cereal Pack x4 Andina,Andina,2490,1754
+COO-0326,Cooler,Lácteos,Yogurt con Cereal Pack x4 Costa,Costa,2190,1447
+COO-0327,Cooler,Refrigerados,Queso Laminado 250g Del Valle Sur,Del Valle Sur,3390,2358
+COO-0328,Cooler,Refrigerados,Queso Laminado 250g Costa,Costa,2990,2104
+COO-0329,Cooler,Refrigerados,Queso Laminado 250g Montaña,Montaña,3990,2480
+COO-0330,Cooler,Refrigerados,Queso Laminado 250g Austral,Austral,3590,2497
+COO-0331,Cooler,Refrigerados,Queso Laminado 250g Litoral,Litoral,3290,2025
+COO-0332,Cooler,Refrigerados,Jamón Pierna 250g Andina,Andina,3390,2280
+COO-0333,Cooler,Refrigerados,Jamón Pierna 250g Del Valle Sur,Del Valle Sur,3090,2019
+COO-0334,Cooler,Refrigerados,Jamón Pierna 250g Costa,Costa,2890,1700
+COO-0335,Cooler,Refrigerados,Jamón Pierna 250g Montaña,Montaña,3690,2192
+COO-0336,Cooler,Refrigerados,Jamón Pierna 250g Litoral,Litoral,3190,2233
+COO-0337,Cooler,Refrigerados,Jamón Pavo 250g Andina,Andina,3390,2086
+COO-0338,Cooler,Refrigerados,Jamón Pavo 250g Del Valle Sur,Del Valle Sur,2990,1868
+COO-0339,Cooler,Refrigerados,Jamón Pavo 250g Costa,Costa,2690,1577
+COO-0340,Cooler,Refrigerados,Jamón Pavo 250g Montaña,Montaña,3290,2342
+COO-0341,Cooler,Refrigerados,Jamón Pavo 250g Austral,Austral,3090,2077
+COO-0342,Cooler,Refrigerados,Jamón Pavo 250g Litoral,Litoral,2990,1897
+COO-0343,Cooler,Refrigerados,Queso Mantecoso 250g Andina,Andina,3890,2265
+COO-0344,Cooler,Refrigerados,Queso Mantecoso 250g Del Valle Sur,Del Valle Sur,3490,2064
+COO-0345,Cooler,Refrigerados,Queso Mantecoso 250g Costa,Costa,3390,2142
+COO-0346,Cooler,Refrigerados,Queso Mantecoso 250g Montaña,Montaña,3890,2713
+COO-0347,Cooler,Refrigerados,Queso Mantecoso 250g Austral,Austral,3390,2133
+COO-0348,Cooler,Refrigerados,Salame 150g Andina,Andina,3190,1981
+COO-0349,Cooler,Refrigerados,Salame 150g Costa,Costa,2590,1540
+COO-0350,Cooler,Refrigerados,Salame 150g Montaña,Montaña,3190,2083
+COO-0351,Cooler,Refrigerados,Salame 150g Austral,Austral,2990,1829
+COO-0352,Cooler,Refrigerados,Mantequilla 250g Andina,Andina,2990,1814
+COO-0353,Cooler,Refrigerados,Mantequilla 250g Costa,Costa,2390,1405
+COO-0354,Cooler,Refrigerados,Mantequilla 250g Montaña,Montaña,2990,2140
+COO-0355,Cooler,Refrigerados,Mantequilla 250g Austral,Austral,2790,1834
+COO-0356,Cooler,Refrigerados,Mantequilla 250g Litoral,Litoral,2590,1579
+COO-0357,Cooler,Refrigerados,Flan Andina,Andina,690,461
+COO-0358,Cooler,Refrigerados,Flan Costa,Costa,590,372
+COO-0359,Cooler,Refrigerados,Flan Montaña,Montaña,790,567
+COO-0360,Cooler,Refrigerados,Flan Austral,Austral,690,421
+COO-0361,Cooler,Refrigerados,Flan Litoral,Litoral,690,431
+COO-0362,Cooler,Refrigerados,Leche Asada Andina,Andina,990,650
+COO-0363,Cooler,Refrigerados,Leche Asada Del Valle Sur,Del Valle Sur,790,525
+COO-0364,Cooler,Refrigerados,Leche Asada Costa,Costa,790,489
+COO-0365,Cooler,Refrigerados,Leche Asada Montaña,Montaña,990,618
+COO-0366,Cooler,Refrigerados,Leche Asada Austral,Austral,890,588
+COO-0367,Cooler,Refrigerados,Leche Asada Litoral,Litoral,790,476
+COO-0368,Cooler,Refrigerados,Arroz con Leche Andina,Andina,890,604
+COO-0369,Cooler,Refrigerados,Arroz con Leche Del Valle Sur,Del Valle Sur,790,504
+COO-0370,Cooler,Refrigerados,Arroz con Leche Costa,Costa,690,466
+COO-0371,Cooler,Refrigerados,Arroz con Leche Montaña,Montaña,890,586
+COO-0372,Cooler,Refrigerados,Arroz con Leche Litoral,Litoral,790,544
+COO-0373,Cooler,Refrigerados,Mousse Chocolate Andina,Andina,990,595
+COO-0374,Cooler,Refrigerados,Mousse Chocolate Del Valle Sur,Del Valle Sur,890,525
+COO-0375,Cooler,Refrigerados,Mousse Chocolate Costa,Costa,790,498
+COO-0376,Cooler,Refrigerados,Mousse Chocolate Montaña,Montaña,990,592
+COO-0377,Cooler,Refrigerados,Mousse Chocolate Austral,Austral,890,547
+COO-0378,Cooler,Helados y hielo,Paleta Chocolate Montaña,Montaña,990,626
+COO-0379,Cooler,Helados y hielo,Paleta Chocolate Austral,Austral,890,590
+COO-0380,Cooler,Helados y hielo,Paleta Frutilla Montaña,Montaña,890,612
+COO-0381,Cooler,Helados y hielo,Paleta Frutilla Austral,Austral,790,509
+COO-0382,Cooler,Helados y hielo,Paleta Frutilla Litoral,Litoral,790,480
+COO-0383,Cooler,Helados y hielo,Cono Vainilla Austral,Austral,1290,867
+COO-0384,Cooler,Helados y hielo,Cono Vainilla Litoral,Litoral,1290,891
+COO-0385,Cooler,Helados y hielo,Cono Chocolate Austral,Austral,1290,839
+COO-0386,Cooler,Helados y hielo,Cono Chocolate Litoral,Litoral,1290,831
+COO-0387,Cooler,Helados y hielo,Bombón Helado Montaña,Montaña,1590,947
+COO-0388,Cooler,Helados y hielo,Bombón Helado Austral,Austral,1490,1010
+COO-0389,Cooler,Helados y hielo,Bombón Helado Litoral,Litoral,1490,917
+COO-0390,Cooler,Helados y hielo,Sándwich Helado Montaña,Montaña,1190,756
+COO-0391,Cooler,Helados y hielo,Sándwich Helado Litoral,Litoral,1090,645
+COO-0392,Cooler,Helados y hielo,Helado 1L Chocolate Montaña,Montaña,4290,2890
+COO-0393,Cooler,Helados y hielo,Helado 1L Chocolate Austral,Austral,3790,2561
+COO-0394,Cooler,Helados y hielo,Helado 1L Chocolate Litoral,Litoral,3590,2436
+COO-0395,Cooler,Helados y hielo,Helado 1L Vainilla Austral,Austral,3590,2209
+COO-0396,Cooler,Helados y hielo,Helado 1L Vainilla Litoral,Litoral,3690,2193
+COO-0397,Cooler,Helados y hielo,Helado 1L Tres Sabores Montaña,Montaña,4190,2759
+COO-0398,Cooler,Helados y hielo,Helado 1L Tres Sabores Austral,Austral,3790,2199
+COO-0399,Cooler,Helados y hielo,Helado 1L Tres Sabores Litoral,Litoral,3890,2339
+COO-0400,Cooler,Helados y hielo,Hielo 2kg Litoral,Litoral,1490,976
