@@ -21,7 +21,7 @@ const nf = (n, dec = 0) => n.toLocaleString("es-CL", { minimumFractionDigits: de
 const pesos = (n) => "$" + nf(Math.round(n));
 function pesosCorto(n) {
   const a = Math.abs(n);
-  if (a >= 1e6) return "$" + nf(n / 1e6, a >= 1e8 ? 0 : 1) + " MM";
+  if (a >= 1e6) return "$" + nf(n / 1e6, a >= 1e8 || Number.isInteger(n / 1e6) ? 0 : 1) + " MM";
   if (a >= 1e3) return "$" + nf(n / 1e3) + " mil";
   return "$" + nf(n);
 }
@@ -90,6 +90,7 @@ function calcular() {
     ventaSegDow: D.segmentos.map(() => cero(7)),
     ventaCat: cero(nC), costoCat: cero(nC),
     ventaSegCat: D.segmentos.map(() => cero(nC)), // sin filtro de categoría
+    ventaTiendaCat: D.tiendas.map(() => cero(nC)), // sin filtro de categoría
     txHoraSeg: D.segmentos.map(() => cero(24)),
     ventaHoraCat: D.categorias.map(() => cero(24)),
     txMedio: cero(D.medios.length),
@@ -103,6 +104,7 @@ function calcular() {
   for (const [f, ti, ci, venta, costo, unid, tx] of D.diario) {
     if (!tiendaOk(ti)) continue;
     r.ventaSegCat[segDeTienda[ti]][ci] += venta;
+    r.ventaTiendaCat[ti][ci] += venta;
     if (!catOk(ci)) continue;
     r.venta += venta; r.costo += costo; r.unidades += unid;
     r.ventaDia[f] += venta;
@@ -423,7 +425,9 @@ let ultimo = null;
 function actualizar() {
   ultimo = calcular();
   dibujarKpis(ultimo);
-  if (pestanaActiva === "ventas") dibujarVentas(ultimo); else dibujarCategorias(ultimo);
+  if (pestanaActiva === "ventas") dibujarVentas(ultimo);
+  else if (pestanaActiva === "categorias") dibujarCategorias(ultimo);
+  else dibujarMezcla(ultimo); // está en mezcla.js
 }
 
 function configurarPestanas() {
@@ -431,8 +435,7 @@ function configurarPestanas() {
     boton.addEventListener("click", () => {
       pestanaActiva = boton.dataset.tab;
       document.querySelectorAll(".pestana").forEach((b) => b.setAttribute("aria-selected", String(b === boton)));
-      document.getElementById("tab-ventas").hidden = pestanaActiva !== "ventas";
-      document.getElementById("tab-categorias").hidden = pestanaActiva !== "categorias";
+      document.querySelectorAll(".panel").forEach((p) => { p.hidden = p.id !== `tab-${pestanaActiva}`; });
       actualizar();
     });
   });
@@ -455,7 +458,14 @@ async function iniciar() {
   texto("periodo", D.periodo);
   llenarFiltros();
   configurarPestanas();
+  configurarMezcla();
   actualizar();
+  // Al cambiar el tamaño de la ventana (o girar el celular) se redibuja la mezcla.
+  let espera;
+  addEventListener("resize", () => {
+    clearTimeout(espera);
+    espera = setTimeout(() => { if (pestanaActiva === "mezcla") dibujarMezcla(ultimo); }, 150);
+  });
   // Si el usuario cambia entre modo claro y oscuro, se redibujan los colores.
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", actualizar);
 }

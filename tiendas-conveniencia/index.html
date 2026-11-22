@@ -71,6 +71,7 @@
     <nav class="pestanas" role="tablist">
       <button role="tab" class="pestana" aria-selected="true" data-tab="ventas">Ventas y tiendas</button>
       <button role="tab" class="pestana" aria-selected="false" data-tab="categorias">Categorías y productos</button>
+      <button role="tab" class="pestana" aria-selected="false" data-tab="mezcla">Mezcla por tienda</button>
     </nav>
 
     <!-- DASHBOARD 1 -->
@@ -166,6 +167,35 @@
       </article>
     </section>
 
+    <!-- DASHBOARD 3 -->
+    <section class="panel" id="tab-mezcla" role="tabpanel" hidden>
+      <article class="tarjeta tarjeta--ancha">
+        <header class="tarjeta__cabeza">
+          <h2>Mezcla de categorías por tienda</h2>
+          <p id="mk-sub"></p>
+        </header>
+
+        <!-- Opciones de vista de este gráfico -->
+        <div class="mk-controles">
+          <div class="segmentado" role="group" aria-label="Mostrar como">
+            <button type="button" data-modo="pct" aria-pressed="true">% de la venta</button>
+            <button type="button" data-modo="monto" aria-pressed="false">Venta en $</button>
+          </div>
+          <label class="interruptor"><input type="checkbox" id="mk-agrupar"> Agrupar por segmento</label>
+          <label class="interruptor"><input type="checkbox" id="mk-grosor" checked> Grosor según venta</label>
+          <label class="mk-orden">Ordenar por <select id="mk-orden"></select></label>
+          <span id="mk-expandir" hidden>
+            <button type="button" class="boton-texto" data-accion="expandir">Abrir todos</button>
+            <button type="button" class="boton-texto" data-accion="contraer">Cerrar todos</button>
+          </span>
+        </div>
+
+        <div class="leyenda" id="l-mk"></div>
+        <div class="mk" id="mk" role="list"></div>
+        <details class="ver-datos"><summary>Ver datos en tabla</summary><div id="t-mk"></div></details>
+      </article>
+    </section>
+
     <p class="pie">
       Datos ficticios generados para practicar ·
       <a href="https://github.com/iszewkis-dotcom/demo-reclamos/tree/main/tiendas-conveniencia">Ver datos y supuestos</a>
@@ -174,6 +204,7 @@
 
   <!-- Chart.js: librería que dibuja los gráficos -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="dashboard/mezcla.js"></script>
   <script src="dashboard/dashboard.js"></script>
 </body>
 </html>
