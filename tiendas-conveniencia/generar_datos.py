@@ -291,11 +291,46 @@ prefijo = {"Tabaco": "TAB", "Café": "CAF", "Comida": "COM", "Góndola": "GON", 
 productos.insert(0, "sku", [f"{prefijo[c]}-{i:04d}" for c, i in
                             zip(productos.categoria, productos.groupby("categoria").cumcount() + 1)])
 
-# Popularidad base de cada SKU (pocos productos venden mucho: "ley de Pareto").
+# Popularidad de cada SKU. Combina tres cosas:
+#  1) qué tan seguido se compra ese tipo de producto (bebidas más que detergente),
+#  2) el precio (lo caro se vende menos), y
+#  3) un poco de azar: pocos productos venden mucho y muchos venden poco (Pareto).
+POPULARIDAD_BASE = {
+    "Cigarrillos": 1.0, "Tabaco para armar": 0.25, "Accesorios": 0.4,
+    "Café caliente": 1.0, "Bebida fría": 0.35,
+    "Hot dogs": 1.3, "Empanadas": 1.1, "Sándwiches": 1.0, "Bollería": 1.0,
+    "Pizza y wraps": 0.7, "Ensaladas y bowls": 0.5,
+    "Snacks salados": 1.0, "Chocolates y confites": 1.2, "Galletas": 0.8, "Abarrotes": 0.5,
+    "Cuidado personal": 0.2, "Limpieza y hogar": 0.15, "Farmacia y mascotas": 0.2,
+    "Bebidas gaseosas": 1.0, "Aguas": 0.9, "Energéticas e isotónicas": 0.7,
+    "Jugos y tés fríos": 0.6, "Lácteos": 0.5, "Refrigerados": 0.15, "Helados y hielo": 0.4,
+}
+SENSIBILIDAD_PRECIO = {"Tabaco": 0.0, "Café": 0.5, "Comida": 0.5, "Góndola": 0.9, "Cooler": 0.9}
+# Productos "clásicos" que se venden más que el resto de su tipo.
+CLASICOS = {"Americano": 1.8, "Cappuccino": 1.4, "Cortado": 1.2, "Mediano": 1.3, "Latte ": 0.6,
+            "Mocaccino": 0.6, "Completo Italiano": 1.8, "Empanada Pino": 1.6, "Ave Palta": 1.4,
+            "Barros Luco": 1.2, "Bebida Cola": 2.0, "Agua Mineral Sin Gas": 1.6, "500ml": 1.3,
+            "Lata 350ml": 1.3, "20u": 1.5, "Papas fritas Lisas": 1.5, "Chocolate Leche": 1.3,
+            "Chicle": 1.3, "Alfajor": 1.3, "Huevos": 2.0, "Pan Molde": 1.8, "Leche Entera": 1.5,
+            "Hielo": 1.5, "Encendedor": 1.5}
+
+
+def bono_clasico(nombre):
+    factor = 1.0
+    for clave, valor in CLASICOS.items():
+        if clave in nombre + " ":
+            factor *= valor
+    return factor
+
+
 productos["popularidad"] = 0.0
 for cat, idx in productos.groupby("categoria").groups.items():
-    rangos = rng.permutation(len(idx)) + 1
-    productos.loc[idx, "popularidad"] = 1 / rangos ** 0.85
+    sub = productos.loc[idx]
+    azar = rng.lognormal(0, 0.6, len(idx))
+    precio_rel = sub.precio_venta / sub.precio_venta.median()
+    productos.loc[idx, "popularidad"] = (sub.subcategoria.map(POPULARIDAD_BASE) * azar
+                                         * precio_rel ** -SENSIBILIDAD_PRECIO[cat]
+                                         * sub.nombre.map(bono_clasico))
 
 # Probabilidad de elegir cada SKU dentro de su categoría, por segmento.
 prob_sku = {}
@@ -316,7 +351,7 @@ PARAMS = {
         "feriado": 1.35,
         # Probabilidad de que una línea del ticket sea de cada categoría.
         "mix": {"Tabaco": 0.07, "Café": 0.20, "Comida": 0.25, "Góndola": 0.18, "Cooler": 0.30},
-        "lineas": [0.44, 0.29, 0.16, 0.07, 0.04],  # P(1, 2, 3, 4, 5 productos)
+        "lineas": [0.34, 0.30, 0.19, 0.10, 0.07],  # P(1, 2, 3, 4, 5 productos)
         "horas": [1.0, 0.7, 0.5, 0.5, 0.7, 1.5, 3.0, 4.5, 5.0, 5.0, 5.0, 5.5, 6.5, 7.0, 6.5,
                   6.0, 6.0, 6.5, 6.5, 5.5, 4.0, 3.0, 2.0, 1.5],
         "pagos": {"Débito": 0.45, "Crédito": 0.25, "Efectivo": 0.18, "App / QR": 0.12},
@@ -325,8 +360,8 @@ PARAMS = {
         "tx_base": 950,
         "dia_semana": [0.92, 0.91, 0.94, 0.97, 1.08, 1.16, 1.02],
         "feriado": 1.10,
-        "mix": {"Tabaco": 0.17, "Café": 0.07, "Comida": 0.08, "Góndola": 0.36, "Cooler": 0.32},
-        "lineas": [0.68, 0.21, 0.07, 0.03, 0.01],
+        "mix": {"Tabaco": 0.12, "Café": 0.07, "Comida": 0.08, "Góndola": 0.40, "Cooler": 0.33},
+        "lineas": [0.38, 0.28, 0.18, 0.10, 0.06],
         "horas": [0, 0, 0, 0, 0, 0, 0, 2.5, 4.0, 3.5, 3.5, 4.0, 5.0, 5.0, 4.5, 4.5, 5.0, 6.0,
                   7.5, 8.0, 7.5, 6.0, 4.0, 0],
         "pagos": {"Débito": 0.48, "Crédito": 0.10, "Efectivo": 0.30, "App / QR": 0.12},
@@ -336,7 +371,7 @@ PARAMS = {
         "dia_semana": [1.12, 1.14, 1.14, 1.12, 1.06, 0.58, 0.42],
         "feriado": 0.45,
         "mix": {"Tabaco": 0.08, "Café": 0.27, "Comida": 0.26, "Góndola": 0.15, "Cooler": 0.24},
-        "lineas": [0.62, 0.23, 0.10, 0.03, 0.02],
+        "lineas": [0.45, 0.28, 0.15, 0.07, 0.05],
         "horas": [0, 0, 0, 0, 0, 0, 0, 6.0, 9.5, 8.0, 5.5, 5.5, 8.5, 9.5, 8.0, 5.0, 5.0, 6.5,
                   7.0, 5.0, 3.0, 2.0, 1.5, 0],
         "pagos": {"Débito": 0.50, "Crédito": 0.18, "Efectivo": 0.12, "App / QR": 0.20},
