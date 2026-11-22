@@ -90,6 +90,9 @@ Todos los montos están en **pesos chilenos, IVA incluido**, sin decimales.
 - `dashboard/estilos.css`: diseño adaptable a celular, con modo claro y oscuro.
 - `preparar_dashboard.py`: crea `dashboard/datos.json` a partir de los CSV.
 
+**Al cambiar un archivo del dashboard**, sube el número `?v=` en `index.html` (por ejemplo, de `?v=4` a `?v=5`).
+Así los navegadores descargan la versión nueva en vez de usar una copia guardada (caché).
+
 Para verlo en tu computador sin publicarlo, abre una terminal en la carpeta raíz del repositorio y ejecuta
 `python3 -m http.server`. Luego visita `http://localhost:8000/tiendas-conveniencia/`.
 (Si abres el archivo con doble clic, el navegador no deja cargar los datos.)
