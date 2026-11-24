@@ -114,3 +114,14 @@ form .boton--primario { width: 100%; padding: 12px; }
 .vacio { text-align: center; color: var(--tenue); padding: 40px 16px; margin: 0; }
 
 .pie { text-align: center; color: var(--tenue); font-size: 0.85rem; padding: 20px 16px; border-top: 1px solid var(--borde); }
+
+/* Avisos adicionales, inicio de sesión y estados de carga */
+.aviso--info { background: #e8f0fa; color: var(--azul); border: 1px solid #c9dcf2; margin: 0 0 20px; }
+.aviso--error { background: var(--rojo-fondo); color: var(--rojo); border: 1px solid #f5c6c3; }
+.login { padding-top: 8px; }
+.login .aviso--error { margin: 0 0 16px; }
+.usuario { align-self: center; font-size: 0.9rem; }
+.boton:disabled { opacity: 0.6; cursor: wait; }
+@media (max-width: 560px) {
+  .acciones { flex-wrap: wrap; }
+}

@@ -38,7 +38,10 @@ function mostrarError(campo, mensaje) {
   document.getElementById(campo).classList.toggle("invalido", Boolean(mensaje));
 }
 
-formulario.addEventListener("submit", (evento) => {
+const botonEnviar = formulario.querySelector('button[type="submit"]');
+const avisoError = document.getElementById("error-envio");
+
+formulario.addEventListener("submit", async (evento) => {
   evento.preventDefault(); // Evita que el navegador recargue la página.
 
   const datos = {
@@ -62,13 +65,27 @@ formulario.addEventListener("submit", (evento) => {
 
   datos.rut = formatearRut(datos.rut);
 
-  // Clasificamos y guardamos.
+  // Clasificamos y guardamos. Guardar en internet toma un momento, por eso
+  // desactivamos el botón y esperamos la respuesta con "await".
   const clasificacion = clasificarReclamo(datos);
-  const reclamo = guardarReclamo({ ...datos, ...clasificacion });
-
-  formulario.reset();
-  confirmacion.hidden = false;
-  confirmacion.innerHTML =
-    `<strong>¡Reclamo recibido!</strong> Tu número de seguimiento es ` +
-    `<code>${reclamo.id.toUpperCase()}</code>. Te contactaremos pronto.`;
+  botonEnviar.disabled = true;
+  botonEnviar.textContent = "Enviando…";
+  avisoError.hidden = true;
+  try {
+    const reclamo = await guardarReclamo({ ...datos, ...clasificacion });
+    formulario.reset();
+    confirmacion.hidden = false;
+    confirmacion.innerHTML =
+      `<strong>¡Reclamo recibido!</strong> Tu número de seguimiento es ` +
+      `<code>${reclamo.id.slice(0, 8).toUpperCase()}</code>. Te contactaremos pronto.`;
+  } catch (error) {
+    // Si falla, no borramos el formulario para que la persona pueda reintentar.
+    console.error(error);
+    confirmacion.hidden = true;
+    avisoError.hidden = false;
+    avisoError.textContent = "No pudimos enviar tu reclamo. Revisa tu conexión e inténtalo de nuevo.";
+  } finally {
+    botonEnviar.disabled = false;
+    botonEnviar.textContent = "Enviar reclamo";
+  }
 });

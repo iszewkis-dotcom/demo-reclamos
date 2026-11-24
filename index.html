@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ingresar reclamo · Banco Andino</title>
-  <link rel="stylesheet" href="css/estilos.css">
+  <link rel="stylesheet" href="css/estilos.css?v=2">
 </head>
 <body>
   <header class="encabezado">
@@ -59,13 +59,18 @@
     </form>
 
     <div id="confirmacion" class="aviso aviso--exito" hidden></div>
+    <div id="error-envio" class="aviso aviso--error" role="alert" hidden></div>
   </main>
 
-  <footer class="pie">Aplicación de demostración · Los datos se guardan solo en este navegador.</footer>
+  <footer class="pie">Aplicación de demostración · Banco ficticio.</footer>
 
   <!-- El orden importa: primero el almacenamiento y la lógica, después la página -->
-  <script src="js/almacenamiento.js"></script>
-  <script src="js/clasificador.js"></script>
-  <script src="js/formulario.js"></script>
+  <!-- Librería de Supabase (base de datos en la nube) -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
+  <!-- El "?v=" es el número de versión: súbelo cuando cambies un archivo (evita copias antiguas en caché) -->
+  <script src="js/config.js?v=2"></script>
+  <script src="js/almacenamiento.js?v=2"></script>
+  <script src="js/clasificador.js?v=2"></script>
+  <script src="js/formulario.js?v=2"></script>
 </body>
 </html>
