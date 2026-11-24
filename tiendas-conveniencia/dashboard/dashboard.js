@@ -443,7 +443,7 @@ function configurarPestanas() {
 
 async function iniciar() {
   try {
-    const resp = await fetch("dashboard/datos.json");
+    const resp = await fetch("dashboard/datos.json?v=4"); // versión: ver index.html
     if (!resp.ok) throw new Error(resp.status);
     D = await resp.json();
   } catch (e) {

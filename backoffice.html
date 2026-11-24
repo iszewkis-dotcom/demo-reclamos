@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Backoffice · Banco Andino</title>
-  <link rel="stylesheet" href="css/estilos.css">
+  <link rel="stylesheet" href="css/estilos.css?v=2">
 </head>
 <body>
   <header class="encabezado">
@@ -21,14 +21,37 @@
   </header>
 
   <main class="contenedor">
+    <div id="aviso-modo" class="aviso aviso--info" hidden></div>
+
+    <!-- Inicio de sesión (solo cuando la app está conectada a Supabase) -->
+    <section id="seccion-login" class="contenedor--angosto login" hidden>
+      <h1>Backoffice</h1>
+      <p class="subtitulo">Ingresa con tu cuenta del equipo para ver los reclamos.</p>
+      <form id="formulario-login" class="tarjeta">
+        <div class="campo">
+          <label for="correo">Correo</label>
+          <input type="email" id="correo" autocomplete="username" required>
+        </div>
+        <div class="campo">
+          <label for="clave">Contraseña</label>
+          <input type="password" id="clave" autocomplete="current-password" required>
+        </div>
+        <p id="error-login" class="aviso aviso--error" role="alert" hidden></p>
+        <button type="submit" class="boton boton--primario">Ingresar</button>
+      </form>
+    </section>
+
+    <div id="contenido" hidden>
     <div class="titulo-con-acciones">
       <div>
         <h1>Backoffice de reclamos</h1>
         <p class="subtitulo">Revisa la clasificación automática y aprueba la respuesta sugerida.</p>
       </div>
       <div class="acciones">
+        <span id="usuario" class="tenue usuario" hidden></span>
         <button id="cargar-ejemplos" class="boton boton--secundario">Cargar ejemplos</button>
         <button id="borrar-todo" class="boton boton--peligro">Borrar todo</button>
+        <button id="cerrar-sesion" class="boton boton--secundario" hidden>Cerrar sesión</button>
       </div>
     </div>
 
@@ -52,13 +75,19 @@
       <p id="sin-reclamos" class="vacio" hidden>
         Aún no hay reclamos. Ingresa uno desde <a href="index.html">el formulario</a> o pulsa “Cargar ejemplos”.
       </p>
+      <p id="error-tabla" class="aviso aviso--error" role="alert" hidden></p>
+    </div>
     </div>
   </main>
 
-  <footer class="pie">Aplicación de demostración · Los datos se guardan solo en este navegador.</footer>
+  <footer class="pie">Aplicación de demostración · Banco ficticio.</footer>
 
-  <script src="js/almacenamiento.js"></script>
-  <script src="js/clasificador.js"></script>
-  <script src="js/backoffice.js"></script>
+  <!-- Librería de Supabase (base de datos en la nube) -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.118.0/dist/umd/supabase.js"></script>
+  <!-- El "?v=" es el número de versión: súbelo cuando cambies un archivo (evita copias antiguas en caché) -->
+  <script src="js/config.js?v=2"></script>
+  <script src="js/almacenamiento.js?v=2"></script>
+  <script src="js/clasificador.js?v=2"></script>
+  <script src="js/backoffice.js?v=2"></script>
 </body>
 </html>
